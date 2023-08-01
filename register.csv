@@ -51,8 +51,8 @@ Aktiespararnas beställ-tv,Beställ-TV,Sveriges Aktiesparares Riksförbund,,,,,
 "SVT Play, www.svtplay.se",Beställ-TV,Sveriges Television AB,,,,,
 UR play,Beställ-TV,Sveriges Utbildningsradio AB,,,,,
 Swedbank Direkt,Beställ-TV,Swedbank AB,,,,,
-"TV4 Play, http://www.tv4play.se",Beställ-TV,TV4 AB,,,,,
-"TV4.se, www.tv4.se",Beställ-TV,TV4 AB,,,,,
+"TV4 Play, http://www.tv4play.se",Beställ-TV,TV4 Aktiebolag,,,,,
+"TV4.se, www.tv4.se",Beställ-TV,TV4 Aktiebolag,,,,,
 DagenTV,Beställ-TV,Tidnings AB Nya Dagen,,,,,
 "vastmanland.tv, www.vastmanland.tv",Beställ-TV,"UNC, United Cameras Television i Köping AB",,,,,
 PlutoTV,Beställ-TV,VIMN Nordic AB,,,,,
@@ -190,7 +190,7 @@ http://vinvin.se,Databas,Allt om Mat på Nätet AB,Susanne B Olsson,,,,
 "Personal & Ledarskap med Lönejournalen, www.personalledarskap.se",Databas,Alma Talent Juridik AB,Elsa Frizell,,,,
 "Monthly Magazine, www.monthly.se",Databas,Almoust Famous,Johanna Kempenaar,,,,
 Nya Tider www.nyatider.nu,Databas,AlternaMedia AB,Vavrinec Suk,,,,
-lassejohansson.com,Databas,Alternativa Bokförlaget,Lars Johansson,,,,
+lassejohansson.com,Databas,Alternativa Bokfﾃｶrlaget,Lars Johansson,,,,
 "Alzheimerföreningen Sverige, www.alzheimerforeningen.se",Databas,Alzheimerföreningen Sverige,Krister Westerlund,,,,
 cirkuläraaffärer.se/cirkularaaffarer.se,Databas,Ann-Sofie Granzell,Ann-Sofie Granzell,,,,
 www.tidningenextra.se,Databas,Annonstidningen i Norrbotten AB,Lars Henrik Andersson,,,,
@@ -228,6 +228,7 @@ www.tidskriften-korrumperad.se,Databas,Bo Henningsson,Bo Henningsson,,,,
 www.jaktidag.se,Databas,Bok- och Tidskriftsförlaget Skarp idé och Kommunikation Handelbolag,Bo Svensson,,,,
 "WEB ONE, www.webone.nu",Databas,Bonitet Media AB,Lars Pekka,,,,
 "Hem & Antik hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",Databas,Bonnier Antik & Livsstil AB,Cecilia Lindblom,,,,
+"Privata Affärer, www.privataaffarer.se",Databas,Bonnier Business Media Sweden AB,Love Strandberg,,,,
 aktuellhallbarhet.se,Databas,Bonnier Business Media Sweden AB,Ylva Bergman,,,,
 dagensmedia.se,Databas,Bonnier Business Media Sweden AB,Linnea Kihlström,,,,
 dagligvarunytt.se,Databas,Bonnier Business Media Sweden AB,Fredrik Svedjetun,,,,
@@ -253,6 +254,7 @@ www.vainsights.se,Databas,Bonnier Business Media Sweden AB,Åsa Uhlin,,,,
 alltomvin.se,Databas,Bonnier Magazines & Brands AB,Stina Abenius,,,,
 tidningenlantliv.se,Databas,Bonnier Magazines & Brands AB,Stina Abenius,,,,
 www.wownews.se,Databas,Bonnier Magazines & Brands AB,Frida Boisen,,,,
+www.vetlandaposten.se,Databas,Bonnier News AB,Johan Hedberg,,,,
 Allehanda.se,Databas,Bonnier News Local AB,Sandra Bygdén Shameh,,,,
 "Arbetarbladet på nätet, www.arbetarbladet.se",Databas,Bonnier News Local AB,Jacob Hilding,,,,
 MittArabi (Nyhetsapp),Databas,Bonnier News Local AB,Anna Gullberg,,,,
@@ -263,6 +265,7 @@ Nuiosteraker.se,Databas,Bonnier News Local AB,Rikard Bäckman,,,,
 "Tidningen Nya Ludvika Tidning, www.mediearkivet.se",Databas,Bonnier News Local AB,Carl-Johan Bergman,,,,
 "Tidningen Södra Dalarnas Tidning, www.mediearkivet.se",Databas,Bonnier News Local AB,Carl-Johan Bergman,,,,
 borlangetidning.se,Databas,Bonnier News Local AB,Eric Nyholm,,,,
+falkopingstidning.se,Databas,Bonnier News Local AB,Adam Jönsson,,,,
 falukuriren.se,Databas,Bonnier News Local AB,Helena Nyman,,,,
 folkracepuls.se,Databas,Bonnier News Local AB,Jonas Stentäpp,,,,
 ht.se,Databas,Bonnier News Local AB,Mattias Guander,,,,
@@ -272,11 +275,13 @@ ljusnan.se,Databas,Bonnier News Local AB,Thomas Froms,,,,
 moratidning.se,Databas,Bonnier News Local AB,Mats Laggar,,,,
 mycketnöje.se,Databas,Bonnier News Local AB,Anders Ingvarsson,,,,
 nyaludvikatidning.se,Databas,Bonnier News Local AB,Bodil Resare,,,,
-skd.se,Databas,Bonnier News Local AB,Lena Philipson Fast,,,,
+skaraborgslanstidning.se,Databas,Bonnier News Local AB,Adam Jönsson,,,,
+skovdenyheter.se,Databas,Bonnier News Local AB,Adam Jönsson,,,,
 soderhamnskuriren.se,Databas,Bonnier News Local AB,Matilda Svensson,,,,
 sodran.se,Databas,Bonnier News Local AB,Linda Solum,,,,
 st.nu,Databas,Bonnier News Local AB,Karin Näslund,,,,
 tidningenangermanland.se,Databas,Bonnier News Local AB,Oskar Nord,,,,
+vastgotabladet.se,Databas,Bonnier News Local AB,Adam Jönsson,,,,
 vltstadsliv.se,Databas,Bonnier News Local AB,Maria Björkman,,,,
 www.100procentostersund.se,Databas,Bonnier News Local AB,Hans Lindeberg,,,,
 www.alltomroslagen.se,Databas,Bonnier News Local AB,Daniel Nordström,,,,
@@ -284,19 +289,29 @@ www.avestatidning.com,Databas,Bonnier News Local AB,Björn Häger,,,,
 www.bblat.se,Databas,Bonnier News Local AB,Helena Tell,,,,
 www.dt.se,Databas,Bonnier News Local AB,Helena Nyman,,,,
 www.fagersta-posten.se,Databas,Bonnier News Local AB,Julia Engström,,,,
+www.finnveden.nu,Databas,Bonnier News Local AB,Susanne Lindén,,,,
 www.gd.se,Databas,Bonnier News Local AB,Katarina Palm Ekspong,,,,
 www.helahalsingland.se,Databas,Bonnier News Local AB,Thomas Froms,,,,
 www.hockeypuls.se,Databas,Bonnier News Local AB,Mattias Carlson,,,,
+www.jnytt.se,Databas,Bonnier News Local AB,Patricia Svensson,,,,
+www.jp.se,Databas,Bonnier News Local AB,Patricia Svensson,,,,
 www.lt.se,Databas,Bonnier News Local AB,Lillan Hedlund,,,,
 www.na.se,Databas,Bonnier News Local AB,Anders Nilsson,,,,
 www.norrteljetidning.se,Databas,Bonnier News Local AB,Carl Juborg,,,,
+www.nutidningen.nu,Databas,Bonnier News Local AB,Susanne Lindén,,,,
 www.nynashamnsposten.se,Databas,Bonnier News Local AB,David Klasson,,,,
 www.op.se,Databas,Bonnier News Local AB,Kristina Forsström,,,,
 www.salaallehanda.com,Databas,Bonnier News Local AB,Mats Vikman,,,,
+www.smalandsdagblad.se,Databas,Bonnier News Local AB,Johan Hedberg,,,,
+www.smalandstidningen.se,Databas,Bonnier News Local AB,Johan Hedberg,,,,
+www.smalanningen.se,Databas,Bonnier News Local AB,Anders Sjölin,,,,
 www.sodertaljeposten.se,Databas,Bonnier News Local AB,Stefan Lindström,,,,
+www.tranasposten.se,Databas,Bonnier News Local AB,Carl-Johan Larsson,,,,
+www.tranastidning.se,Databas,Bonnier News Local AB,Johan Hedberg,,,,
 www.vlt.se,Databas,Bonnier News Local AB,Daniel Nordström,,,,
+www.vn.se,Databas,Bonnier News Local AB,Susanne Lindén,,,,
 "Örebroarn, www.orebroarn.se",Databas,Bonnier News Local AB,Eleonore Lennermark,,,,
-www.viivilla.se,Databas,Bonnier Publications AB,Helena La Corte,,,,
+www.viivilla.se,Databas,Bonnier Publications AB,David Jakobsson,,,,
 "Bonnier PC TIDNINGEN, www.pctidningen.se",Databas,Bonnier Publications International AS,Magnus Bergsten,,,,
 Gör det själv https://facebook.com/gds.se/,Databas,Bonnier Publications International AS,Magnus Bergsten,,,,
 Illustrerad Vetenskap Världens Historia https://www.facebook.com/varldenshistoria/,Databas,Bonnier Publications International AS,Magnus Bergsten,,,,
@@ -414,9 +429,6 @@ Nättidningen Blåljus.se via Twitter.com,Databas,Dagsmedia i Nyköping AB,David
 "Värmland24 Mobil, mobil.varmland24.com",Databas,Dagsmedia i Nyköping AB,David Hårseth,,,,
 "Värmland24 Mobil, mobil.varmland24.nu",Databas,Dagsmedia i Nyköping AB,David Hårseth,,,,
 "Värmland24 Mobil, mobil.varmland24.se",Databas,Dagsmedia i Nyköping AB,David Hårseth,,,,
-"Värmland24 Mobil, mobil.värmland24.com",Databas,Dagsmedia i Nyköping AB,David Hårseth,,,,
-"Värmland24 Mobil, mobil.värmland24.nu",Databas,Dagsmedia i Nyköping AB,David Hårseth,,,,
-"Värmland24 Mobil, mobil.värmland24.se",Databas,Dagsmedia i Nyköping AB,David Hårseth,,,,
 Värmland24 via Facebook.com,Databas,Dagsmedia i Nyköping AB,David Hårseth,,,,
 Värmland24 via Instagram.com,Databas,Dagsmedia i Nyköping AB,David Hårseth,,,,
 Värmland24 via Twitter.com,Databas,Dagsmedia i Nyköping AB,David Hårseth,,,,
@@ -426,6 +438,9 @@ Värmland24 via Twitter.com,Databas,Dagsmedia i Nyköping AB,David Hårseth,,,,
 "Värmland24, värmland24.se",Databas,Dagsmedia i Nyköping AB,David Hårseth,,,,
 "Värmland24, www.varmland24.com",Databas,Dagsmedia i Nyköping AB,David Hårseth,,,,
 "Värmland24, www.varmland24.se",Databas,Dagsmedia i Nyköping AB,David Hårseth,,,,
+"Vﾃ､rmland24 Mobil, mobil.vﾃ､rmland24.com",Databas,Dagsmedia i Nykﾃｶping AB,David Hårseth,,,,
+"Vﾃ､rmland24 Mobil, mobil.vﾃ､rmland24.nu",Databas,Dagsmedia i Nykﾃｶping AB,David Hårseth,,,,
+"Vﾃ､rmland24 Mobil, mobil.vﾃ､rmland24.se",Databas,Dagsmedia i Nykﾃｶping AB,David Hårseth,,,,
 daisybeauty.com,Databas,Daisy Beauty AB,Kristina Norman,,,,
 CITERAT,Databas,Dan Ståhlberg,Dan Ståhlberg,,,,
 "Danowsky & Partners, www.danowsky.se",Databas,Danowsky & Partners Advokatbyrå KB,Ulf Isaksson,,,,
@@ -483,7 +498,7 @@ www.ekonomi24.se,Databas,Ekonomi 24 AB,Thomas Peterssohn,,,,
 "Opulens, www.opulens.se",Databas,Ekström & Garay AB,Stefan Bergmark,,,,
 "Elektroniktidningen, www.elektroniktidningen.se",Databas,Elektroniktidningen Sverige AB,Anna Wennberg,,,,
 http://elektra.elektroteknolog.se/,Databas,Elektroteknologsektionen,Erik Johansson,,,,
-"Logium, www.logium.se",Databas,"Elise Hovanta, Knights Förlag, Stigfinnaren",Elise Hovanta,,,,
+"Logium, www.logium.se",Databas,"Elise Hovanta, Knights Fﾃｶrlag, Stigfinnaren",Elise Hovanta,,,,
 www.stockholmdirekt.se/balupp,Databas,Enabygdens Publicera AB,Ove Rickardsson,,,,
 www.stockholmdirekt.se/enahabo,Databas,Enabygdens Tidningsförlag AB,Ove Rickardsson,,,,
 www.enk-kunskap.se,Databas,Enköpings Kunskaps AB,Rolf Jönsson,,,,
@@ -529,7 +544,6 @@ KlasGranstrom/Expressen/retriever-info.com,Databas,Expressen Lifestyle AB,Klas G
 "Mama hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",Databas,Expressen Lifestyle AB,Klas Granström,,,,
 "Placeringsguiden hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",Databas,Expressen Lifestyle AB,Klas Granström,,,,
 Privata Affärer hos Arcy.se för desktop. mobil och läsplatta (via App Store och Google Play),Databas,Expressen Lifestyle AB,Klas Granström,,,,
-"Privata Affärer, www.privataaffarer.se",Databas,Expressen Lifestyle AB,Love Strandberg,,,,
 "STYLEBY hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",Databas,Expressen Lifestyle AB,Klas Granström,,,,
 "Sköna Hem hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",Databas,Expressen Lifestyle AB,Klas Granström,,,,
 "Styleby, http://styleby.nu",Databas,Expressen Lifestyle AB,Klas Granström,,,,
@@ -551,9 +565,9 @@ tidningenhembakat.se,Databas,Expressen Lifestyle AB,Klas Granström,,,,
 www.gt.se,Databas,Expressen Lifestyle AB,Klas Granström,,,,
 www.lantliv.com,Databas,Expressen Lifestyle AB,Klas Granström,,,,
 www.lokalsidan.nu,Databas,F1 i Åkersberga Ekonomisk förening,Magnus Marthinsson,,,,
-www.ekonomisverige.se,Databas,FAR AB,Annelie Dahlqvist,,,,
+"FAR Online, www.faronline.se",Databas,FAR AB,David Nylund,,,,
+www.far.se,Databas,FAR AB,Karin Apelman,,,,
 www.tidningenbalans.se,Databas,FAR AB,Pernilla Halling,,,,
-www.tidningenresultat.se,Databas,FAR AB,Charlotta Marténg,,,,
 Quizkampens Månadsquiz http://www.quizkampen.se,Databas,FEO Media AB,-,,,,
 www.fokus.se,Databas,FPG Media AB,Jon Åsberg,,,,
 www.modernpsykologi.se,Databas,FPG Media AB,Karin Skagerberg,,,,
@@ -685,7 +699,6 @@ helagotland.se,Databas,Gotlands Media AB,Pär Ullrich,,,,
 "Gotlands Allehanda, www.gotlandsallehanda.se",Databas,Gotlands Press AB,Jan Olov Olsson,,,,
 "Gotlands Tidningar, www.gotlandstidningar.se",Databas,Gotlands Press AB,Tomas Rubin,,,,
 "Grafiknytt, grafiknytt.se",Databas,Grafiska Sällskapet,Christina Lindeberg,,,,
-Nyhetsbyrån Stat & Samhälle. stat.nu,Databas,Grandmother Machine Learning AB,Grigory Dymov,,,,
 Grannliv - www.grannliv.granngarden.se,Databas,Granngården AB,Lena Hillstedt,,,,
 "Scandinavian Companies and Market, http://www.scancomark.se",Databas,Granscole Establishment Sweden AB,Kwah Driscole Ganye,,,,
 "Splash, www.gymnasiet.kungalv.se/splash/",Databas,Gröna Pantern (Artic News),Jeanette Axvi,,,,
@@ -711,35 +724,6 @@ FOLKLORE IN SWEDEN - www.folkloreinsweden.com,Databas,HMan förlag AB,Hanna Åhm
 byranumret.com,Databas,Hakon Media AB,Annika Lindecrantz,,,,
 market.se,Databas,Hakon Media AB,Fredrik Svedjetun,,,,
 retailawards.se,Databas,Hakon Media AB,Annika Lindecrantz,,,,
-Falköpings Tidning Taltidning,Databas,Hall Media AB,Adam Jönsson,,,,
-Falköpings Tidning e-tidning,Databas,Hall Media AB,Adam Jönsson,,,,
-Skaraborgs Läns Tidning e-tidning,Databas,Hall Media AB,Adam Jönsson,,,,
-Skaraborgs läns Tidning Taltidning,Databas,Hall Media AB,Adam Jönsson,,,,
-Skövde Nyheter Taltidning,Databas,Hall Media AB,Adam Jönsson,,,,
-Taltidning för Jönköpings-Posten,Databas,Hall Media AB,Patricia Svensson,,,,
-Taltidning för Smålands Dagblad,Databas,Hall Media AB,Johan Hedberg,,,,
-Taltidning för Smålands-Tidningen,Databas,Hall Media AB,Johan Hedberg,,,,
-Taltidning för Smålänningen,Databas,Hall Media AB,Anders Sjölin,,,,
-Taltidning för Tranås Tidning,Databas,Hall Media AB,Johan Hedberg,,,,
-Taltidning för Vetlanda-Posten,Databas,Hall Media AB,Johan Hedberg,,,,
-Taltidning för Värnamo Nyheter,Databas,Hall Media AB,Hanna Källqvist,,,,
-Västgöta Bladet Taltidning,Databas,Hall Media AB,Adam Jönsson,,,,
-Västgöta-bladet e-tidning,Databas,Hall Media AB,Adam Jönsson,,,,
-falkopingstidning.se,Databas,Hall Media AB,Adam Jönsson,,,,
-skaraborgslanstidning.se,Databas,Hall Media AB,Adam Jönsson,,,,
-skovdenyheter.se,Databas,Hall Media AB,Adam Jönsson,,,,
-vastgotabladet.se,Databas,Hall Media AB,Adam Jönsson,,,,
-www.finnveden.nu,Databas,Hall Media AB,Susanne Lindén,,,,
-www.jnytt.se,Databas,Hall Media AB,Patricia Svensson,,,,
-www.jp.se,Databas,Hall Media AB,Patricia Svensson,,,,
-www.nutidningen.nu,Databas,Hall Media AB,Susanne Lindén,,,,
-www.smalandsdagblad.se,Databas,Hall Media AB,Johan Hedberg,,,,
-www.smalandstidningen.se,Databas,Hall Media AB,Johan Hedberg,,,,
-www.smalanningen.se,Databas,Hall Media AB,Anders Sjölin,,,,
-www.tranasposten.se,Databas,Hall Media AB,Carl-Johan Larsson,,,,
-www.tranastidning.se,Databas,Hall Media AB,Johan Hedberg,,,,
-www.vetlandaposten.se,Databas,Hall Media AB,Johan Hedberg,,,,
-www.vn.se,Databas,Hall Media AB,Hanna Källqvist,,,,
 "Bjarnemagazinet, www.bmz.se",Databas,Handelsbolaget C.M Colibri/Montelius,Tomas Montelius,,,,
 www.leopoldreport.com,Databas,Handelsbolaget Leopold Produktion,Anders Leopold Elmquist,,,,
 www.osterlennytt.com,Databas,Handelsbolaget Leopold Produktion,Anders Leopold Elmquist,,,,
@@ -943,7 +927,7 @@ Europapolitik,Databas,Mats Engström (privat) / Europapolitik,Mats Engström,,,,
 mattstorebring.se,Databas,Matts Torebring,Matts Torebring,,,,
 Vårdnäs socken,Databas,Maud Lindeberg,Maud Lindeberg,,,,
 kistacybercity.com,Databas,Media Emporia,Maria Westlund,,,,
-www.dagensvd.se,Databas,Mediagruppen i Mälardalen Handelsbolag,Jesper Carlson,,,,
+www.dagensvd.se,Databas,Mediagruppen i Mﾃ､lardalen Handelsbolag,Jesper Carlson,,,,
 "Sledtrax, www.sledtrax.se",Databas,Medialeden HB,Mikael Tarander,,,,
 www.webben7.se,Databas,Mediapartner i Norr AB,Ulf Eklund,,,,
 www.lerumstidning.se,Databas,Mediebolaget Västkusten AB,Viveka Hedbjörk,,,,
@@ -1022,7 +1006,6 @@ www.den-svenske.com,Databas,Nationalsocialistisk Front,Göran Jonsson,,,,
 "Naturvetarna, www.naturvetarna.se",Databas,Naturvetarna,Petra Malm,,,,
 "Miljöaktuellt, www.miljoaktuellt.se",Databas,Naturvårdsverket,Ingbritt Kjerner,,,,
 "m-plus, www.mplus.se",Databas,Naturvårdsverket,Ingbritt Kjerner,,,,
-"Snicks AB, www.snicksstories.com",Databas,Naudio AB,Edward Lindqvist,,,,
 "veckotidningen INCUMBENCIA, www.incumbencia.se",Databas,Necchin DLC Media HB,Marco De Las Casas,,,,
 www.magasinetneo.se,Databas,"Neo idégalleri, webb & samhällsmagasin AB",Sofia Nerbrand,,,,
 "Nerikes Allehanda/Krister Linnér, www.mediearkivet.se",Databas,Nerikes Allehanda AB,Krister Linnér,,,,
@@ -1124,6 +1107,7 @@ www.kanal24sverige.se,Databas,Presstjänst Sverige,Jimmy Steffensen,,,,
 www.molndaldirekt.se,Databas,Presstjänst Sverige,Jimmy Steffensen,,,,
 www.nyheterdirekt.nu,Databas,Presstjänst Sverige,Jimmy Steffensen,,,,
 www.presstjanst.com,Databas,Presstjänst Sverige,Jimmy Steffensen,,,,
+www.tvgoteborg.se,Databas,Presstjänst Sverige,Jimmy Steffensen,,,,
 "Privata Affärer/Hans Bolander, www.mediearkivet.se",Databas,Privata Affärer AB,Hans Bolander,,,,
 "Privata Affärer/Hans Bolander, www.presstext.se",Databas,Privata Affärer AB,Hans Bolander,,,,
 www.psv.o.se,Databas,ProjektSekretariatet Väst,Willy Johansson,,,,
@@ -1155,6 +1139,7 @@ www.kvinnotryck.se,Databas,Riksorganisationen för kvinnojourer och tjejjourer i
 SK6GSA - http://www.sk6gsa.se,Databas,Robert Roos,Robert Roos,,,,
 Dagligt Allehanda,Databas,Romlin Group AB,Henric Romlin,,,,
 "Roslagens Tidning, roslagenstidning.se/",Databas,Roslagens Tidning AB,Leif Sparrman,,,,
+Rörelsen www.tidningenrorelsen.se,Databas,Rotvälta Förlag AB,Peter Gustavsson,,,,
 "Journal Reflex, www.bildjournalist.net",Databas,Réalité karlin-media,Björn Karlin,,,,
 "Röd Press, www.rodpress.nu",Databas,Röd Press/Ung Vänster,Stefan Lindborg,,,,
 "Gillescouten, www.gille.scout.se",Databas,S:t Georgs Scoutgillen i Sverige,Gunilla Engvall,,,,
@@ -1179,6 +1164,8 @@ www.scania.com,Databas,Scania CV Aktiebolag,Staffan Ekengren,,,,
 www.bildobubbla.se,Databas,Seriefrämjandet,Jakob Hallin,,,,
 www.sesam.oru.se/media,Databas,Sesam Örebro Universitet,Elin Karlsson,,,,
 www.sbf.org.se,Databas,Sjöbefälsförbundet,Benkt Lundgren,,,,
+Taltidning för Skaraborgsbygden,Databas,Skaraborgsbygden AB,Fredrik Andersson,,,,
+skaraborgsbygden.se,Databas,Skaraborgsbygden AB,Fredrik Andersson,,,,
 www.skolporten.se,Databas,Skolporten AB,Ebba Reinolf,,,,
 http://www.landskronadirekt.com,Databas,Skrivhuset Kalle Berggren Handelsbolag,Karl-Gustav Berggren,,,,
 skurupsposten.se,Databas,Skurups folkhögskola,Maja Ljung,,,,
@@ -1293,7 +1280,7 @@ sak.se,Databas,Svenska Afghanistankommittén,Niklas Ericson,,,,
 http://www.sfoto.se,Databas,Svenska Fotografernas Förbunds Service AB,Jenny Morelli,,,,
 "Svenska Haflingerföreningen, www.svenskahaflinger.se",Databas,"Svenska Haflingerföreningen, SHF",-,,,,
 www.haflingeravel.org,Databas,"Svenska Haflingerföreningen, SHF",-,,,,
-handikappidrott.se,Databas,Svenska Handikappidrottsförbundet/SPK,Johan Strid,,,,
+handikappidrott.se,Databas,Svenska Handikappidrottsfﾃｶrbundet/SPK,Johan Strid,,,,
 www.swehockey.se,Databas,Svenska Ishockeyförbundet,Anders Feltenmark,,,,
 "Svenska Isländsk Fårhund Klubben, www.islandshunden.se",Databas,Svenska Isländska Fårhund Klubben,Ami Rooth,,,,
 "Jaktjournalen, www.jaktjournalen.se",Databas,Svenska Media Docu AB,Holger Nilsson,,,,
@@ -1390,14 +1377,14 @@ www.presstext.se/Tidningarnas Telegrambyrå,Databas,TT Nyhetsbyrån AB,Per-Ander
 www.tt.se,Databas,TT Nyhetsbyrån AB,Per-Anders Broberg,,,,
 http://arkivet.bohuslaningen.se,Databas,TTELA (Västkustmedia AB),IngaLill Sundhage,,,,
 "Pressens Tidning, www.pressenstidning.nu",Databas,TU Service AB,Anders Ahlberg,,,,
-"Fotbollskanalen, www.fotbollskanalen.se",Databas,TV4 AB,-,,,,
-"Hockeykanalen, www.hockeykanalen.se",Databas,TV4 AB,-,,,,
-"Köket.se, www.koket.se",Databas,TV4 AB,-,,,,
-"TV-planeten, www.tvplaneten.se",Databas,TV4 AB,-,,,,
-"TV4 Play, www.tv4play.se",Databas,TV4 AB,-,,,,
-"ekonominyheterna.se, www.ekonominyheterna.se",Databas,TV4 AB,Tillstånd av regeringen.,,,,
-mobil.nyhetskanalen.se,Databas,TV4 AB,-,,,,
-"tv4.se, www.tv4.se",Databas,TV4 AB,-,,,,
+"Fotbollskanalen, www.fotbollskanalen.se",Databas,TV4 Aktiebolag,-,,,,
+"Hockeykanalen, www.hockeykanalen.se",Databas,TV4 Aktiebolag,-,,,,
+"Köket.se, www.koket.se",Databas,TV4 Aktiebolag,-,,,,
+"TV-planeten, www.tvplaneten.se",Databas,TV4 Aktiebolag,-,,,,
+"TV4 Play, www.tv4play.se",Databas,TV4 Aktiebolag,-,,,,
+"ekonominyheterna.se, www.ekonominyheterna.se",Databas,TV4 Aktiebolag,Tillstånd av regeringen.,,,,
+mobil.nyhetskanalen.se,Databas,TV4 Aktiebolag,-,,,,
+"tv4.se, www.tv4.se",Databas,TV4 Aktiebolag,-,,,,
 www.tv.nu,Databas,TVNU Sweden AB,Lena K. Samuelsson,,,,
 "The Reality, wordpress.com",Databas,Tagga Media EF,Alice Petra Maja Music,,,,
 "Talentum HR, www.talentumhr.se",Databas,Talentum HR AB,Jennie Köhlman,,,,
@@ -1430,8 +1417,6 @@ hifi-musik.se,Databas,Tidningen HiFi Musik AB,Per-Ola Olsson,,,,
 vapentidningen.se,Databas,Tidningen HiFi Musik AB,Per-Ola Olsson,,,,
 www.journalisten.se,Databas,Tidningen Journalisten AB,Helena Giertta,,,,
 www.tidningenrepublic.se,Databas,Tidningen Re:public ek.för.,Christopher Holmbäck,,,,
-Taltidning för Skaraborgsbygden,Databas,Tidningen Skaraborgsbygden ekonomisk förening,Fredrik Andersson,,,,
-www.skaraborgsbygden.se,Databas,Tidningen Skaraborgsbygden ekonomisk förening,Fredrik Andersson,,,,
 Taltidning för Tidnings AB Nya Dagen www.dagen.se,Databas,Tidnings AB Nya Dagen,Felicia Ferreira,,,,
 www.dagen.se,Databas,Tidnings AB Nya Dagen,Felicia Ferreira,,,,
 www.svb.se,Databas,Tidnings AB Svensk Bokhandel,Tove Leffler,,,,
@@ -1493,7 +1478,7 @@ vertex.nu,Databas,Vertex/Kårmedia Umeå AB,-,,,,
 www.spraktidningen.se,Databas,Vetenskapsmedia i Sverige AB,Anders Svensson,,,,
 "Forskning & Medicin, http://www.forskningochmedicin.vr.se",Databas,Vetenskapsrådet,Håkan Billig,,,,
 "Tvärsnitt, http://www.tvarsnitt.vr.se",Databas,Vetenskapsrådet,Arne Jarrick,,,,
-www.veterinarmagazinet.se,Databas,VeterinärMagazinet i Stockholm AB,Ingrid Kindahl,,,,
+www.veterinarmagazinet.se,Databas,Veterinﾃ､rMagazinet i Stockholm AB,Ingrid Kindahl,,,,
 vilaser.se,Databas,Vi Media AB,Unn Edberg,,,,
 www.vi.se,Databas,Vi Media AB,Unn Edberg,,,,
 viivilla.se,Databas,Vi i Villa AB,Hans Lundström,,,,
@@ -1515,7 +1500,6 @@ www.vf.se,Databas,Värmlands Folkblad Drift AB,Morgan Schmidt,,,,
 VK Media AB Taltidning,Databas,Västerbottens-Kurirens Media AB,Ingvar Näslund,,,,
 umeatidning.se,Databas,Västerbottens-Kurirens Media AB,Michael Burman,,,,
 www.vk.se,Databas,Västerbottens-Kurirens Media AB,Jessica Vennberg,,,,
-"Västerlandet, vasterlandet.com",Databas,Västerlandet - Ord & Idé,Nasrin Sjögren,,,,
 www.vasterastidning.se,Databas,Västerås Publicera AB,Lars Blom,,,,
 Västsvenska Industri- och Handelskammaren,Databas,Västsvenska Industri- och Handelskammaren Service AB,Maria Matilda Forsell,,,,
 www.husdjur.se,Databas,Växa Sverige Ekonomisk förening,Linda Grimstedt,,,,
@@ -1523,6 +1507,7 @@ www.tidningennotkott.se,Databas,Växa Sverige Ekonomisk förening,Ann Christin O
 Vårdfacket www.vardfacket.nu,Databas,Vårdförbundet,Irene Wanland,,,,
 "Vårdfokus, www.vardfokus.se",Databas,Vårdförbundet,Michelle Wahrolén,,,,
 www.vardforbundet.se/vardfokus,Databas,Vårdförbundet,Irene Wanland,,,,
+"Vﾃ､sterlandet, vasterlandet.com",Databas,Vﾃ､sterlandet - Ord & Idﾃｩ,Nasrin Sjögren,,,,
 www.driva-eget.se,Databas,We are Business Nordic AB,Gustaf Oscarson,,,,
 WeCloud Nyheter - nyheter.wecloud.se,Databas,WeCloud AB,-,,,,
 "Trakten, www.trakten.nu",Databas,Widegrens förlag AB,Johan Eriksson,,,,
@@ -1622,9 +1607,11 @@ market.se nyhetsbrev,E-postutskick,Bonnier Business Media Sweden AB,Fredrik Sved
 Avesta Tidning E-postutskick,E-postutskick,Bonnier News Local AB,Björn Häger,,,,
 Borlänge Tidning e-postutskick,E-postutskick,Bonnier News Local AB,Eric Nyholm,,,,
 Bärgslagsbladet Arboga Tidning E-postutskick,E-postutskick,Bonnier News Local AB,Helena Tell,,,,
+Falköpings Tidning Tidning för Falköpings stad e-postutskick,E-postutskick,Bonnier News Local AB,Adam Jönsson,,,,
 Falu-Kuriren e-postutskick,E-postutskick,Bonnier News Local AB,Helena Nyman,,,,
 Folkracepuls e-postutskick,E-postutskick,Bonnier News Local AB,Jonas Stentäpp,,,,
 Hudiksvalls Tidning e-postutskick,E-postutskick,Bonnier News Local AB,Mattias Guander,,,,
+Jönköpings-Posten med Smålands Allehanda e-postutskick,E-postutskick,Bonnier News Local AB,Patricia Svensson,,,,
 Ljusdals Posten e-postutskick,E-postutskick,Bonnier News Local AB,Christian Höijer,,,,
 Ljusnan e-postutskick,E-postutskick,Bonnier News Local AB,Thomas Froms,,,,
 Länstidningen Södertälje E-postutskick,E-postutskick,Bonnier News Local AB,Lillan Hedlund,,,,
@@ -1632,12 +1619,22 @@ Mora Tidning E-postutskick,E-postutskick,Bonnier News Local AB,Mats Laggar,,,,
 Nya Ludvika Tidning e-postutskick,E-postutskick,Bonnier News Local AB,Bodil Resare,,,,
 Nynäshamns Posten E-postutskick,E-postutskick,Bonnier News Local AB,David Klasson,,,,
 Sala Allehanda E-postutskick,E-postutskick,Bonnier News Local AB,Mats Vikman,,,,
+Skaraborgs Läns Tidning Skara Tidning e-postutskick,E-postutskick,Bonnier News Local AB,Adam Jönsson,,,,
 Skånska Dagbladet e-postutskick,E-postutskick,Bonnier News Local AB,Lena Philipson Fast,,,,
+Skövde Nyheter e-postutskick,E-postutskick,Bonnier News Local AB,Adam Jönsson,,,,
+Smålands Dagblad e-postutskick,E-postutskick,Bonnier News Local AB,Johan Hedberg,,,,
+Smålands-Tidningen e-postutskick,E-postutskick,Bonnier News Local AB,Johan Hedberg,,,,
+Smålänningen e-postutskick,E-postutskick,Bonnier News Local AB,Anders Sjölin,,,,
 Söderhamns Kuriren e-postutskick,E-postutskick,Bonnier News Local AB,Matilda Svensson,,,,
 Södra Dalarnes Tidning e-postutskick,E-postutskick,Bonnier News Local AB,Linda Solum,,,,
 Tidningen Ångermanland e-postutskick,E-postutskick,Bonnier News Local AB,Oskar Nord,,,,
+Tranås Tidning e-postutskick,E-postutskick,Bonnier News Local AB,Johan Hedberg,,,,
 Vestmanlands läns tidning E-postutskick,E-postutskick,Bonnier News Local AB,Daniel Nordström,,,,
+Vetlanda-Posten e-postutskick,E-postutskick,Bonnier News Local AB,Johan Hedberg,,,,
+Värnamo Nyheter e-postutskick,E-postutskick,Bonnier News Local AB,Susanne Lindén,,,,
+Västgöta-Bladet e-postutskick,E-postutskick,Bonnier News Local AB,Adam Jönsson,,,,
 Östersunds-Posten E-postutskick,E-postutskick,Bonnier News Local AB,Kristina Forsström,,,,
+"Vi i Villa.se nyhetsbrev, www.viivilla.se, nyhetsbrev.asp",E-postutskick,Bonnier Publications AB,Björn Vingård,,,,
 Aktiv Träning Nyhetsbrev,E-postutskick,Bonnier Publications International AS,Magnus Bergsten,,,,
 Allt om historia nyhetsbrev,E-postutskick,Bonnier Publications International AS,Magnus Bergsten,,,,
 Bonnier digital foto nyhetsbrev,E-postutskick,Bonnier Publications International AS,Magnus Bergsten,,,,
@@ -1650,7 +1647,6 @@ Pc tidningen nyhetsbrev,E-postutskick,Bonnier Publications International AS,Magn
 Populär historia nyhetsbrev,E-postutskick,Bonnier Publications International AS,Magnus Bergsten,,,,
 Släkthistoria nyhetsbrev,E-postutskick,Bonnier Publications International AS,Magnus Bergsten,,,,
 Världens historia nyhetsbrev,E-postutskick,Bonnier Publications International AS,Magnus Bergsten,,,,
-"Vi i Villa.se nyhetsbrev, www.viivilla.se, nyhetsbrev.asp",E-postutskick,Bonnier Responsmedier AB,Björn Vingård,,,,
 "BROTTSOFFERMYNDIGHETENS NYHETSBREV, www.brottsoffermyndigheten.se",E-postutskick,Brottsoffermyndigheten,Anna-Lena Dahlgren,,,,
 Nummerguidensinformationsmail.se,E-postutskick,Bugglo AB,Christer Skogsberg,,,,
 Bättre Stadsdel Nyhetsbrev,E-postutskick,Bättre Stadsdel Lokal Media AB,Mats Falck,,,,
@@ -1711,7 +1707,6 @@ Styrelsen Equmeniakyrkan Floda,E-postutskick,Equmeniakyrkan Floda,Evalotta Bengt
 Moonshot.news,E-postutskick,Erik Nylén med företagsnamnet Actionplans (441102-7719),Erik Nylén,,,,
 Nyhetsbrev Essunga Pastorat,E-postutskick,Essunga pastorat,Fredrik Nordlund,,,,
 "Pensionsnyheterna, www.pensionsnyheterna.se",E-postutskick,Exakt Media AB,-,,,,
-Nyhetsbrev för ekonomisverige.se,E-postutskick,FAR AB,Annelie Dahlqvist,,,,
 "HR-Guiden-Nyhetsbrev, www.hr-guiden.se",E-postutskick,Far Förlag AB,Marie Wernerman,,,,
 Niklas Piensoho,E-postutskick,Filadelfiaförsamlingen i Stockholm,Niklas Piensoho,,,,
 Filmandtv.com,E-postutskick,Filmandtvguidedotcom Sweden AB,Göran Broberg,,,,
@@ -1741,18 +1736,7 @@ Patientombudsmannen (http://patientombudsmannen.eu),E-postutskick,Gunnar Eriksso
 "Göteborgs stads officiella webbplats, www.goteborg.se",E-postutskick,Göteborgs stad,Helena Mehner,,,,
 "Nättidningen Vårt Göteborg, www.vartgoteborg.se, www.vårtgöteborg.se, www.vartgoteborg.nu, www.vårtgöteborg.nu",E-postutskick,Göteborgs stad,Helena Mehner,,,,
 Däckavisen nyhetsbrev,E-postutskick,HH Digital Consulting AB,Emilia Herslow Held,,,,
-Falköpings Tidning Tidning för Falköpings stad e-postutskick,E-postutskick,Hall Media AB,Adam Jönsson,,,,
-Jönköpings-Posten med Smålands Allehanda e-postutskick,E-postutskick,Hall Media AB,Patricia Svensson,,,,
 Nyhetsbrev från Jnytt,E-postutskick,Hall Media AB,Marie Johansson Flyckt,,,,
-Skaraborgs Läns Tidning Skara Tidning e-postutskick,E-postutskick,Hall Media AB,Adam Jönsson,,,,
-Skövde Nyheter e-postutskick,E-postutskick,Hall Media AB,Adam Jönsson,,,,
-Smålands Dagblad e-postutskick,E-postutskick,Hall Media AB,Johan Hedberg,,,,
-Smålands-Tidningen e-postutskick,E-postutskick,Hall Media AB,Johan Hedberg,,,,
-Smålänningen e-postutskick,E-postutskick,Hall Media AB,Anders Sjölin,,,,
-Tranås Tidning e-postutskick,E-postutskick,Hall Media AB,Johan Hedberg,,,,
-Vetlanda-Posten e-postutskick,E-postutskick,Hall Media AB,Johan Hedberg,,,,
-Värnamo Nyheter e-postutskick,E-postutskick,Hall Media AB,Hanna Källqvist,,,,
-Västgöta-Bladet e-postutskick,E-postutskick,Hall Media AB,Adam Jönsson,,,,
 Musiknytt,E-postutskick,Helsingborgs pastorat,Kristian Lillö,,,,
 Radio Lisbon Newsletter,E-postutskick,Henric Romlin,Henric Romlin,,,,
 "Hittamailen, www.hittamailen.se",E-postutskick,Himanu AB,Jon Berglund,,,,
@@ -2042,7 +2026,7 @@ Upper Room Förlags Nyheter,E-postutskick,Upper Room Förlag AB,Ann-Charlotte En
 Näringsliv Uppsala,E-postutskick,Uppsala kommun,Yvonne Näsström,,,,
 "Vattenfall Nyhetsbrev, noreply@vattenfall.com",E-postutskick,Vattenfall AB,-,,,,
 "ENERGIKICKEN, energikicken@vattenfall.com",E-postutskick,Vattenfall Power Consultant AB,Daniel Johansson,,,,
-Nyhetsbrev,E-postutskick,Veidos AB,Cecilia Gustafsson,,,,
+Nyhetsbrev,E-postutskick,Veidos AB,Dano Kostovski,,,,
 Information och nyheter från Näringslivsenheten,E-postutskick,Vellinge kommun,Annica Carlstedt,,,,
 Nyhetsbrev från Falsterbo Strandbad,E-postutskick,Vellinge kommun,Annica Carlstedt,,,,
 Händer i Region ABC,E-postutskick,Villaägarnas Riksförbund,Kenneth Kanckos,,,,
@@ -2169,9 +2153,9 @@ Eurosport 2,Marksänd TV,Eurosport SAS,,2020-04-01,2025-12-31,,
 TV Finland,Marksänd TV,Sverigefinska Riksförbundet,,2020-04-01,2025-12-31,,
 "svt1, svt2, svt24, svt Barn, Kunskapskanalen",Marksänd TV,Sveriges Television AB,,2020-01-01,2025-12-31,1. Rikstäckande,1. Rikstäckande
 "UR, UR/SVT Kunskapskanalen",Marksänd TV,Sveriges Utbildningsradio AB,,2020-01-01,2025-12-31,1. Rikstäckande,1. Rikstäckande
-Sjuan,Marksänd TV,TV4 AB,,2020-04-01,2025-12-31,,
-TV12,Marksänd TV,TV4 AB,,2020-04-01,2025-12-31,,
-TV4,Marksänd TV,TV4 AB,,2020-04-01,2025-12-31,,
+Sjuan,Marksänd TV,TV4 Aktiebolag,,2020-04-01,2025-12-31,,
+TV12,Marksänd TV,TV4 Aktiebolag,,2020-04-01,2025-12-31,,
+TV4,Marksänd TV,TV4 Aktiebolag,,2020-04-01,2025-12-31,,
 National Geographic,Marksänd TV,The Walt Disney Company Iberia S.L.,,2020-04-01,2025-12-31,,
 National Geographic Wild,Marksänd TV,The Walt Disney Company Iberia S.L.,,2020-04-01,2025-12-31,,
 CNN International,Marksänd TV,Turner Broadcasting System Europe Limited,,2020-04-01,2025-12-31,,
@@ -2517,7 +2501,7 @@ Radio Nytt Liv,Närradio,Nya Korskyrkan,Öberg Bernth,1994-02-23,,Bodens kommun,
 Nybro Fria Församling,Närradio,Nybro Fria Församling,Anders Duveskog,1987-11-01,,Nybro kommun,Kalmar län
 Radio Nybro,Närradio,Nybro Närradioförening,Per-Olof Johansson,1987-11-01,,Nybro kommun,Kalmar län
 iTorsby,Närradio,Näringslivsföreningen Torsby Alltid Tillsammans,Anna-Lena Carlsson,2020-08-20,2025-08-31,"Sunne kommun,Torsby kommun",
-Närradioföreningen Radio Kinnekulle,Närradio,Närradioföreningen Radio Kinnekulle,Mattias Cedving,1987-10-28,,Götene kommun,Västra Götalands län
+Närradioföreningen Radio Kinnekulle,Närradio,Närradioföreningen Radio Kinnekulle,-,1987-10-28,,Götene kommun,Västra Götalands län
 Närradioföreningen Radio Kiruna,Närradio,Närradioföreningen Radio Kiruna,Jan-Olov Lönn,2021-10-14,2026-10-31,Kiruna kommun,
 Radio Sydväst,Närradio,Närradioföreningen Stockholm Sydväst,Magnus Sterner,1987-11-01,,Stockholms kommun,Stockholms län
 Radio Angered,Närradio,Närradioföreningen i Angered-Bergum,Nils Kangas,1996-11-15,,Göteborgs kommun,Västra Götalands län
@@ -2746,7 +2730,7 @@ Radio ÖKR,Närradio,Öckerööarnas Kristna Råd,Yngve Larsson,1996-02-27,,Öck
 Örkelljunga närradioförening,Närradio,Örkelljunga närradioförening,Eva-Karin Johansson,1988-05-30,,Örkelljunga kommun,Skåne län
 Kyrkans närradio,Närradio,Örkelljunga pastorat,Ola Johansson,1987-12-10,,Örkelljunga kommun,Skåne län
 Kyrknytt i Radio Nybro,Närradio,Örsjö Församling,Vanja Roshagen,1987-11-01,,Nybro kommun,Kalmar län
-Sossarna direkt,Närradio,Österåkers Arbetarekommun,Majken Bergqvist,1987-11-01,,Österåkers kommun,Stockholms län
+Sossarna direkt,Närradio,Österåker Socialdemokratiska Arbetarekommun,Anders Pettersson,1987-11-01,,Österåkers kommun,Stockholms län
 "Radio Österåker 103,7",Närradio,Österåkers närradioförening,Bernt Olander,1987-11-01,,Österåkers kommun,Stockholms län
 Kyrkan i Österåker – Mellan land och hav,Närradio,Österåkers pastorat,Staffan Hellgren,2021-08-24,2026-08-31,Österåkers kommun,Stockholms län
 har ej beteckning,Satellitentreprenörer,SES ASTRA AB,,,,,
@@ -2783,9 +2767,9 @@ SkyShowtime 1,Satellitsändningar,SkyShowtime Nordics AB,,,,,
 SkyShowtime 2,Satellitsändningar,SkyShowtime Nordics AB,,,,,
 KMC - Kurdish Muzik Center,Satellitsändningar,Stiftelsen Kurdisk Media,,,,,
 Newroz-tv,Satellitsändningar,Stiftelsen Kurdisk Media,,,,,
-TV4 Fakta,Satellitsändningar,TV4 AB,,,,,
-TV4 Film,Satellitsändningar,TV4 AB,,,,,
-TV4 Guld,Satellitsändningar,TV4 AB,,,,,
+TV4 Fakta,Satellitsändningar,TV4 Aktiebolag,,,,,
+TV4 Film,Satellitsändningar,TV4 Aktiebolag,,,,,
+TV4 Guld,Satellitsändningar,TV4 Aktiebolag,,,,,
 3+ (Denmark),Satellitsändningar,Viaplay Group Sweden AB,,,,,
 See,Satellitsändningar,Viaplay Group Sweden AB,,,,,
 TV3  Norway,Satellitsändningar,Viaplay Group Sweden AB,,,,,
@@ -2834,7 +2818,7 @@ Mötesradio kristet sommarmöte,Tillfälliga tillstånd,Torne o Kalix Älvdalars
 Dalademokraten.se TV,Trådsändningar,AB Nya Dala-Demokraten,Fredrika Hillervik,,,,INTERNET
 ltz.se TV,Trådsändningar,AB Nya Länstidningen i Östersund,Peder Edvinsson,,,,INTERNET
 tidningenharjedalen.se TV,Trådsändningar,AB Nya Länstidningen i Östersund,Mikael Andersson,,,,INTERNET
-Direkt Studios,Trådsändningar,AB Nyhetsbyrån Direkt,Lars Östlund,,,,
+Direkt Studios,Trådsändningar,AB Nyhetsbyrån Direkt,Mattias Vahlne,,,,
 "svenskaspel.se:s webbradio och webb TV, www.svenskaspel.se",Trådsändningar,AB Svenska Spel,Annika Ferm,,,INTERNET,INTERNET
 "svenskaspel.se:s webbradio och webb TV, www.svenskaspel.se",Trådsändningar,AB Svenska Spel,Annika Ferm,,,INTERNET,INTERNET
 ATG Live,Trådsändningar,AB Trav och Galopp,Henrik Jonsson,,,,
@@ -2899,8 +2883,8 @@ Radio Markaryd,Trådsändningar,Benny Jönsson,Benny Jönsson,,,INTERNET,INTERNE
 Kommunfullmäktige Bergs kommun,Trådsändningar,Bergs kommun,Jon Olofsson,,,,
 Bergslagskyrkans webbsändningar,Trådsändningar,Bergslagskyrkan Nora,Anna Lennartsson,,,,
 Söndagsgudstjänst från Betaniaförsamlingen Odensbacken,Trådsändningar,Betaniaförsamlingen Odensbacken,Simon Ekstedt,,,,
+Webbsändningar från Betaniaförsamlingen i Möklinta,Trådsändningar,Betaniaförsamlingen i Möklinta,Christina Bonnevier,,,INTERNET,INTERNET
 Betania Åbytorp webben,Trådsändningar,Betaniaförsamlingen Åbytorp,Bernth-Åke Ottosson,,,,
-Webbsﾃ､ndningar frﾃ･n Betaniafﾃｶrsamlingen i Mﾃｶklinta,Trådsändningar,Betaniafﾃｶrsamlingen i Mﾃｶklinta,Christina Bonnevier,,,INTERNET,INTERNET
 Webb-tv-sändningar från Betelkyrkan Hönö,Trådsändningar,Betelförsamlingen Hönö,Andrew Thompsson,,,,
 Betlehemskyrkan Göteborg,Trådsändningar,Betlehemskyrkans församling Göteborg,Robert Eriksson,,,,
 "Livesändning, Biblioteken i Malmö",Trådsändningar,Biblioteken i Malmö,Torbjörn Nilsson,,,,INTERNET
@@ -2921,26 +2905,38 @@ Market Webb TV,Trådsändningar,Bonnier Business Media Sweden AB,Fredrik Svedjet
 Resume Webb-TV,Trådsändningar,Bonnier Business Media Sweden AB,Yasmine Winberg,,,,INTERNET
 Bonnier News Sales Shopping,Trådsändningar,Bonnier News AB,Caroline Swärd,,,,INTERNET
 Bandypuls webb-tv,Trådsändningar,Bonnier News Local AB,Andreas Tagg,,,,INTERNET
+Jnytt.se webb-tv,Trådsändningar,Bonnier News Local AB,Patricia Svensson,,,INTERNET,INTERNET
 Ljusdals Posten webb-tv,Trådsändningar,Bonnier News Local AB,Christian Höijer,,,,INTERNET
 Skånska Dagbladet webb-tv,Trådsändningar,Bonnier News Local AB,Lena Philipson Fast,,,,
+Smålands Dagblad webb-tv,Trådsändningar,Bonnier News Local AB,Johan Hedberg,,,,
+Smålands-Tidningen webb-tv,Trådsändningar,Bonnier News Local AB,Johan Hedberg,,,,
+Smålänningen Webb-tv,Trådsändningar,Bonnier News Local AB,Anders Sjölin,,,,INTERNET
+Tranås Tidning webb-tv,Trådsändningar,Bonnier News Local AB,Johan Hedberg,,,,
+Vetlanda-Posten webb-tv,Trådsändningar,Bonnier News Local AB,Johan Hedberg,,,,
+Värnamo Nyheter webb-tv,Trådsändningar,Bonnier News Local AB,Susanne Lindén,,,,INTERNET
 allehanda.se TV,Trådsändningar,Bonnier News Local AB,Sandra Bygdén Shameh,,,,INTERNET
 arbetarbladet.se TV,Trådsändningar,Bonnier News Local AB,Jacob Hilding,,,,INTERNET
 borlangetidning.se webb-tv,Trådsändningar,Bonnier News Local AB,Eric Nyholm,,,,
 dt.se TV,Trådsändningar,Bonnier News Local AB,Helena Nyman,,,,INTERNET
+falkopingstidning.se webb-tv,Trådsändningar,Bonnier News Local AB,Adam Jönsson,,,,
 falukuriren.se webbt-tv,Trådsändningar,Bonnier News Local AB,Helena Nyman,,,INTERNET,INTERNET
 folkracepuls.se webb-tv,Trådsändningar,Bonnier News Local AB,Jonas Stentäpp,,,,
 gd.se TV,Trådsändningar,Bonnier News Local AB,Katarina Palm Ekspong,,,,INTERNET
 helahalsingland.se TV,Trådsändningar,Bonnier News Local AB,Thomas Froms,,,,INTERNET
 ht.se webb-tv,Trådsändningar,Bonnier News Local AB,Mattias Guander,,,,
+jp.se webb-tv,Trådsändningar,Bonnier News Local AB,Patricia Svensson,,,INTERNET,INTERNET
 ljusnan.se webb-tv,Trådsändningar,Bonnier News Local AB,Thomas Froms,,,,
 moratidning.se webb-tv,Trådsändningar,Bonnier News Local AB,Mats Laggar,,,,
 nyaludvikatidning.se webb-tv,Trådsändningar,Bonnier News Local AB,Bodil Resare,,,,
 nyaludvikatidning.se webb-tv,Trådsändningar,Bonnier News Local AB,Bodil Resare,,,,
 op.se webb-TV,Trådsändningar,Bonnier News Local AB,Kristina Forsström,,,,INTERNET
+skaraborgslanstidning.se webb-tv,Trådsändningar,Bonnier News Local AB,Adam Jönsson,,,,
+skovdenyheter.se webb-tv,Trådsändningar,Bonnier News Local AB,Adam Jönsson,,,,
 soderhamnskuriren.se webb-tv,Trådsändningar,Bonnier News Local AB,Matilda Svensson,,,,
 sodran.se webb-tv,Trådsändningar,Bonnier News Local AB,Linda Solum,,,,
 st.nu TV,Trådsändningar,Bonnier News Local AB,Karin Näslund,,,,INTERNET
 tidningenangermanland.se webb-tv,Trådsändningar,Bonnier News Local AB,Oskar Nord,,,,
+vastgotabladet.se webb-tv,Trådsändningar,Bonnier News Local AB,Adam Jönsson,,,,
 www.avestatidning.com webb-tv,Trådsändningar,Bonnier News Local AB,Björn Häger,,,,INTERNET
 www.bblat.se webb-tv,Trådsändningar,Bonnier News Local AB,Helena Tell,,,,INTERNET
 www.fagersta-posten.se webb-tv,Trådsändningar,Bonnier News Local AB,Julia Engström,,,,INTERNET
@@ -2973,8 +2969,8 @@ Bromma församling Live,Trådsändningar,Bromma församling,Torbjörn Gustavsson
 "Bromölla kommun, www.bromolla.se",Trådsändningar,Bromölla kommun,Marie Wäppling,,,INTERNET,INTERNET
 Webbsändning från Broängskyrkan,Trådsändningar,Broängskyrkans församling,Johan Ernvik,,,,INTERNET
 Sommarandakter och gudstjänster från Brunnsparkskyrkan,Trådsändningar,Brunnsparkskyrkan,Maria Eriksson,,,,INTERNET
+Brännkyrka församling webbsändning,Trådsändningar,Brännkyrka församling,Gustav Frosteblad,,,INTERNET,INTERNET
 Websändning från Brålanda Pastorat,Trådsändningar,Brålanda Pastorat Svenska Kyrkan,Thomas Holmström,,,INTERNET,INTERNET
-Brﾃ､nnkyrka fﾃｶrsamling webbsﾃ､ndning,Trådsändningar,Brﾃ､nnkyrka fﾃｶrsamling,Gustav Frosteblad,,,INTERNET,INTERNET
 Digitala Gudstjänst Bureå Församling,Trådsändningar,Bureå Församling,Robert Koss,,,,INTERNET
 Gudstjänster och andakter från Burlövs församling,Trådsändningar,Burlövs Församling,Lena  Petersson,,,,INTERNET
 Byteaterns webbsändningar,Trådsändningar,Byteatern,Linda Stenberg,,,,INTERNET
@@ -3050,8 +3046,8 @@ edit.edu.jonkoping.se,Trådsändningar,Erik Dahlbergsgymnasiet,Magnus Blom,,,INT
 edit.edu.jonkoping.se,Trådsändningar,Erik Dahlbergsgymnasiet,Magnus Blom,,,INTERNET,INTERNET
 Kommunfullmäktiges sammanträden,Trådsändningar,Eskilstuna Kommun,Ann-Sofie Wågström,,,INTERNET,INTERNET
 Essunga Kommunfullmäktige,Trådsändningar,Essunga kommun,Tomas Johansson,,,,
+Essunga Kommunfullmäktige 22/2,Trådsändningar,Essunga kommun,Elin Mellberg,,,,
 Essunga Kommunfullmäktige 7/6,Trådsändningar,Essunga kommun,Emelie Skoglund,,,,
-Essunga Kommunfullmﾃ､ktige 22/2,Trådsändningar,Essunga kommun,Elin Mellberg,,,,
 Essunga Utbildning,Trådsändningar,Essunga kommun,Tina Hededal,,,INTERNET,INTERNET
 Utbildningssektorns uppstartskonferens 16/8,Trådsändningar,Essunga kommun,Tina Hededal,,,,
 Radio DB 1,Trådsändningar,European Concerts Scandinavia AB,Thomas Engström,,,,
@@ -3092,7 +3088,7 @@ Falkenbergs pastorats tv-sändningar,Trådsändningar,Falkenbergs pastorat,Staff
 Ung i Falköping,Trådsändningar,"Falköpings kommun, kultur- och fritids förvaltningen, öppen ungdomsverksamhet",Sarha Eng,,,INTERNET,INTERNET
 "TV NOOR webb-tv, www.tvnoor.se",Trådsändningar,Farayand,Farah Rabiey,,,INTERNET,INTERNET
 "TV NOOR webbradio, www.tvnoor.se",Trådsändningar,Farayand,Farah Rabiey,,,INTERNET,INTERNET
-Farsta fﾃｶrsamlings nﾃ､tkyrka,Trådsändningar,Farsta fﾃｶrsamling,Anette Westergren Järnkrantz,,,,
+Farsta församlings nätkyrka,Trådsändningar,Farsta församling,Anette Westergren Järnkrantz,,,,
 Byggindustrin TV,Trådsändningar,Fastighetsnytt Förlags AB,Björn Rundström,,,,INTERNET
 Fastighetsnytt TV,Trådsändningar,Fastighetsnytt Förlags AB,Björn Rundström,,,,INTERNET
 Radio FKBC,Trådsändningar,Feylikurds Media och Kultur Insamlingsstiftelse,Hiwa Zandi,,,,
@@ -3113,7 +3109,7 @@ Tukholman soumalainen seurakunta - Finska församlingen i Stockholm,Trådsändni
 Gudtjänster och andakter i Finspångs församling,Trådsändningar,Finspångs församling,Pär Österlund,,,,INTERNET
 Fiskebäckskyrkans webb-tv,Trådsändningar,Fiskebäcks frikyrkoförsamling,Bengt Axelsson,,,INTERNET,INTERNET
 Webb-tv Fjälkinge pastorat,Trådsändningar,Fjälkinge pastorat,Peter Stenberg,,,,INTERNET
-Webbsﾃ､ndning av kommunfullmﾃ､kigesammantrﾃ､den i Flen,Trådsändningar,Flens kommun,Helén Stockow,,,INTERNET,INTERNET
+Webbsändning av kommunfullmäkigesammanträden i Flen,Trådsändningar,Flens kommun,Helén Stockow,,,INTERNET,INTERNET
 Folkkyrkan Malmköping-Eskilstunas webbsändningar,Trådsändningar,Folkkyrkan Malmköping,Robert Bergström,,,,INTERNET
 Gudstjänst i Mjölby kyrka,Trådsändningar,Folkungabygdens pastorat,Gerhard Paping,,,,INTERNET
 Gudstjänst i Ödeshögs kyrka,Trådsändningar,Folkungabygdens pastorat,Gerhard Paping,,,,INTERNET
@@ -3163,6 +3159,7 @@ Konstepidemin,Trådsändningar,Föreningen Konstepidemin,Bibbi Forsman,,,,INTERN
 "Radio Media Alströmer - webbradio, www.radioma.se",Trådsändningar,Föreningen Media Alströmer,Tommy Grapenholm,,,INTERNET,INTERNET
 "BRIDGE45live, www.bryggangoteborg.se",Trådsändningar,Föreningen Nya Bryggan Göteborg,-,,,INTERNET,INTERNET
 Radio Oskarshamn,Trådsändningar,Föreningen Radio Oskarshamn,Anna Olin Diaz,,,,INTERNET
+"Tonsättarradion, www.fst.se",Trådsändningar,Föreningen Svenska Tonsättare,Martin Q Larsson,,,INTERNET,INTERNET
 Skövde Lokal-TV,Trådsändningar,Föreningen Öppna Kanalen Skövde,-,,,"Falköpings kommun,Mariestads kommun",Västra Götalands län
 "Öppna Kanalen Skövde, www.lokaltv.skovde.se",Trådsändningar,Föreningen Öppna Kanalen Skövde,Nils-Åke Pehrson,,,INTERNET,INTERNET
 Webbsändning från Öppna Kanalen Västerås,Trådsändningar,Föreningen Öppna Kanalen Västerås,Susanne Malm,,,Västerås kommun,
@@ -3174,7 +3171,6 @@ Gudstjänst från Församlingen Brokyrkan,Trådsändningar,Församlingen Brokyrk
 Församlingen Klippan i Bredaryds webbsändningar,Trådsändningar,Församlingen Klippan i Bredaryd,Bertil Isaksson,,,,
 Mötesplatsen: Hemma hos,Trådsändningar,Församlingen Mötesplatsen,Mikael Hallenius,,,,INTERNET
 Forslovgrevieforsamling,Trådsändningar,Förslöv-Grevie församling,Anders Markehed,,,,
-"Tonsﾃ､ttarradion, www.fst.se",Trådsändningar,Fﾃｶreningen Svenska Tonsﾃ､ttare,Martin Q Larsson,,,INTERNET,INTERNET
 GLIMT,Trådsändningar,GLIMT Television AB,Magnus D Westlund,,,,Värmlands län
 Sport Elite,Trådsändningar,GPR Graphic Pictures Production,Robert Brinne,,,,
 Livesändningar från Genarps församling,Trådsändningar,Genarps församling,Hanna Mansten,,,,
@@ -3182,6 +3178,7 @@ Radio IALSE,Trådsändningar,Germán Cáceres,Germán Cáceres,,,,INTERNET
 Sändningar från Getinge-Oskarströms pastorat,Trådsändningar,Getinge-Oskarströms pastorat,Joachim Franzén,,,,INTERNET
 Svenska kyrkan Anderstorp gudstjänster m.m.,Trådsändningar,Gislaveds pastorat,Anna-Karin Gabrielsson,,,,INTERNET
 Webbsändning av Gnosjö kommunfullmäktiges sammanträden,Trådsändningar,Gnosjö kommun,Anna Engström,,,INTERNET,INTERNET
+Skelleftewebbradio,Trådsändningar,Goldtown Radio,-,,,,INTERNET
 Rakt över disc,Trådsändningar,Good Timing AB,Claes af Geijerstam,,,INTERNET,
 Katrineholm FM,Trådsändningar,Green Gecko Production,Daniel Hjalmarsson,,,,INTERNET
 Gudstjänst i Grindtorpskyrkan,Trådsändningar,Grindtorpskyrkan,Sven-Gunnar Hultman,,,,INTERNET
@@ -3213,22 +3210,10 @@ Svenska kyrkan Habo,Trådsändningar,Habo pastorat,Sven-Evan Svanberg,,,,INTERNE
 Hagakyrkan online,Trådsändningar,Hagakyrkan Habo,Ulrica Järpehult,,,,
 Hagakyrkan Gamleby,Trådsändningar,Hagakyrkans församling,Eva Karlsson,,,INTERNET,INTERNET
 Sändningar från Hagfors pastorat,Trådsändningar,Hagfors Pastorat,Thomas Pfitzinger-Drewes,,,,INTERNET
-Jnytt.se webb-tv,Trådsändningar,Hall Media AB,Patricia Svensson,,,INTERNET,INTERNET
-Smålands Dagblad webb-tv,Trådsändningar,Hall Media AB,Johan Hedberg,,,,
-Smålands-Tidningen webb-tv,Trådsändningar,Hall Media AB,Johan Hedberg,,,,
-Smålänningen Webb-tv,Trådsändningar,Hall Media AB,Anders Sjölin,,,,INTERNET
-Tranås Tidning webb-tv,Trådsändningar,Hall Media AB,Johan Hedberg,,,,
-Vetlanda-Posten webb-tv,Trådsändningar,Hall Media AB,Johan Hedberg,,,,
-Värnamo Nyheter webb-tv,Trådsändningar,Hall Media AB,Hanna Källqvist,,,,INTERNET
-falkopingstidning.se webb-tv,Trådsändningar,Hall Media AB,Adam Jönsson,,,,
-jp.se webb-tv,Trådsändningar,Hall Media AB,Patricia Svensson,,,INTERNET,INTERNET
-skaraborgslanstidning.se webb-tv,Trådsändningar,Hall Media AB,Adam Jönsson,,,,
-skovdenyheter.se webb-tv,Trådsändningar,Hall Media AB,Adam Jönsson,,,,
-vastgotabladet.se webb-tv,Trådsändningar,Hall Media AB,Adam Jönsson,,,,
 "Studentradion Halmstad, www.studentradion.hh.se",Trådsändningar,Halmstad Studentkår,David Nilsson,,,INTERNET,INTERNET
 svenskakyrkan.se/hammaro,Trådsändningar,Hammarö församling,Regina Piscator,,,,
 Handels-TV,Trådsändningar,Handelsanställdas förbund,Karin Nordin Söderlund,,,,
-Webbtv Stocholm School of Economics,Trådsändningar,Handelshﾃｶgskolan i Stockholm,Lars Göran Strannegård,,,,
+Webbtv Stocholm School of Economics,Trådsändningar,Handelshögskolan i Stockholm,Lars Göran Strannegård,,,,
 Digitala sändningar från Harplinge-Steninge pastorat,Trådsändningar,Harplinge-Steninge pastorat,Peder Jarnvall,,,,INTERNET
 Heby kommunfullmäktige,Trådsändningar,Heby kommun,Olof Nilsson,,,,
 Rosengårdskyrkan i Helsingborg tv-sändning,Trådsändningar,Helsingborgs Missionsförsamling,Sara Sjölander,,,,
@@ -3265,22 +3250,22 @@ Webbsändningar från Härjedalens Pastorat,Trådsändningar,Härjedalens Pastor
 "Härjedalens kommunfullmäktiges sammanträden, www.herjedalen.se",Trådsändningar,Härjedalens kommun,Pernilla Heijdenbeck-Persson,,,INTERNET,INTERNET
 Härnösands pastorats livesändning av gudstjänster och musikarrangemang,Trådsändningar,Härnösands Pastorat,Kent Nordin,,,,
 Härnösands bibliotek,Trådsändningar,Härnösands kommun,Jennie Olofsson,,,INTERNET,INTERNET
+Härrydas kommunfullmäktigesändningar,Trådsändningar,Härryda kommun,Roger Nordman,,,,
+Kultur Härryda sänder,Trådsändningar,Härryda kommun,Karin Brämberg,,,,
 Hässleholms församling webbsändning,Trådsändningar,Hässleholms församling,Klas Sturesson,,,,
 Högalids församling live,Trådsändningar,Högalids församling,Gunilla Lindén,,,,INTERNET
+"Webb-tv, Höganäs kommun",Trådsändningar,Höganäs kommun,Torsten Rosin,,,INTERNET,INTERNET
 Högbergskyrkan i Ludvika webb-tv,Trådsändningar,Högbergskyrkans församling,Bengt-Erik Larsson,,,,INTERNET
 Höglandskyrkan i Sävsjö,Trådsändningar,Höglandskyrkan i Sävsjö,Bert Runesson,,,,
 TV-sändning från Högskolan i Skövde,Trådsändningar,Högskolan i Skövde,Tabea Katharina Dierker,,,,
 Höllvikens församlings gudstjänster och mässor,Trådsändningar,Höllvikens församling,Jim Tullgren,,,,
 Webbsändningar från Hölö-Mörkö församling,Trådsändningar,Hölö-Mörkö församling,Åsa Lindgren,,,,
-Hﾃ､rrydas kommunfullmﾃ､ktigesﾃ､ndningar,Trådsändningar,Hﾃ､rryda kommun,Roger Nordman,,,,
-Kultur Hﾃ､rryda sﾃ､nder,Trådsändningar,Hﾃ､rryda kommun,Karin Brämberg,,,,
-"Webb-tv, Hﾃｶganﾃ､s kommun",Trådsändningar,Hﾃｶganﾃ､s kommun,Torsten Rosin,,,INTERNET,INTERNET
 "Falcons Webb-TV, www.falcons.se",Trådsändningar,IBK Landskrona Falcons,Peder Alberoth,,,INTERNET,INTERNET
 "IFK Malmö Idrottsallians, www.ifkmalmo.com",Trådsändningar,IFK Malmö Idrottsallians,Arne Öhlander,,,INTERNET,INTERNET
 "IFK Malmö Idrottsallians, www.ifkmalmo.com",Trådsändningar,IFK Malmö Idrottsallians,Arne Öhlander,,,INTERNET,INTERNET
 Innventia,Trådsändningar,INNVENTIA AB,Birgitta Sundblad,,,,INTERNET
 Araby Radio,Trådsändningar,IOGT  NTO DAAHSAN,Asad Abdi,,,INTERNET,
-Teknikfﾃｶretagen 125 ﾃ･r,Trådsändningar,Ideella Fﾃｶreningen Teknikfﾃｶretagen i Sverige,Håkan Eriksson,,,,
+Teknikföretagen 125 år,Trådsändningar,Ideella Föreningen Teknikföretagen i Sverige,Håkan Eriksson,,,,
 Radio Suomi,Trådsändningar,Ideella föreningen Radio Suomi med firma Radio Suomi,Jukka Titoff,,,,
 Webbsändningar från Immanuelförsamlingen,Trådsändningar,Immanuelförsamlingen,Jakob Appell,,,,INTERNET
 Immanuelskyrkan Malmö,Trådsändningar,Immanuelsförsamlingen i Malmö,Niclas Ljung,,,,
@@ -3354,7 +3339,7 @@ Svenska kyrkan i Kristianstads webbsändning,Trådsändningar,Kristianstads past
 Livesändning från Kulla pastorat,Trådsändningar,Kulla pastorat,Per Olof Behrens,,,,
 Program från Falkenbergs kommun,Trådsändningar,"Kulturavdelningen på kultur, -fritid och tekniknämnden, Falkenbergs kommun",-,,,,INTERNET
 Majornas bibliotek,Trådsändningar,Kulturförvaltningen Göteborgs stad,Anna Landin,,,INTERNET,INTERNET
-Kulturfﾃｶrvaltningen i Malmﾃｶs livesﾃ､ndningar,Trådsändningar,Kulturfﾃｶrvaltningen Malmﾃｶ stad,Pernilla Conde Hellman,,,,
+Kulturförvaltningen i Malmös livesändningar,Trådsändningar,Kulturförvaltningen Malmö stad,Pernilla Conde Hellman,,,,
 Folk och Kultur digitalt konvent 2021,Trådsändningar,Kulturlyftet - Kultur i hela landet,Linde Sjöstedt,,,INTERNET,INTERNET
 Fritid Uppsala,Trådsändningar,"Kulturnämnden, Uppsala kommun",Lukas Carlsson,,,INTERNET,INTERNET
 Reginateatern 1,Trådsändningar,"Kulturnämnden, Uppsala kommun",Maria Nilsson,,,INTERNET,INTERNET
@@ -3402,7 +3387,7 @@ Sändning Lima Transtrands församling,Trådsändningar,Lima Transtrands Försam
 Livesändning från Linde bergslags församling,Trådsändningar,Linde bergslags församling,Monica Wallsten,,,,INTERNET
 "Gudstjänster, andakter, undervisning och information från Lindome församling",Trådsändningar,Lindome församling,Ylva Leitzinger,,,,
 Lindveden MSK,Trådsändningar,Lindvedens missionsförsamling,Ulf Catoni,,,,
-"Svenska kyrkan, Linkﾃｶpings domkyrkopastorat",Trådsändningar,Linkﾃｶpings domkyrkopastorat,Mattias Bähr,,,,INTERNET
+"Svenska kyrkan, Linköpings domkyrkopastorat",Trådsändningar,Linköpings domkyrkopastorat,Mattias Bähr,,,,INTERNET
 Café Linné Live,Trådsändningar,Linnéuniversitetet (Växjö),Katarina Ek,,,,INTERNET
 LNU Konferens/Conference Live,Trådsändningar,Linnéuniversitetet (Växjö),Katarina Ek,,,,INTERNET
 LNU Konferens/Conference Live 2,Trådsändningar,Linnéuniversitetet (Växjö),Katarina Ek,,,,INTERNET
@@ -3419,7 +3404,7 @@ Ljungby kanalen punkt se,Trådsändningar,Ljungbykanalen,Tobias Johansson,,,INTE
 Ljungbykanalen TV,Trådsändningar,Ljungbykanalen,Tobias Johansson,,,,INTERNET
 Lokal - TV - Uddevalla,Trådsändningar,Lokal TV Uddevalla - Fyrbodal TV,Christer Bjurström,,,Lysekils kommun,Västra Götalands län
 Kvinnlig rösträtt i Sverige 100 år,Trådsändningar,"Lomma Kommun, Kommunfullmäktige",Lina Grahn,,,,
-www.lomma.se,Trådsändningar,"Lomma Kommun, Kommunfullmﾃ､ktige",Claes Hedlund,,,INTERNET,INTERNET
+www.lomma.se,Trådsändningar,"Lomma Kommun, Kommunfullmäktige",Claes Hedlund,,,INTERNET,INTERNET
 Av egen kraft webb-TV,Trådsändningar,Luis Palma Aguirre,Luis Palma Aguirre,,,,INTERNET
 Av egen kraft webbradio,Trådsändningar,Luis Palma Aguirre,Luis Palma Aguirre,,,,INTERNET
 Luleå kommuns sändning av kommunfullmäktiges sammanträden,Trådsändningar,Luleå kommun,Daniel Smirat,,,,
@@ -3717,7 +3702,7 @@ Sthlmekot.se - Webbtv,Trådsändningar,Nordic News Center & IRRI,Samuel Andreass
 "Kuriren-TV, www.kuriren.nu",Trådsändningar,Norr Media AB,Lenitha Andersson-Junkka,,,INTERNET,INTERNET
 "nsd webb-tv, www.nsd.se",Trådsändningar,Norr Media AB,Lenitha Andersson-Junkka,,,INTERNET,INTERNET
 www.norrbottensaffarer.se webb-tv,Trådsändningar,Norr Media AB,Eva Ann-Sofie Lund,,,,INTERNET
-Livesﾃ､ndning Norra Gotlands pastorat,Trådsändningar,Norra Gotlands pastorat,Martina Åkeson Wollbo,,,,
+Livesändning Norra Gotlands pastorat,Trådsändningar,Norra Gotlands pastorat,Martina Åkeson Wollbo,,,,
 Svenska kyrkan Norra Öland,Trådsändningar,Norra Ölands pastorat,Anna Lundin Leander,,,,
 Slättenkyrkan,Trådsändningar,Norrahammars Frikyrkoförsamling,Samuel Drewitz,,,,
 Norrfjärdens församlings live-sändningar,Trådsändningar,Norrfjärdens församling,Anna Andersson,,,,
@@ -3807,10 +3792,8 @@ JMKTV,Trådsändningar,Radio JMK,Anna Fedoriw,,,,INTERNET
 Radio Mix,Trådsändningar,Radio Mix,Karin Lindberg,,,,INTERNET
 "Radio Norrköping Närradio, Radio Norrköping.se",Trådsändningar,Radio Norrköping Närradio,Jorge Rodriguez Candia,,,,
 Radio Shore,Trådsändningar,Radio Shore,Petter Jagers,,,INTERNET,INTERNET
-Kommunfullmäktige Ragunda kommun,Trådsändningar,Ragunda kommun,Birgitta Orrebo,,,,INTERNET
 Websändningar från Redbergskyrkan,Trådsändningar,Redbergskyrkans församling,Margareta Blomgren,,,INTERNET,INTERNET
 Region Gävleborg Webb-tv,Trådsändningar,Region Gävleborg,Linda Sjödin,,,,INTERNET
-Region Jämtland Härjedalens webbsända regionfullmäktige,Trådsändningar,Region Jämtland Härjedalen,Thomas Andersson,,,INTERNET,INTERNET
 Regionfullmäktige i Skåne sammanträden,Trådsändningar,Region Skåne,Annika Annerby Jansson,,,,INTERNET
 Sändning från regionfullmäktige i Region Uppsala,Trådsändningar,Region Uppsala,Johan von Knorring,,,INTERNET,INTERNET
 Region Västerbotten Direkt,Trådsändningar,Region Västerbotten,Jörgen Boström,,,,
@@ -3869,8 +3852,8 @@ adventistplay.se,Trådsändningar,Sjundedags Adventistsamfundet,Rainer Refsbäck
 Pingstkyrkan Skaras webbsändningar,Trådsändningar,Skara Pingstförsamling,Ola Gustafsson,,,,
 Skara stift livesänder,Trådsändningar,Skara stift,Åke Bonnier,,,,
 Skarpnäckskyrkan (på Youtube),Trådsändningar,Skarpnäcks Frikyrkoförsamling,Sarah Jonsson,,,,INTERNET
-Skellefteﾃ･ pastorat webbsﾃ､ndningar,Trådsändningar,Skellefteﾃ･ Pastorat,Ulrika Markgren,,,,
-Skellefteﾃ･ pastorat webbsﾃ､ndningar nr2,Trådsändningar,Skellefteﾃ･ Pastorat,Ulrika Markgren,,,,
+Skellefteå pastorat webbsändningar,Trådsändningar,Skellefteå Pastorat,Ulrika Markgren,,,,
+Skellefteå pastorat webbsändningar nr2,Trådsändningar,Skellefteå Pastorat,Ulrika Markgren,,,,
 Gudstjänst från Skepplanda pastorat,Trådsändningar,Skepplanda pastorat,Per-Martin Andersson,,,,INTERNET
 Skurups kyrkas kanal,Trådsändningar,Skurups församling,Teddy Melhedegaard,,,Skurups kommun,Skåne län
 Arkivens dag på Arkivcentrum Syd,Trådsändningar,Skånes hembygdsförbund,Pia Sander,,,INTERNET,INTERNET
@@ -3902,7 +3885,7 @@ Jenneboradio,Trådsändningar,Stenskott Productions,Tomas Jennebo,,,,INTERNET
 Webbsändningar från kommunfullmäktige i Stenungsund,Trådsändningar,Stenungsunds kommun,Katja Nikula,,,,
 "BKC-live, www.bkc.nu",Trådsändningar,Stiftelsen Anden & Ordet,Peder Teglund,,,INTERNET,INTERNET
 "Frivärld Webb-TV, www.frivarld.se",Trådsändningar,Stiftelsen Fritt Näringsliv,-,,,INTERNET,INTERNET
-TV Idre Fjﾃ､ll,Trådsändningar,Stiftelsen Idre Fjﾃ､ll,Joacim Johansson,,,Älvdalens kommun,Dalarnas län
+TV Idre Fjäll,Trådsändningar,Stiftelsen Idre Fjäll,Joacim Johansson,,,Älvdalens kommun,Dalarnas län
 Ljungskile Nyheter,Trådsändningar,Stiftelsen Ljungskile Folkhögskola,Stefan Johansson,,,,
 "Liv&Rätt Media, www.livochrätt.se",Trådsändningar,Stiftelsen Provita,Bitte Assarmo,,,INTERNET,INTERNET
 Järvaveckan Live,Trådsändningar,Stiftelsen The Global Village,Ahmed Abdirahman,,,,
@@ -3922,9 +3905,9 @@ Alvestakanalen,Trådsändningar,Storgatan Media,Michael Andersson,,,,INTERNET
 "Storumans kommunfullmäktigesammanträden, www.storuman.se",Trådsändningar,Storumans kommun,Ralph Johansson,,,INTERNET,INTERNET
 Prins Hatt under jorden,Trådsändningar,Strandteatern,Kristina Sahlberg,,,,INTERNET
 Sändningar från Strängnäs stift,Trådsändningar,Strängnäs stift,Rebecka Tengnér,,,,INTERNET
+"Strålsäkerhetsmyndighetens webbsändningar, www.stralsakerhetsmyndigheten.se",Trådsändningar,Strålsäkerhetsmyndigheten,Anneli Hällgren,,,INTERNET,INTERNET
 "Strömsunds kommunfullmäktiges sammanträde, www.stromsund.se",Trådsändningar,Strömsunds kommun,Gunnar Geijer,,,INTERNET,INTERNET
 "Kultur och fritid, Strömsunds kommun",Trådsändningar,"Strömsunds kommun, kultur- och fritidsavdelningen",Lars-Eric Bergman,,,,INTERNET
-"Strﾃ･lsﾃ､kerhetsmyndighetens webbsﾃ､ndningar, www.stralsakerhetsmyndigheten.se",Trådsändningar,Strﾃ･lsﾃ､kerhetsmyndigheten,Anneli Hällgren,,,INTERNET,INTERNET
 Sundsvalls Kårradio,Trådsändningar,Studentkåren i Sundsvall,Magnus Malmberg,,,INTERNET,INTERNET
 "Studentradion Växjö, www.studentradionvaxjo.se",Trådsändningar,Studentradion Växjö,-,,,,
 Studiefrämjandet Skåne Blekinges streamade föreläsningar och konserter,Trådsändningar,Studiefrämjandet Skåne Blekinge,Mirjam Wallin,,,INTERNET,INTERNET
@@ -4018,11 +4001,11 @@ Webbsändning från Södertälje Missionskyrka,Trådsändningar,Södertälje Mis
 "Södertälje kommun, www.sodertalje.se",Trådsändningar,Södertälje kommun,Karin Östlund,,,INTERNET,INTERNET
 Svenska kyrkan Södertälje pastorat,Trådsändningar,Södertälje pastorat,Ralph Sjöholm,,,,INTERNET
 Södra Jämtland direkt,Trådsändningar,Södra Jämtlands pastorat,Per Nilsson,,,INTERNET,INTERNET
-Sﾃ､ndningar frﾃ･n Sﾃｶdra Vedbo pastorat,Trådsändningar,Sﾃｶdra Vedbo pastorat,Carl Cedermark,,,,
+Sändningar från Södra Vedbo pastorat,Trådsändningar,Södra Vedbo pastorat,Carl Cedermark,,,,
 Årets Dagstidning 2020,Trådsändningar,TU Service AB,Jan Fager,,,,
 Lödde Infokanal och Löddevision,Trådsändningar,TV-Net i Löddeköpinge AB,Bruno Cerbach,,,Kävlinge kommun,Skåne län
-"TV4 Play, http://www.tv4play.se",Trådsändningar,TV4 AB,-,,,INTERNET,INTERNET
-"TV4.se, www.tv4.se",Trådsändningar,TV4 AB,-,,,,INTERNET
+"TV4 Play, http://www.tv4play.se",Trådsändningar,TV4 Aktiebolag,-,,,INTERNET,INTERNET
+"TV4.se, www.tv4.se",Trådsändningar,TV4 Aktiebolag,-,,,,INTERNET
 Webbsändning av Tanums biblioteks författarsamtal,Trådsändningar,Tanums kommun,Sara Malm Ramsvik,,,,
 Webbsändning av kommunfullmäktiges möten i Tanum,Trådsändningar,Tanums kommun,Ann-Marie Olofsson,,,,
 Livesänds: Petra von Kants bittra tårar av Fassbinder,Trådsändningar,TeaterTillsammans,Julia Beil Amarilla,,,,INTERNET
@@ -4091,7 +4074,7 @@ Uppsala Missionsförsamlings och Uppsala Missionskyrkas Youtube-sändningar,Trå
 Gudstjänst i Uppsala domkyrkoförsamling,Trådsändningar,Uppsala domkyrkoförsamling,Jonas Lindberg,,,,INTERNET
 Skolradio,Trådsändningar,Uppsala estetiska gymnasium,Runar Krantz,,,INTERNET,INTERNET
 Radio Fyris,Trådsändningar,"Uppsala kommun, Vård och omsorg",Camilla Svanström,,,,INTERNET
-Livesﾃ､ndning frﾃ･n Uppsala domkyrka,Trådsändningar,Uppsala pastorat,Annica Anderbrant,,,,INTERNET
+Livesändning från Uppsala domkyrka,Trådsändningar,Uppsala pastorat,Annica Anderbrant,,,,INTERNET
 webbsändning Gottsunda församling,Trådsändningar,Uppsala pastorat,Boel Hössjer Sundman,,,INTERNET,INTERNET
 Uppvidinge kommuns digitala frukostmöten för företagare,Trådsändningar,Uppvidinge kommun,Anne Hallberg,,,INTERNET,INTERNET
 Webbsändning från kommunfullmäktige i Uppvidinge kommun,Trådsändningar,Uppvidinge kommun,Peter Danielsson,,,,
@@ -4102,6 +4085,7 @@ Antiques Road Trip,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Are You The One?,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Awkward,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 BET,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+Beavis and Butt-Head,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Bellator MMA,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Best of Dr. Phil,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Best of the Drew Barrymore Show,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
@@ -4118,6 +4102,7 @@ Doc Martin,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Doc Martin,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Drama fra Viaplay,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Drama från Viaplay,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+Efterlyst,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Ekstrem hjemmeservice,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 En plats på landet,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Eventyrlig Oppussing,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
@@ -4140,13 +4125,24 @@ Love Island UK,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Luksusfaelden,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Luksusfellen,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Lyxfällan,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+MTV Are You The One?,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+MTV Awkward,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+MTV Catfish,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 MTV Christmas Songs,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 MTV Classic,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+MTV Cribs,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+MTV Ex on the Beach,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+MTV Geordie Shore,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+MTV Jersey Shore,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 MTV Love Music,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 MTV Movie Hits,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 MTV Pluto TV,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 MTV Pride,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+MTV Ridiculousness,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 MTV RockZone,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+MTV Siesta Key,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+MTV Teen Mom,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+MTV The Hills,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 MTV Unplugged,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 MTV Women's Month,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 MTV x Smukfest,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
@@ -4168,15 +4164,19 @@ Pluto TV Fight,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Pluto TV Film+,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Pluto TV Fishing,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Pluto TV Inside,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+Pluto TV Komedia,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Pluto TV Kultfilm,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Pluto TV Kultfilmer,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+Pluto TV Leffat,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Pluto TV Movies,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+Pluto TV Romantiikka,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Pluto TV Romantik,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Pluto TV Romantikk,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Pluto TV Space,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Pluto TV Sport,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Pluto TV Thrillers,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Project Runway,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+Punk’d,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 RX TV,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Ridiculousness,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Robinson Ekspeditionen,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
@@ -4202,6 +4202,7 @@ Unga Mammor,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Viafree Movies,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Våra bästa år,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 World Poker Tour,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
+Yo! MTV Raps,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Zoey 101,Trådsändningar,VIMN Nordic AB,Christopher Lindahl,,,,
 Gudstjänst från Vadstena Kristna Center,Trådsändningar,Vadstena Kristna Center,Christopher Skoglund,,,,INTERNET
 Gudstjänst och musik från Vadstena pastorat,Trådsändningar,Vadstena pastorat,Gerhard Paping,,,,INTERNET
@@ -4255,6 +4256,7 @@ Missionskyrkan Värnamo TV,Trådsändningar,Värnamo Missionskyrka,Britta Bolmen
 Kommunfullmäktige i Värnamo kommun,Trådsändningar,Värnamo kommun,Ulf Svensson,,,,
 Gummifabriken livestream,Trådsändningar,Värnamo kommunala industrifastigheter AB,Tobias Hörnquist,,,,
 "Värsås Missionsförsamling, http://radio.skovde.se",Trådsändningar,Värsås Missionsförsamling,Eine Pettersson,,,INTERNET,INTERNET
+TV-sändningar från Västerleds församling,Trådsändningar,Västerleds församling,Peter Träisk,,,,
 Webbsändningar från Västerlövsta pastorat,Trådsändningar,Västerlövsta pastorat,Katarina Björklund,,,,INTERNET
 Västerviks BiblioTV,Trådsändningar,Västerviks bibliotek,Julia Lindqvist,,,INTERNET,INTERNET
 "WebbTV från kommunfullmäktiges sammanträden i Västerviks kommun, www.vastervik.se",Trådsändningar,Västerviks kommun,Conny Tyrberg,,,INTERNET,INTERNET
@@ -4289,7 +4291,6 @@ Digital gudstjänst Växjö stads- och domkyrkoförsamling (Växjö domkyrka),Tr
 Digital gudstjänst Öjaby församling,Trådsändningar,Växjö pastorat,Christopher Meakin,,,,INTERNET
 Webbsändningar Vård- och äldrenämndens sammanträden Borås stad,Trådsändningar,Vård- och äldrenämnden Borås stad,Johan Wikander,,,,
 Sändningar från Vårgårda pastorat,Trådsändningar,Vårgårda pastorat,Per Ulvestig,,,,INTERNET
-TV-sﾃ､ndningar frﾃ･n Vﾃ､sterleds fﾃｶrsamling,Trådsändningar,Vﾃ､sterleds fﾃｶrsamling,Peter Träisk,,,,
 "Radio Wake Up Webbradio, www.radiowakeup.tk",Trådsändningar,Wake Up,Reino Larsson,,,INTERNET,INTERNET
 Walabumma News Network (WNN),Trådsändningar,Walabumma News Network,Dagne Mosissa,,,INTERNET,INTERNET
 Trafikradion.se,Trådsändningar,X For Media Production,Anders Nilsson,,,,INTERNET
@@ -4358,7 +4359,7 @@ gotakanal.se,Utgivningsbevis,AB Göta kanalbolag,Roger Altsäter,2017-12-07,2027
 lulebild.se,Utgivningsbevis,AB Lule-Bild,Pär Bergbom,2018-10-11,2028-10-10,,
 "Fyren, nattidningenfyren.se",Utgivningsbevis,AB Nättidningen Fyren,Christina Bergendorff,2015-05-06,2025-05-05,,
 www.ohvvs.se,Utgivningsbevis,AB Oscar Hanson VVS,Oscar Hanson,2018-10-03,2028-10-02,,
-"Svensk byggtjГӨnst, byggtjanst.se",Utgivningsbevis,AB Svensk ByggtjГӨnst,Kajsa Hessel,2018-06-15,2028-06-14,,
+"Svensk byggtjänst, byggtjanst.se",Utgivningsbevis,AB Svensk Byggtjänst,Kajsa Hessel,2018-06-15,2028-06-14,,
 sfstudios.se,Utgivningsbevis,AB Svensk Filmindustri,Jan Bernhardsson,2020-07-21,2030-07-20,,
 "Artistic Freedom Watch, artisticfreedomwatch.se",Utgivningsbevis,AB Svensk Konstnärsservice,Eva Månsson,2023-05-15,2033-05-14,,
 kro.se,Utgivningsbevis,AB Svensk Konstnärsservice,Eva Månsson,2023-04-26,2033-04-25,,
@@ -4370,7 +4371,7 @@ www.ackordscentralen.se,Utgivningsbevis,AC-Gruppen AB,Lars Zetterberg,2017-07-05
 www.acdcelektro.se,Utgivningsbevis,ACDC Elektro AB,David Göransson,2018-11-14,2028-11-13,,
 www.3dp.se,Utgivningsbevis,AGI Publishing House AB,Peter Ollén,2012-12-17,2033-01-02,,
 Massfluencer.com,Utgivningsbevis,ALWA Holding Pte. Ltd.,Mikael Gustavsson,2018-11-08,2028-11-07,,
-chresmos.se,Utgivningsbevis,Adrian Wennström,Adrian Wennström,2020-08-04,2030-08-03,,
+chresmos.se,Utgivningsbevis,Adrian WennstrĂ¶m,Adrian Wennström,2020-08-04,2030-08-03,,
 "Fylgia, www.fylgia.se",Utgivningsbevis,Advokatfirman Fylgia KB,Bo Söder,2003-12-30,2023-12-30,,
 "Nya Dagbladet, www.nyadagbladet.se",Utgivningsbevis,Aeon Media AB,Markus Andersson,2012-01-23,2032-03-21,,
 www.agronomics.se,Utgivningsbevis,Agronomics Scandinavia AB,Katarina Gillblad,2007-05-02,2027-05-11,,
@@ -4473,7 +4474,6 @@ NYHETERsto.se,Utgivningsbevis,Berglund produktion,Mikael Berglund,2012-04-20,203
 www.birthday.se,Utgivningsbevis,Berlock Information AB,Patric Örner,2010-04-29,2030-04-29,,
 www.fotografleandersson.se,Utgivningsbevis,Bert Leandersson,Bert Leandersson,2018-04-18,2028-04-17,,
 www.tyringe.nu,Utgivningsbevis,Bert Wilnerzon Thörn,Bert Wilnerzon Thörn,2006-08-23,2026-08-22,,
-Stockholmsinfo.com,Utgivningsbevis,Bertil Rennerfelt,Bertil Rennerfelt,2013-06-27,,,
 www.bostadsuppgifter.se,Utgivningsbevis,Better Thinking AB,Christian Nilsson,2016-09-06,2026-09-05,,
 www.beyondus.se,Utgivningsbevis,Beyond Us AB,Jesper Örtengren,2020-06-18,2030-06-17,,
 http://biarask.se,Utgivningsbevis,Bia Rask,Bia Rask,2018-05-14,2028-05-13,,
@@ -4486,6 +4486,7 @@ biogaia.com,Utgivningsbevis,BioGaia AB,Isabelle Ducellier,2022-02-15,2032-02-14,
 www.faktabrf.se,Utgivningsbevis,BisCom Sweden AB,Carl-Johan Mossberg,2015-01-08,2025-01-07,,
 guldbolag.se,Utgivningsbevis,Bisdata AB,Johan Pokorny,2018-09-26,2028-09-25,,
 https://alltombolag.se,Utgivningsbevis,Bisdata AB,Johan Pokorny,2022-11-29,2032-11-28,,
+analys.bisnis.se,Utgivningsbevis,Bisnis Analys Sverige AB,Lena Sundsvik,2023-07-04,2033-07-03,,
 bizzdo.se,Utgivningsbevis,Bizzdo AB,Patrik Wallander,2018-11-12,2028-11-11,,
 "AlltomBrott, alltombrott.se",Utgivningsbevis,Björn Andersson EF / Lexinfo,Björn Andersson,2020-07-28,2030-07-27,,
 "Om Parental Alienation, ompa.se",Utgivningsbevis,Björn Cedervall,Björn Cedervall,2020-02-13,2030-02-12,,
@@ -4609,6 +4610,7 @@ handlingar.se,Utgivningsbevis,Digital Openers AB,Elenor Weijmar,2021-09-14,2031-
 Krimofon,Utgivningsbevis,Digitalus Imperius AB,Pasquale Rotulo,2023-04-21,2033-04-20,,
 "Diplomat Communications, diplomatcom.com",Utgivningsbevis,Diplomat Communications AB,Sonja Rasin,2018-04-11,2028-04-10,,
 Plastikradgivning.se,Utgivningsbevis,Docritzen AB,Claes Lauritzen,2022-12-08,2032-12-07,,
+www.donsomissionskyrka.org,Utgivningsbevis,Donsö Missionsförsamling,Marianne Bergman,2023-07-03,2033-07-02,,
 "DriverDB, www.driverdb.com",Utgivningsbevis,DriverDB AB,Andreas Åberg,2019-08-21,2029-08-20,,
 www.peddos.se,Utgivningsbevis,Droshi AB,Jonas Salminen,2023-05-15,2033-05-14,,
 "Businesscheck, www.businesscheck.se",Utgivningsbevis,Dun & Bradstreet Credit AB,Petrus Verduin,2014-04-08,2024-04-07,,
@@ -4705,7 +4707,6 @@ www.filmiskane.se,Utgivningsbevis,Film i Skåne Aktiebolag,Ralf Ivarsson,2019-07
 "Filmtopp.se, www.filmtopp.se",Utgivningsbevis,Filmtopp Media Handelsbolag,Eric Diedrichs,2016-07-05,2026-07-04,,
 "PostTrade 360°, posttrade360.com",Utgivningsbevis,Financial Media Group 360 AB,Daniele Truini,2022-09-28,2032-09-27,,
 "Treasury 360°, treasury360.net",Utgivningsbevis,Financial Media Group 360 AB,Daniele Truini,2022-11-03,2032-11-02,,
-Finansförbundet www.finansforbundet.se,Utgivningsbevis,Finansförbundet,Arvid Ahrin,2003-06-16,2023-06-16,,
 Finanstid.se,Utgivningsbevis,Finanstid Media AB,Mattias Ahlberg,2020-11-05,2030-11-04,,
 "N360, n360.se",Utgivningsbevis,Finkagan360 Media AB,Torbjörn Isacson,2015-06-23,2025-06-22,,
 Skillingaryd.Nu,Utgivningsbevis,Finnveden Information AB,Per Bunnstad,2019-03-21,2029-03-20,,
@@ -4721,7 +4722,7 @@ slussenstidning.se,Utgivningsbevis,Folkuniversitetet Stiftelsen Kursverksamheten
 Forza Football,Utgivningsbevis,FootballAddicts AB,Patrik Arnesson,2019-08-16,2029-08-15,,
 "Alex författarlexikon, www.alex.se",Utgivningsbevis,Forflex AB,Lars Byström,2014-02-13,2024-02-12,,
 www.svenskakyrkan.se/forshaga-munkfors,Utgivningsbevis,Forshaga-Munkfors församling,Mattias Kareliusson,2020-03-27,2030-03-26,,
-"Extrakt, www.extrakt.se",Utgivningsbevis,Forskningsrådet Formas,Cathrine Beijer,2013-08-08,2013-08-07,,
+"Extrakt, www.extrakt.se",Utgivningsbevis,Forskningsrådet Formas,Cathrine Beijer,2013-08-08,2023-08-07,,
 fortcheck.se,Utgivningsbevis,Fortcheck AB,Peter Spetz,2023-05-29,,,
 https://fotbollsthlm.se,Utgivningsbevis,Fotboll Sthlm AB,Mårthen Bergman,2023-06-30,2033-06-29,,
 henrikmontgomery.com,Utgivningsbevis,Fotograf Henrik Montgomery,Henrik Montgomery,2018-10-11,2028-10-10,,
@@ -4763,7 +4764,6 @@ skyddaskogen.se,Utgivningsbevis,Föreningen Skydda Skogen,David van der Spoel,20
 "Föreningen Svedala-Barabygden, fsbb.se",Utgivningsbevis,Föreningen Svedala-Barabygden,Mats  Olsson,2021-04-20,2031-04-19,,
 "FSS, Föreningen Sveriges socialchefer, socialchefer.se",Utgivningsbevis,Föreningen Sveriges Socialchefer,Monica Persson,2018-11-08,2028-11-07,,
 "FSS, Föreningen Sveriges socialchefer, socialchefsdagarna.se",Utgivningsbevis,Föreningen Sveriges Socialchefer,Monica Persson,2018-11-08,2028-11-07,,
-"Vetenskap och Folkbildning, www.vof.se",Utgivningsbevis,Föreningen Vetenskap och Folkbildning,Per Edman,2013-04-26,,,
 viktigastivaxholm.com,Utgivningsbevis,Föreningen Värna Vaxholm,Catarina Baldo Zagadou,2023-02-06,2033-02-05,,
 efolket.eu,Utgivningsbevis,Föreningen e-FOLKETs vänner,Tomas Widén,2016-10-26,2026-10-25,,
 "www.undervisningshistoria.se, Föreningen svensk undervisningshistoria",Utgivningsbevis,Föreningen för svensk undervisningshistoria (FSUH),Elisabet Rudhe,2017-11-22,2027-11-21,,
@@ -4797,6 +4797,8 @@ goava.com,Utgivningsbevis,Goava Sales Intelligence AB,Jonas Ehne,2018-01-17,2028
 "Mera Österlen, https://www.meraosterlen.se/",Utgivningsbevis,Gota Media AB,Lars Mohlin,2021-11-30,2031-11-29,,
 "Grafikens Hus, www.grafikenshus.se",Utgivningsbevis,Grafikens Hus Gripsholms Kungsladugård AB,Kristina Beckmann,2018-04-26,2028-04-25,,
 "Grafiknytt, grafiknytt.se",Utgivningsbevis,Grafiska Sällskapet,Christina Lindeberg,2014-12-08,2024-12-07,,
+"Grand AML, grand.io",Utgivningsbevis,Grand Compliance Global AB,Nicolas Espinoza-Ruiz,2023-06-30,2033-06-29,,
+Nyhetsbyrån Stat & Samhälle,Utgivningsbevis,Grandmother Machine Learning AB,Grigory Dymov,2023-07-07,2033-07-06,,
 svenskakyrkan.se/grava,Utgivningsbevis,Grava församling,Jürgen Staub-Lambrecht,2020-07-28,2030-07-27,,
 "ekoappen.se, Ekoappen (applikation)",Utgivningsbevis,Green Apps Technologies Europe AB,Ninnie Wikström,2020-02-13,2030-02-12,,
 www.grisslehamn.se,Utgivningsbevis,Grisslehamns Intresseförening,Kurt Johansson,2015-03-23,2025-03-22,,
@@ -4851,7 +4853,7 @@ www.harmonymedia.se,Utgivningsbevis,Harmony Media Ekonomisk förening,Khaled Abd
 www.svenskakyrkan.se/harplinge-steninge,Utgivningsbevis,Harplinge-Steninge pastorat,Peder Jarnvall,2019-07-01,2029-06-30,,
 infocentrum.se,Utgivningsbevis,Harry Fredriksson,Harry Fredriksson,2022-03-15,2032-03-14,,
 "DH, www.dh.se",Utgivningsbevis,Healthcare Media Sweden AB,Göran Glück,2016-05-20,2026-05-19,,
-"Healthcare Media söktjänster, healthcare.se",Utgivningsbevis,Healthcare Media Sweden AB,Linus Wennerström,2013-07-12,,,
+"Healthcare Media söktjänster, healthcare.se",Utgivningsbevis,Healthcare Media Sweden AB,Linus Wennerström,2013-07-12,2023-07-11,,
 mainehappys.se,Utgivningsbevis,Helen Lager,Helen Lager,2018-09-13,2028-09-12,,
 equuspictura.se,Utgivningsbevis,Helena Bjernulf,Helena Bjernulf,2022-06-23,2032-06-22,,
 bergmanhelene.com,Utgivningsbevis,Helene Bergman Media,Helene Bergman,2021-05-18,2031-05-17,,
@@ -4912,6 +4914,7 @@ www.nyfikengra.se,Utgivningsbevis,Ingrid Lindgren,Ingrid Lindgren,2015-05-05,202
 "Doku, doku.nu",Utgivningsbevis,Insamlingsstiftelsen Doku,Sofie Löwenmark,2018-09-03,2028-09-02,,
 www.seglorasmedja.se,Utgivningsbevis,Insamlingsstiftelsen Seglora Smedja,Ewa Lindqvist Hotz,2009-07-14,2029-09-23,,
 "Livsstilsklassificering, www.insightonelivsstilsklassificering.se",Utgivningsbevis,InsightOne Nordic AB,Johan Lundin,2019-07-01,2029-06-30,,
+"SUO, inspectordupond.se",Utgivningsbevis,Inspector Dupond AB,Martin Ekberg,2023-07-03,2033-07-02,,
 www.institutetmotmutor.se,Utgivningsbevis,Institutet Mot Mutor,Hayaat Ibrahim,2018-04-18,2028-04-17,,
 "Internetfoto, https://www.internetfoto.se",Utgivningsbevis,Internetfoto Sverige (enskild firma),Patric Lindén,2018-04-18,2028-04-17,,
 "IfA, www.intressegruppen.info",Utgivningsbevis,"Intressegruppen för Assistansberättigade, IfA",Sophie Karlsson,2007-07-13,2027-11-07,,
@@ -4939,6 +4942,7 @@ www.jjphotos.se,Utgivningsbevis,Jenny Johansson,Jenny Johansson,2019-04-11,2029-
 "Brev från Dårkolonien, jensganman.substack.com",Utgivningsbevis,Jens Andersson (enskild firma),Jens Andersson,2022-03-10,2032-03-09,,
 www.jensnylander.com,Utgivningsbevis,Jens Nylander,Jens Nylander,2023-05-15,2033-05-14,,
 www.jernkontoret.se,Utgivningsbevis,Jernkontoret,Hanna Escobar-Janson,2018-12-13,2028-12-12,,
+Svensk filosofi: www.svenskfilosofi.se,Utgivningsbevis,Jesper Ahlin Marceta,Jesper Ahlin Marceta,2023-07-07,2033-07-06,,
 "JKPG News, jkpgnews.se",Utgivningsbevis,Jmini AB,Mats Ottosson,2018-01-15,2028-01-14,,
 "Linköping News, linkopingnews.se",Utgivningsbevis,Jmini AB,Mats Ottosson,2018-01-12,2028-01-11,,
 "Norrköping news, norrkopingnews.se",Utgivningsbevis,Jmini AB,Mats Ottosson,2018-01-12,2028-01-11,,
@@ -4946,6 +4950,7 @@ Alfakanal.se,Utgivningsbevis,Joakim Braun,Joakim Braun,2018-04-05,2028-04-04,,
 "Esc News Sweden, escnews.se",Utgivningsbevis,Joakim Holmberg,Joakim Holmberg,2013-12-12,2023-12-11,,
 "Granskning Karlstad, granskningkarlstad.se",Utgivningsbevis,Joakim Karlsson,Joakim Karlsson,2023-01-26,2033-01-25,,
 "Kulturprofil, kulturprofil.se",Utgivningsbevis,Johan Ahlén,Johan Ahlén,2019-04-26,2029-04-25,,
+MyGuard.online,Utgivningsbevis,Johan Fischer,Johan Fischer,2023-07-07,2033-07-06,,
 johanlindqvist.com,Utgivningsbevis,Johan Lindqvist Fotografi AB,Johan Lindqvist,2020-07-28,2030-07-27,,
 "Juridicum, www.juridicum.one",Utgivningsbevis,Johan Segerström,Johan Segerström,2021-07-16,2031-07-15,,
 Ledarsidorna.se,Utgivningsbevis,Johan Westerholm,Johan Westerholm,2017-06-02,2027-06-01,,
@@ -4972,7 +4977,6 @@ kajsaskarsgard.se,Utgivningsbevis,Kajsa Skarsgård,Kajsa Skarsgård,2020-04-02,2
 www.lokalix.se,Utgivningsbevis,Kalix Folkhögskola,Charlotte Löthberg,2005-10-10,2025-10-26,,
 kalmarsciencepark.se,Utgivningsbevis,Kalmar Science Park AB,Camilla Dopson,2018-10-30,2028-10-29,,
 "Kameratrollet, kameratrollet.se",Utgivningsbevis,Kameratrollet (enskild firma),Peter Wemmert,2018-05-22,2028-05-21,,
-www.dagensarbetsmarknad.se,Utgivningsbevis,Kamilla Kvarntorp,Eva Persson,2013-06-20,,,
 "Kapitalgruppen i Skandinavien AB, www.kapitalgruppen.com",Utgivningsbevis,Kapitalgruppen i Skandinavien AB,Teodor Dencker,2022-03-22,2032-03-21,,
 hamnen.se,Utgivningsbevis,Kapten Media AB,Gustav Morin,2021-06-11,2031-06-10,,
 www.karinkamsby.se,Utgivningsbevis,Karin Kämsby,Karin Kämsby,2020-05-07,2030-05-06,,
@@ -5142,7 +5146,6 @@ PRRICM.org,Utgivningsbevis,Mbenza & Schneeweiss Holding AB,Samuel Andreasson,201
 www.dagensvd.se,Utgivningsbevis,Mediagruppen i Mälardalen Handelsbolag,Jesper Carlson,2014-04-23,2024-04-22,,
 "Affärer i norr, www.affarerinorr.se",Utgivningsbevis,Medianord Nyhetsbyrå AB,Lennart Håkansson,2013-11-13,,,
 "North Sweden Business, northswedenbusiness.com",Utgivningsbevis,Medianord Nyhetsbyrå AB,Lennart Håkansson,2020-12-15,2030-12-14,,
-Mediatrender,Utgivningsbevis,Mediatrender i Sverige,Gunnar Loxdal,2013-05-22,,,
 nymedicin.se,Utgivningsbevis,Medicinsk Information Europa AB,Mats Nilsson-Lehback,2019-07-02,2029-07-01,,
 "Medicinska Föreningens hemsida, medicinskaforeningen.se",Utgivningsbevis,Medicinska Föreningen i Stockholm,Tove Persson,2021-03-31,2031-03-30,,
 medieakademin.se,Utgivningsbevis,Medieakademin,Emanuel Karlsten,2020-02-20,2030-02-19,,
@@ -5183,7 +5186,6 @@ santochsatir.blogspot.se,Utgivningsbevis,Monica Antonsson,Monica Antonsson,2016-
 "Monocl, monocl.com",Utgivningsbevis,Monocl AB,Felix Jansson,2015-09-24,2025-09-23,,
 "Monopol Media, www.monopolmedia.se",Utgivningsbevis,Monopol Media AB,Jacob Bursell,2022-07-28,2032-07-27,,
 "Boolag, Boolag.se",Utgivningsbevis,Montero Information AB,Victor Reynolds,2022-11-04,2032-11-03,,
-morakommun.se,Utgivningsbevis,Mora kommun,Anna Nises Borgström,2003-01-13,2023-01-13,,
 www.moragymnasium.se,Utgivningsbevis,Mora kommun,Lena Rowa,2016-09-28,2026-09-27,,
 "Morgonposten, morgonposten.se",Utgivningsbevis,Morgonposten OÜ,Boris Benulic,2022-02-08,2032-02-07,,
 https://secure.quickchannel.com/qc/create/play.asp?PRODUCER_ID=ability1127&LAYOUT=corp,Utgivningsbevis,Motala kommun,Nils-Ingvar Graan,2019-09-09,2029-09-08,,
@@ -5217,7 +5219,7 @@ www.svenskakyrkan.se/nacka,Utgivningsbevis,Nacka församling,Carl Dahlbäck,2020
 nkcdb.se (Nationellt kunskapscenter för dövblindfrågor),Utgivningsbevis,Nationellt kunskapscenter för dövblindfrågor i Sverige AB,Helene Engh,2020-05-18,2030-05-17,,
 "Bengts Breda Bilder, www.naturproduktion-bh.se",Utgivningsbevis,Naturproduktion Bengt Hedberg,Naturproduktion Bengt Hedberg,2006-01-17,2026-02-18,,
 naturskydd.nu,Utgivningsbevis,Naturskyddsföreningen i Motala,Rolf Ström,2018-04-12,2028-04-11,,
-"Naudio AB, naudio.app",Utgivningsbevis,Naudio AB,Mark Malmström Fast,2022-02-24,2032-02-23,,
+"Naudio AB, naudio.app",Utgivningsbevis,Naudio AB,Johanna Gafvelin,2022-02-24,2032-02-23,,
 "E55, www.E55.se",Utgivningsbevis,News55 AB,Fredrik Lundberg,2018-01-17,2028-01-16,,
 www.news55.se,Utgivningsbevis,News55 AB,Fredrik Lundberg,2015-06-26,2025-06-25,,
 expoupdate.se,Utgivningsbevis,Newstag AB,-,2021-09-10,2031-09-09,,
@@ -5233,7 +5235,7 @@ nongrata.se,Utgivningsbevis,Non Grata Media AB,Jannik Svensson,2022-08-29,2032-0
 "Nordens välfärdscenter, nordicwelfare.org",Utgivningsbevis,Nordens välfärdscenter,Eva Franzén,2019-02-27,2029-02-26,,
 "Nordfront, www.nordfront.se",Utgivningsbevis,Nordfront,Elin Reinhardt,2012-05-07,2032-05-29,,
 "Nordic Nutrition Council, www.nordicnutritioncouncil.com",Utgivningsbevis,Nordic Nutrition Council,Helene Sandström,2017-06-14,2027-06-13,,
-"Fontin-Posten, www.fontinposten.se",Utgivningsbevis,Nordiska Folkhögskolan i Kungälv,Lars Carlsson,2013-06-27,,,
+www.nnmh.se,Utgivningsbevis,Nordiska Föreningen för Naturlig Näring och Metabol Hälsa Nnmh,Lars-Olof Landin,2023-07-03,2033-07-02,,
 "Nordiska motståndsrörelsen, motståndsrörelsen.se",Utgivningsbevis,Nordiska Motståndsrörelsen,Lukas Lindgren,2020-03-12,2030-03-11,,
 building-supply.se,Utgivningsbevis,Nordiske Medier Göteborg AB,Tony Törnström,2018-09-13,2028-09-12,,
 entreprenad.com,Utgivningsbevis,Nordiske Medier Göteborg AB,Tony Törnström,2018-09-13,2028-09-12,,
@@ -5297,20 +5299,18 @@ www.officersforbundet.se,Utgivningsbevis,Officersförbundet,Johan Hansson,2005-0
 robosport.net,Utgivningsbevis,Ola Nilsson,Ola Nilsson,2015-04-16,2025-04-15,,
 "Fagersta Nyheter, fagerstanyheter.com",Utgivningsbevis,Ola Wahlsten,Ola Wahlsten,2021-06-01,2031-05-31,,
 "Omni Ekonomi, omniekonomi.se",Utgivningsbevis,Omnipunktse AB,Markus Gustafsson,2018-01-17,2028-01-16,,
-omni.se,Utgivningsbevis,Omnipunktse AB,Markus Gustafsson,2013-06-10,2023-06-09,,
 samhallsmagasinet.se,Utgivningsbevis,Online News Network Sweden AB,Johan Frisk,2015-12-23,2025-12-22,,
 "Warp News, warpnews.se",Utgivningsbevis,Optimists Edge Media AB,Mathias Sundin,2021-04-22,2031-04-21,,
 "Orbaden Spa & Resort, www.orbaden.se",Utgivningsbevis,Orbaden Spa & Resort AB,Helene Åkerström Hartman,2018-04-12,2028-04-11,,
 "Journalister utan gränser ,journalisterutangränser.se",Utgivningsbevis,Oscar Gustafsson,Oscar Gustafsson,2023-05-22,2033-05-21,,
 "Oskarshamns-Nytt, www.oskarshamns-nytt.se",Utgivningsbevis,Oskarshamns-Nytt ekonomisk förening,Peter Axelsson Rosén,2020-12-02,2030-12-01,,
 "OMG Bildbank, Othenmediagroup.se",Utgivningsbevis,Othen Media Group AB,Christoffer Othén,2019-02-20,2029-02-19,,
-"Otilia Media söktjänster, otilia.se",Utgivningsbevis,Otilia Media AB,Göran Glück,2013-07-04,,,
 "Owesson Photpgraphy, www.owesson.se",Utgivningsbevis,Owesson Photography AB,Lars Owesson,2014-06-25,2024-06-24,,
 "taSql, www.timeapp.se",Utgivningsbevis,P&K TimeApp AB,Lars Knapasjö,2020-11-05,2030-11-04,,
 www.posk.se,Utgivningsbevis,POSK Partipolitiskt obundna i Svenska kyrkan,Amanda Carlshamre,2019-01-04,2029-01-03,,
 veckorevyn.com,Utgivningsbevis,PYT Media AB,Irena Pozar,2021-04-27,2031-04-26,,
 Cancelculture.se,Utgivningsbevis,Panem et circenses AB,Simon Bartosz,2021-09-29,2031-09-28,,
-"AllmГӨn handling, allmanhandling.se",Utgivningsbevis,Panoptes Sweden AB,Ulf Fahlén,2023-04-06,2033-04-05,,
+"Allmän handling, allmanhandling.se",Utgivningsbevis,Panoptes Sweden AB,Ulf Fahlén,2023-04-06,2033-04-05,,
 "Nyhetsbyrån Siren, siren.se",Utgivningsbevis,Panoptes Sweden AB,Ulf Fahlén,2004-05-06,2024-05-05,,
 actapublica.se,Utgivningsbevis,Panoptes Sweden AB,-,2016-08-26,2026-08-25,,
 beinformed.se,Utgivningsbevis,Panoptes Sweden AB,Mikael Erik Ekman,2017-11-28,2027-11-27,,
@@ -5340,7 +5340,6 @@ www.petergrannby.se,Utgivningsbevis,Peter Grännby (enskild firma),Peter Grännb
 "Passus, www.passus.nu",Utgivningsbevis,Peter Grönborg,Peter Grönborg,2017-04-04,2027-04-03,,
 peterknutson.se,Utgivningsbevis,Peter Knutson,Peter Knutson,2018-10-18,2028-10-17,,
 www.lexnoxa.com,Utgivningsbevis,Peter Martinsson,Peter Martinsson,2017-02-23,2027-02-22,,
-"Swedish Eye, www.swedisheye.com",Utgivningsbevis,Peter Travis,Kerstin Travis,2013-05-13,,,
 www.pettercohen.com,Utgivningsbevis,Petter Cohen,Petter Cohen,2018-02-20,2028-02-19,,
 www.pingstkyrkantaberg.com,Utgivningsbevis,Pingstförsamlingen Norrahammar Taberg,Daniel Carlsson,2003-08-19,2023-08-19,,
 www.eqapital.se,Utgivningsbevis,Pinq Mango Capital Partners AB,Magnus Myrenberg,2018-11-14,2028-11-13,,
@@ -5360,11 +5359,11 @@ SävsjöAppen,Utgivningsbevis,Power App Marketing Sweden AB,Linus Anderås,2020-
 VetlandaAppen,Utgivningsbevis,Power App Marketing Sweden AB,Linus Anderås,2020-04-30,2030-04-29,,
 ÖrebroAppen,Utgivningsbevis,Power App Marketing Sweden AB,Linus Anderås,2021-05-25,2031-05-24,,
 www.ptools.se,Utgivningsbevis,Power Tools Spräckutrustning i Herrljunga AB,Jan-Åke Bengtsson,2016-11-01,2026-10-31,,
-"Plastikkirurgiskolan, plastikkirurgiskolan.se",Utgivningsbevis,Pratoo AB,Arman Teimouri,2013-07-03,,,
 www.prioritet.se,Utgivningsbevis,Prioritet Inkasso AB,Nils Wiberg,2003-02-28,2023-02-28,,
 prisjakt.nu,Utgivningsbevis,Prisjakt Sverige AB,Peter Greberg,2021-07-07,2031-07-06,,
 www.proff.se,Utgivningsbevis,Proff AB,Siri Hane,2008-11-25,2029-01-14,,
 "Programdata, programdata.se",Utgivningsbevis,Programdistributörerna i Sverige AB,Simon Jonathan Jansson,2020-07-14,2030-07-13,,
+Prolegia,Utgivningsbevis,Prolegia Research AB,Thomas Hjelmblad,2023-07-04,2033-07-03,,
 www.samfalligheterna.se,Utgivningsbevis,Proposition GS Media AB,Jakob Gromer,2022-11-15,2032-11-14,,
 www.proton.se,Utgivningsbevis,Proton Services AB,David Gustafsson,2018-04-26,2028-04-25,,
 www.provektor.se,Utgivningsbevis,Provektor Sweden AB,Kenneth Johansson,2018-03-29,2028-03-28,,
@@ -5383,16 +5382,16 @@ www.radiatorvvs.se,Utgivningsbevis,Radiator VVS AB,Mikael Eliasson,2018-09-13,20
 "Fokus Forskning, www.fokusforskning.com",Utgivningsbevis,Ragnhild Ahlgren,Ragnhild Ahlgren,2015-04-07,2025-04-06,,
 www.ragunda.se,Utgivningsbevis,Ragunda kommun,Jenny Kriström,2019-12-02,2029-12-01,,
 "Rally Sweden, www.rallysweden.com",Utgivningsbevis,Rally Sweden AB,Glenn Olsson,2018-10-02,2028-10-01,,
+alltomelbil.se,Utgivningsbevis,Raskimedia,Kristofer Rask,2023-07-04,2033-07-03,,
 raht.se,Utgivningsbevis,Rasklubben för Rat- och American Hairless Terrier,Ellinor Forsberg,2019-02-15,2029-02-14,,
 ratsit.se,Utgivningsbevis,Ratsit AB,Anders Johansson,2007-03-08,2027-04-27,,
-maktimedia.se,Utgivningsbevis,Reaktor Sydost,Martin Eneborg,2013-06-24,,,
 "Realia, realia.se",Utgivningsbevis,Realia Technologies AB,Sam Keshavarzi,2022-06-17,2032-06-16,,
 www.realtid.se,Utgivningsbevis,Realtid Media AB,Camilla Jonsson,2004-08-19,2024-10-12,,
 "Leva i Skåne – ett magasin från Region Skåne, www.levaiskane.se",Utgivningsbevis,Region Skåne,Cecilia Gyllenkrok,2014-07-08,2024-07-07,,
-www.molkomstidning.se,Utgivningsbevis,Region Värmland (Molkoms folkhögskola),Helena Söderqvist,2008-11-27,2029-02-24,,
 www.regionvasterbotten.se,Utgivningsbevis,Region Västerbotten,Thomas Hartman,2013-09-02,,,
 "Konsttidningen Volym, www.rvn.se/sv/Sarprofil-delplatser/volym/",Utgivningsbevis,Region Västernorrland,Lars-Erik Marklund,2010-10-13,2030-11-04,,
 taltidningenvasternorrland.se,Utgivningsbevis,Region Västernorrland,Lars-Erik Marklund,2012-02-22,2032-02-21,,
+www.molkomstidning.se,Utgivningsbevis,Region VĂ¤rmland (Molkoms folkhĂ¶gskola),Helena Söderqvist,2008-11-27,2029-02-24,,
 www.7-eleven.se,Utgivningsbevis,Reitan Convenience Sweden AB,Amanda Mompalao de Piro,2018-11-13,2028-11-12,,
 www.pressbyran.se,Utgivningsbevis,Reitan Convenience Sweden AB,Amanda Mompalao de Piro,2019-02-19,2029-02-18,,
 "Reklamwebben, www.reklamwebben.com",Utgivningsbevis,Reklamwebben i Svedala AB,Gert Strand,2016-08-26,2026-08-25,,
@@ -5424,10 +5423,10 @@ www.kinnarps.space,Utgivningsbevis,Ronnie Karlen,Ronnie Karlen,2019-03-28,2029-0
 www.alltomnorrtalje.se,Utgivningsbevis,Roslagen Media Group AB,Nicklas Salmin,2021-12-22,2031-12-21,,
 "rri, rri.se",Utgivningsbevis,"Rototest Research Institute, RRI KB",Nils G Engström,2005-02-15,2025-05-04,,
 "Bo Borg, boborg.se",Utgivningsbevis,Rune Lindström,Rune Lindström,2021-02-24,2031-02-23,,
-rydinfo.com/rydkampen,Utgivningsbevis,Rydkampen Ekonomisk förening,Dan Fjällström,2009-01-09,2029-01-10,,
+rydinfo.com/rydkampen,Utgivningsbevis,Rydkampen Ekonomisk fĂ¶rening,Dan Fjällström,2009-01-09,2029-01-10,,
 www.rsnv.se,Utgivningsbevis,Räddningstjänsten Skåne Nordväst,Christer Ängehov,2015-07-13,2025-07-12,,
+www.rattvik.se,Utgivningsbevis,Rättviks kommun,Johan Malm,2009-06-16,2029-06-16,,
 www.rodjare.se,Utgivningsbevis,Rödjares Elektriska AB,Stefan Franzén,2018-05-22,2028-05-21,,
-www.rattvik.se,Utgivningsbevis,RГӨttviks kommun,Johan Malm,2009-06-16,2029-06-16,,
 "Lobbykollen, www.lobbykollen.se",Utgivningsbevis,S-föreningen för ekonomisk-politisk reform och idéutveckling,Markus Kallifatides,2023-05-26,2033-05-25,,
 "Svensk Direktreklam, www.delareklam.nu",Utgivningsbevis,SDR Svensk Direktreklam AB,Karin Sorte,2018-06-04,2028-06-03,,
 "Svensk Direktreklam, www.sdr.se",Utgivningsbevis,SDR Svensk Direktreklam AB,Karin Sorte,2018-05-31,2028-05-30,,
@@ -5458,7 +5457,7 @@ www.scania.com,Utgivningsbevis,Scania CV Aktiebolag,Staffan Ekengren,2015-05-19,
 www.naturbiblioteket.se,Utgivningsbevis,Scientific Communication i Malmö AB,Sven-Eric Lindberg,2018-01-09,2028-01-08,,
 Diversum.se,Utgivningsbevis,Sebastian Jansson,Sebastian Jansson,2018-03-27,2028-03-26,,
 second-opinion.se,Utgivningsbevis,Second Opinion Nyheter AB,Mats Olin,2010-01-13,2030-01-19,,
-"Bakgrundskollen, https://bakgrundskollen.se/",Utgivningsbevis,Securement AB,-,2020-06-12,2030-06-11,,
+"Bakgrundskollen, https://bakgrundskollen.se/",Utgivningsbevis,Securement AB,Konstantinos Kostas Psomas,2020-06-12,2030-06-11,,
 "Seko Västtåg, www.sekovasttag.se",Utgivningsbevis,Seko klubb Västtåg,Alexander Weinfors,2022-08-22,2032-08-21,,
 "SFZ MEDIA, www.sfzmedia.se",Utgivningsbevis,Sforzando Produktion HB med bifirma SFZ Media,Mats Möller,2018-10-05,2028-10-04,,
 showtellstories.se,Utgivningsbevis,Showtell Stories AB,Emil Hellerud,2017-04-03,2027-04-02,,
@@ -5494,7 +5493,6 @@ www.svenskakyrkan.se/sollentuna,Utgivningsbevis,Sollentuna församling,Robert Th
 "Solna stads bildarkiv, http://solb.kulturhotell.se/",Utgivningsbevis,Solna stad,Isak Kullman,2018-05-14,2028-05-13,,
 www.sonician.com,Utgivningsbevis,Sonician AB,Henrik Rudberg,2018-08-23,2028-08-22,,
 Https://portal.sorsele.se,Utgivningsbevis,Sorsele kommun,Mats Engman,2021-02-25,2031-02-24,,
-www.sotenas.se,Utgivningsbevis,Sotenäs kommun,Mats Ove Svensson,2003-06-16,2023-06-16,,
 www.sparbankerna.se,Utgivningsbevis,Sparbankernas Riksförbund,Björn Elfstrand,2019-08-22,2029-08-21,,
 Sparklubben.se,Utgivningsbevis,Sparklubben Media AB,Helena Svensson,2022-05-19,2032-05-18,,
 "Speaser, speaser.com",Utgivningsbevis,Speaser AB,Elias Ahmed El Ghazzi,2020-01-20,2030-01-19,,
@@ -5519,7 +5517,7 @@ www.svenskakyrkan.se/stenebypastorat,Utgivningsbevis,Steneby pastorat,Lena Hild�
 www.svenskakyrkan.se/stenungsund,Utgivningsbevis,Stenungsunds pastorat,Elinor Johansson,2018-11-27,2028-11-26,,
 "Affärsvärlden, www.affarsvarlden.se",Utgivningsbevis,Stiftelsen Affärsvärlden,Peter Benson,2014-02-21,2024-02-20,,
 "Arkiv. Tidskrift för samhällsanalys, www.tidskriftenarkiv.se",Utgivningsbevis,Stiftelsen Arkiv för främjande och spridning av samhällsvetenskaplig och historisk forskning,Sven Hort,2013-09-17,,,
-www.dnv.se,Utgivningsbevis,Stiftelsen Den Nya Välfärden,Patrik Engellau,2003-07-07,2023-07-07,,
+www.dnv.se,Utgivningsbevis,Stiftelsen Den Nya VĂ¤lfĂ¤rden,Patrik Engellau,2003-07-07,2023-07-07,,
 www.filmform.com,Utgivningsbevis,Stiftelsen Filmform,Anna-Karin Larsson,2018-10-30,2028-10-29,,
 "Smedjan, timbro.se/smedjan",Utgivningsbevis,Stiftelsen Fritt Näringsliv,Svend Dahl,2020-12-15,2030-12-14,,
 www.naringslivets-medieinstitut.se,Utgivningsbevis,Stiftelsen Fritt Näringsliv,Mats Olin,2018-05-07,2028-05-06,,
@@ -5537,7 +5535,7 @@ www.skogforsk.se,Utgivningsbevis,Stiftelsen Skogsbrukets Forskningsinstitut,Char
 www.skogskunskap.se,Utgivningsbevis,Stiftelsen Skogsbrukets Forskningsinstitut,Charlotte Bengtsson,2018-10-18,2028-10-17,,
 www.skogssallskapet.se,Utgivningsbevis,Stiftelsen Skogssällskapet,Calle Nordqvist,2018-05-03,2028-05-02,,
 www.filmarkivet.se,Utgivningsbevis,Stiftelsen Svenska Filminstitutet,Kajsa Hedström,2021-06-10,2031-06-09,,
-www.filminstitutet.se,Utgivningsbevis,Stiftelsen Svenska Filminstitutet,Jessica Dhyr,2018-08-30,2028-08-29,,
+www.filminstitutet.se,Utgivningsbevis,Stiftelsen Svenska Filminstitutet,Monica Swärd,2018-08-30,2028-08-29,,
 www.nordicwomeninfilm.com,Utgivningsbevis,Stiftelsen Svenska Filminstitutet,Tove Thorslund,2018-09-19,2028-09-18,,
 www.svenskfilmdatabas.se,Utgivningsbevis,Stiftelsen Svenska Filminstitutet,Mathias Rosengren,2005-05-19,2025-07-07,,
 "Västergötlands museum, www.vastergotlandsmuseum.se",Utgivningsbevis,Stiftelsen Västergötlands museum,Göran Elisson,2018-11-20,2028-11-19,,
@@ -5549,7 +5547,6 @@ stockholmslansmuseum.se,Utgivningsbevis,Stockholms läns museum,Christer Falk,20
 "Studietid, www.studietid.se",Utgivningsbevis,Stockholms universitets studentkår,Sofi Röjlar,2019-12-20,2029-12-19,,
 "Stora Lundby-Östad pastorat, www.svenskakyrkan.se/storalundbyostad",Utgivningsbevis,Stora Lundby-Östad pastorat,Magnus Eriksson,2019-04-09,2029-04-08,,
 storfors.se,Utgivningsbevis,Storfors kommun,Johan Rosqvist,2018-10-25,2028-10-24,,
-www.straylight.se,Utgivningsbevis,Straylight AB,Magnus Ernestam,2013-05-16,,,
 www.stromsund.se,Utgivningsbevis,Strömsunds kommun,Anneli Svensson,2017-09-15,2027-09-14,,
 "Vox Vigor, www.voxvigor.se",Utgivningsbevis,Studiefrämjandet Uppsalaregionen,Monica Atterberg-Göransson,2018-04-12,2028-04-11,,
 www.worldradioragunda.com,Utgivningsbevis,Studieförbundet Vuxenskolan Jämtland,Sören Lilja,2017-10-12,2027-10-11,,
@@ -5571,7 +5568,7 @@ www.yrvind.com,Utgivningsbevis,Sven Yrvind,Sven Yrvind,2009-08-13,2029-08-13,,
 "Svensk bakgrundsanalys, www.bakgrundsanalys.se",Utgivningsbevis,Svensk Bakgrundsanalys AB,Peter Sundlöf,2021-08-10,2031-08-09,,
 "Svensk Faktakontroll, faktakontroll.se",Utgivningsbevis,Svensk Faktakontroll AB,Lars Save,2020-03-27,2030-03-26,,
 svenskhockey.tv,Utgivningsbevis,Svensk Hockey TV AB,Daniel Franck,2020-04-22,2030-04-21,,
-www.svenskvindenergi.org,Utgivningsbevis,Svensk Vindenergi Ekonomisk Förening,Charlotte Unger Larson,2009-06-15,2029-06-15,,
+www.svenskvindenergi.org,Utgivningsbevis,Svensk Vindenergi Ekonomisk Förening,Daniel Badman,2009-06-15,2029-06-15,,
 www.swebbtv.se,Utgivningsbevis,Svensk Webbtelevision AB,Mikael Willgert,2018-11-01,2028-10-31,,
 www.nataktivisterna.se,Utgivningsbevis,Svensk förening för nordiskt samarbete,Sandra Rönnsved,2014-06-04,2024-06-03,,
 "Exakt24 Insikt, www.insikt24.se",Utgivningsbevis,Svensk nätmedia AB,Simon Pettersson,2021-11-17,2031-11-16,,
@@ -5591,7 +5588,8 @@ www.sjf.se,Utgivningsbevis,Svenska Journalistförbundet,Petteri Flanagan Karttun
 www.judo.se,Utgivningsbevis,Svenska Judoförbundet,Alf Tornberg,2017-04-11,2027-04-10,,
 jagareforbundet.se,Utgivningsbevis,Svenska Jägareförbundet,Magnus Rydholm,2014-03-18,2024-03-17,,
 svenskjakt.se,Utgivningsbevis,Svenska Jägareförbundet,Martin Källberg,2014-02-17,2024-02-16,,
-www.kommunal.se,Utgivningsbevis,Svenska KommunalarbetarefГ¶rbundet,Christian Scharf,2014-09-30,2024-09-29,,
+"Svenska Kennelklubben, www.skk.se",Utgivningsbevis,Svenska Kennelklubben,Kees de Jong,2023-07-03,2033-07-02,,
+www.kommunal.se,Utgivningsbevis,Svenska Kommunalarbetareförbundet,Christian Scharf,2014-09-30,2024-09-29,,
 www.svenskakyrkan.se/tjorn,Utgivningsbevis,Svenska Kyrkan Tjörn,Johan Ernstsson,2018-10-03,2028-10-02,,
 "Musikerförbundet, www.musikerforbundet.se",Utgivningsbevis,Svenska Musikerförbundet,Jan Granvik,2018-04-18,2028-04-17,,
 pistolskytteforbundet.se,Utgivningsbevis,Svenska Pistolskytteförbundet,Nils-Anders Ekberg,2018-11-05,2028-11-04,,
@@ -5601,12 +5599,12 @@ pistolskytteforbundet.se,Utgivningsbevis,Svenska Pistolskytteförbundet,Nils-And
 www.oddfellow.se,Utgivningsbevis,Svenska Storlogen av den oberoende Odd Fellow Orden,Björn Boström,2017-05-31,2027-05-30,,
 www.transport.se,Utgivningsbevis,Svenska Transportarbetareförbundet,Tommy Wreeth,2003-06-19,2023-06-19,,
 www.transport.se/avd28,Utgivningsbevis,Svenska Transportarbetareförbundet Avd. 28,Christer Bengtsson,2004-10-15,2025-03-22,,
-www.transport.se/avd6,Utgivningsbevis,Svenska Transportarbetareförbundet Avd. 6,Mikael Ladman,2015-06-12,2025-06-11,,
-"Transportarbetareförbundet avd 12, www.transport.se/avdelningar/malmo/",Utgivningsbevis,Svenska Transportarbetareförbundet avd 12,Linda Svensson,2003-08-20,2023-08-20,,
 www.transport.se/din-avdelning/avd19,Utgivningsbevis,Svenska Transportarbetareförbundet avd 19,Joakim Borg,2003-10-15,2023-10-15,,
 www.transport.se/avdelningar/orebro,Utgivningsbevis,Svenska Transportarbetareförbundet avd 9,Annika Hedström,2009-12-07,2030-05-07,,
-"Svenska Transportarbetarförbundet avd 14, www.transport.se/avd14",Utgivningsbevis,"Svenska Transportarbetareförbundet, Avd 14",Ali Shibl,2003-09-29,2023-09-29,,
 www.transport.se/avd7,Utgivningsbevis,"Svenska Transportarbetareförbundet, avdelning 7",Kjell Arbestål,2003-08-13,2023-08-13,,
+www.transport.se/avd6,Utgivningsbevis,Svenska TransportarbetarefĂ¶rbundet Avd. 6,Mikael Ladman,2015-06-12,2025-06-11,,
+"TransportarbetarefĂ¶rbundet avd 12, www.transport.se/avdelningar/malmo/",Utgivningsbevis,Svenska TransportarbetarefĂ¶rbundet avd 12,Linda Svensson,2003-08-20,2023-08-20,,
+"Svenska TransportarbetarfĂ¶rbundet avd 14, www.transport.se/avd14",Utgivningsbevis,"Svenska TransportarbetarefĂ¶rbundet, Avd 14",Ali Shibl,2003-09-29,2023-09-29,,
 vorsteh.se,Utgivningsbevis,Svenska Vorstehklubben,Rolf Grönstedt,2021-03-09,2031-03-08,,
 www.svenskakyrkan.se/karlskoga,Utgivningsbevis,Svenska kyrkan Karlskoga församling,Pernilla Rosin,2019-03-21,2029-03-20,,
 www.svenskakyrkan.se/linkopings-stift,Utgivningsbevis,Svenska kyrkan Linköpings stift,Karin Björk,2020-07-13,2030-07-12,,
@@ -5615,9 +5613,9 @@ www.svenskakyrkan.se/uddevalla,Utgivningsbevis,Svenska kyrkan Uddevalla pastorat
 www.svenskakyrkan.se/ornskoldsviksnorra,Utgivningsbevis,Svenska kyrkan Örnsköldsviks norra pastorat,Marie Edström,2022-12-29,2032-12-28,,
 www.svenskakyrkan.se/arbetsgivare,Utgivningsbevis,Svenska kyrkans arbetsgivarorganisation,Birgitta Ödmark,2021-05-26,2031-05-25,,
 "Tidningen Näringslivet,  www.tn.se",Utgivningsbevis,Svenskt Näringsliv,Anna Dalqvist,2021-03-30,2031-03-29,,
-företagsamheten.se,Utgivningsbevis,Svenskt Näringsliv,Nicklas Mattsson,2014-08-25,2024-08-24,,
 arbetsmarknadsnytt.se,Utgivningsbevis,Svenskt Näringsliv Service AB,Anna Dalqvist,2015-07-08,2025-07-07,,
 www.svensktnaringsliv.se,Utgivningsbevis,Svenskt Näringsliv Service AB,Anna Dalqvist,2017-04-26,2027-04-25,,
+fĂ¶retagsamheten.se,Utgivningsbevis,Svenskt NĂ¤ringsliv,Nicklas Mattsson,2014-08-25,2024-08-24,,
 "Byggsverige, www.byggsverige.se",Utgivningsbevis,Sverige Bygger AB,Lars Johansson Jouaud,2018-07-11,2028-07-10,,
 "Sverige Bygger, sverigebygger.se",Utgivningsbevis,Sverige Bygger AB,Lars Johansson Jouaud,2018-07-11,2028-07-10,,
 www.idagora.se,Utgivningsbevis,Sverige-Emil AB,Henrik Sundbom,2015-07-10,2025-07-09,,
@@ -5633,7 +5631,7 @@ www.sverigesallmannytta.se,Utgivningsbevis,Sveriges Allmännytta AB,Anders Nords
 "Sveriges Arkitekter, arkitekt.se",Utgivningsbevis,Sveriges Arkitekter,Elisabet Näslund,2015-03-09,2025-03-08,,
 dovastidning.se,Utgivningsbevis,Sveriges Dövas Riksförbund,Niclas Martinsson,2015-04-09,2025-04-08,,
 www.sdr.org,Utgivningsbevis,Sveriges Dövas Riksförbund,Jenny Ek,2014-12-23,2024-12-22,,
-www.sverigesfarmaceuter.se,Utgivningsbevis,Sveriges Farmaceuter,Eva Arlander,2018-03-27,2028-03-26,,
+www.sverigesfarmaceuter.se,Utgivningsbevis,Sveriges Farmaceuter,Martin Östberg,2018-03-27,2028-03-26,,
 www.foretagshalsor.se,Utgivningsbevis,Sveriges Företagshälsor Service AB,Peter Munck af Rosenschöld,2018-11-19,2028-11-18,,
 "Sveriges Författarförbund, forfattarforbundet.se",Utgivningsbevis,Sveriges Författarförbund,Maria Andersson,2018-10-24,2028-10-23,,
 "Översättarsektionen, http://oversattarsektionen.se/",Utgivningsbevis,Sveriges Författarförbund,Maria Andersson,2018-10-30,2028-10-30,,
@@ -5692,7 +5690,6 @@ goist.se,Utgivningsbevis,Tanken A & O AB,Seppo Lehtikangas,2015-07-10,2025-07-09
 "Scenkonstguiden, http://scenkonstguiden.se",Utgivningsbevis,Teater Nu,Linda Brelin,2018-11-20,2028-11-19,,
 www.dagensjuridik.se,Utgivningsbevis,Tebege Holding AB,Marcus Bouvin,2020-02-10,2030-02-09,,
 "Föreningen ICT Sweden, www.ictsweden.se",Utgivningsbevis,Teknikföretagens Branschgrupper i Sverige AB,Christina Freese Ingesson,2018-11-09,2028-11-08,,
-"Heat Exchangers' Association of Sweden, www.heas.se",Utgivningsbevis,Teknikföretagens Branschgrupper i Sverige AB,Christina Freese Ingesson,2018-11-06,2028-11-05,,
 "SACS, www.civilsecurity.se",Utgivningsbevis,Teknikföretagens Branschgrupper i Sverige AB,Christina Freese Ingesson,2018-11-06,2028-11-05,,
 "SAMS, materialforsorjningsgruppen.se",Utgivningsbevis,Teknikföretagens Branschgrupper i Sverige AB,Christina Freese Ingesson,2018-11-06,2028-11-05,,
 "Swedish Association for Construction Equipment, www.sace.se",Utgivningsbevis,Teknikföretagens Branschgrupper i Sverige AB,Christina Freese Ingesson,2018-11-06,2028-11-05,,
@@ -5717,6 +5714,7 @@ www.swetic.org,Utgivningsbevis,Teknikföretagens Branschgrupper i Sverige AB,Chr
 www.tebab.com,Utgivningsbevis,Teknikföretagens Branschgrupper i Sverige AB,Christina Freese Ingesson,2018-11-01,2028-10-31,,
 www.varim.se,Utgivningsbevis,Teknikföretagens Branschgrupper i Sverige AB,Christina Freese Ingesson,2018-11-05,2028-11-04,,
 www.teknikforetagen.se,Utgivningsbevis,Teknikföretagens Service i Sverige AB,Håkan Eriksson,2018-02-05,2028-02-04,,
+"Heat Exchangers' Association of Sweden, www.heas.se",Utgivningsbevis,TeknikfĂ¶retagens Branschgrupper i Sverige AB,Christina Freese Ingesson,2018-11-06,2028-11-05,,
 "Tekniska museets webbplats, www.tekniskamuseet.se",Utgivningsbevis,Tekniska museet,Peter Skogh,2016-05-11,2026-05-10,,
 "Digidelnätverket, digidel.se",Utgivningsbevis,Terese Raymond,Terese Raymond,2018-09-27,2028-09-26,,
 skillinge.net,Utgivningsbevis,Terry Hannington,Terry Hannington,2020-01-10,2030-01-09,,
@@ -5798,7 +5796,7 @@ urdrating.se,Utgivningsbevis,Urd Rating AB,Nils-Henrik Hjälmdahl,2018-06-14,202
 Utkiken.net,Utgivningsbevis,Utkiken Sverige AB,Per Ola Malmquist,2018-07-12,2028-07-11,,
 "Utrikesmagasinet, ui.se/ utrikesmagasinet",Utgivningsbevis,Utrikespolitiska institutet,Ylva Lindahl,2016-06-20,2026-06-19,,
 "Utställningskritik,  www.utstallningskritik.se",Utgivningsbevis,UtställningsEstetiskt Forum,Liza Carlefred,2008-09-05,2028-10-31,,
-www.cudaba.se,Utgivningsbevis,Utveckling Nordost AB,Susan Runsten,2013-08-23,,,
+www.cudaba.se,Utgivningsbevis,Utveckling Nordost AB,Susan Runsten,2013-08-23,2023-08-22,,
 www.utvagen.se,Utgivningsbevis,Utvägen AB,Roland Tipner,2018-05-24,2028-05-23,,
 "Mera Ljungby, www.meraljungby.se",Utgivningsbevis,VXO Media AB,Daniel Rydström,2020-10-29,2030-10-28,,
 vxonews.se,Utgivningsbevis,VXO Media AB,Daniel Rydström,2016-04-01,2026-03-31,,
@@ -5819,13 +5817,13 @@ varningsinfo.se,Utgivningsbevis,Varningsinfo i Sverige AB,Dick Malmlund,2010-12-
 vasakronan.se,Utgivningsbevis,Vasakronan AB,Rebecca Liljebladh Thorell,2018-08-29,2028-08-28,,
 www.svenskakyrkan.se/vaxholm,Utgivningsbevis,Vaxholms församling,Madeleine Sarenfält,2020-06-15,2030-06-14,,
 http://www.bostadspolitik.se,Utgivningsbevis,Veidekke Sverige AB,Lennart Weiss,2017-07-06,2027-07-05,,
-"Veidos, www.veidos.nu",Utgivningsbevis,Veidos AB,Cecilia Gustafsson,2019-02-26,2029-02-25,,
+"Veidos, www.veidos.nu",Utgivningsbevis,Veidos AB,Dano Kostovski,2019-02-26,2029-02-25,,
 vellinge.se,Utgivningsbevis,Vellinge kommun,Mats Adolfsson,2015-12-21,2025-12-20,,
 www.svenskakyrkan.se/vellinge,Utgivningsbevis,Vellinge-Månstorps församling,Iva-Katharina Kummer,2021-06-18,2031-06-17,,
 Vembi.se,Utgivningsbevis,Vembi Ägarinformation AB,Anders Lundgren,2015-03-02,2025-03-01,,
 www.ventpartner.se,Utgivningsbevis,VentPartner Sverige AB,Ulf Bergquist,2018-05-24,2028-05-23,,
 "Verifiera, www.verifiera.se",Utgivningsbevis,Verifiera AB,Gunnar Axén,2016-11-02,2026-11-01,,
-"FotoStories, foto.vermelho.se",Utgivningsbevis,Vermelho Psykologisk hållbarhet AB,Francisco de Lacerda,2020-07-28,2030-07-27,,
+"FotoStories, foto.vermelho.se",Utgivningsbevis,Vermelho Psykologisk hĂĄllbarhet AB,Francisco de Lacerda,2020-07-28,2030-07-27,,
 "Tidningen Curie, www.tidningencurie.se",Utgivningsbevis,Vetenskapsrådet,Mikael Jonsson,2012-04-24,2032-05-02,,
 vetportalen.se,Utgivningsbevis,Vetportalen i Sverige AB,Elin Elander,2018-10-09,2028-10-08,,
 "Vi Granskar, vigranskar.com",Utgivningsbevis,Vi Granskar i Motala AB,Ulf Holmertz,2022-05-12,2032-05-11,,
@@ -5852,9 +5850,9 @@ www.svenskakyrkan.se/varo,Utgivningsbevis,Värö-Stråvalla församling,Katarina
 svenskakyrkan.se/vasterled,Utgivningsbevis,Västerleds församling,Peter Träisk,2020-01-24,2030-01-23,,
 "Värsta Frölunda pastorats externwebb, www.svenskakyrkan.se/vastrafrolundapastorat",Utgivningsbevis,Västra Frölunda pastorat,Ingvild Fallegård,2020-09-25,2030-09-24,,
 "VGR Fokus, www.vgrfokus.se",Utgivningsbevis,Västra Götalandsregionen,Jenny Erkholm,2018-01-15,2028-01-14,,
-www.svenskakyrkan.se/vastramark,Utgivningsbevis,Västra Marks församling,Ola Larsson,2020-10-01,2030-09-30,,
 svenskakyrkan.se/tunhem,Utgivningsbevis,Västra Tunhems pastorat,Manne Bennehed,2019-01-31,2029-01-30,,
 www.vardliljan.se,Utgivningsbevis,Vårdliljan AB,Jasmina Roosmark,2019-01-25,2029-01-24,,
+www.svenskakyrkan.se/vastramark,Utgivningsbevis,VĂ¤stra Marks fĂ¶rsamling,Ola Larsson,2020-10-01,2030-09-30,,
 www.westudents.se,Utgivningsbevis,WeSupero AB,Charlotte Lahdo Breyer,2022-06-09,2032-06-08,,
 https://whocalled.today/,Utgivningsbevis,WebFinance Digital i Sverige AB,Richard Andersson,2020-07-23,2030-07-23,,
 "Welcome Finna, www.finna.nu",Utgivningsbevis,Welcome Online AB,Björn Joakim Hallberg,2016-06-15,2026-06-14,,
