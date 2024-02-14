@@ -3,7 +3,7 @@ from requests.adapters import HTTPAdapter
 from requests_futures.sessions import FuturesSession
 from urllib3.util import Retry
 
-MAIN_URL = 'https://www.mprt.se/tillstandsregister/'
+MAIN_URL = 'https://mediemyndigheten.se/tillstandsregister/'
 FETCH_MORE_URL = MAIN_URL + 'FetchMoreItems/?q=&page={}'
 
 class Downloader(object):
