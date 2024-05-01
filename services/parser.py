@@ -5,7 +5,7 @@ class Parser(object):
     def parse_register_size(response):
         soup = BeautifulSoup(response, 'html.parser')
 
-        size = soup.select_one('div[class=content__wrapper] > strong > text').text.split(' ')[0]
+        size = soup.select_one('div[class=content__wrapper] > strong > span').text.split(' ')[0]
 
         print(f'Found {size} items in the register.')
 
