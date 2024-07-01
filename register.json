@@ -182,7 +182,7 @@
     {
         "name": "Expressen TV",
         "type": "Beställ-TV",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "",
         "start": "",
         "end": "",
@@ -192,7 +192,7 @@
     {
         "name": "livesport.expressen.se",
         "type": "Beställ-TV",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "",
         "start": "",
         "end": "",
@@ -303,16 +303,6 @@
         "name": "GSOplay",
         "type": "Beställ-TV",
         "owner": "Göteborgs Symfoniker AB",
-        "publisher": "",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "HBO Max (Nederländerna)",
-        "type": "Beställ-TV",
-        "owner": "HBO Nordic AB",
         "publisher": "",
         "start": "",
         "end": "",
@@ -2132,7 +2122,7 @@
     {
         "name": "www.betongvarlden.se",
         "type": "Databas",
-        "owner": "BetongbyrĂĄn AB",
+        "owner": "Betongbyrån AB",
         "publisher": "Roger Andersson",
         "start": "",
         "end": "",
@@ -2543,7 +2533,7 @@
         "name": "Allehanda.se",
         "type": "Databas",
         "owner": "Bonnier News Local AB",
-        "publisher": "Sandra Bygdén Shameh",
+        "publisher": "Linn Grundberg",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -3650,16 +3640,6 @@
         "regions": ""
     },
     {
-        "name": "Bulletin, bulletin.nu",
-        "type": "Databas",
-        "owner": "Bulletin AB",
-        "publisher": "-",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "www.bulls.se",
         "type": "Databas",
         "owner": "Bull´s Presstjänst Aktiebolag",
@@ -3930,6 +3910,16 @@
         "regions": ""
     },
     {
+        "name": "www.mitti.se",
+        "type": "Databas",
+        "owner": "DP Direktpress Tidningsförlag AB",
+        "publisher": "Jakob Larsson",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "www.stockholmdirekt.se",
         "type": "Databas",
         "owner": "DP Direktpress Tidningsförlag AB",
@@ -3940,7 +3930,7 @@
         "regions": ""
     },
     {
-        "name": "da.se",
+        "name": "dagensarbetsmiljo.se",
         "type": "Databas",
         "owner": "Dagens Arbete AB",
         "publisher": "Helena Reistad",
@@ -3950,7 +3940,7 @@
         "regions": ""
     },
     {
-        "name": "dagensarbetsmiljo.se",
+        "name": "www.da.se",
         "type": "Databas",
         "owner": "Dagens Arbete AB",
         "publisher": "Helena Reistad",
@@ -5132,7 +5122,7 @@
     {
         "name": "www.enk-kunskap.se",
         "type": "Databas",
-        "owner": "EnkГ¶pings Kunskaps AB",
+        "owner": "Enköpings Kunskaps AB",
         "publisher": "Rolf Jönsson",
         "start": "",
         "end": "",
@@ -5232,7 +5222,7 @@
     {
         "name": "5:2 Menu for smartphone and tablet (via App Store)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5242,7 +5232,7 @@
     {
         "name": "Allt i Hemmet hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5252,7 +5242,7 @@
     {
         "name": "Allt i hemmet, http://www.alltihemmet.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5262,7 +5252,7 @@
     {
         "name": "Allt om Mat hos Arcy.se för desktop, mobil och läsplatta ( via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5272,7 +5262,7 @@
     {
         "name": "Allt om Trädgård och Fixa hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5282,7 +5272,7 @@
     {
         "name": "Allt om Trädgård, www.alltomtradgard.expressen.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5292,7 +5282,17 @@
     {
         "name": "Allt om mat, www.alltommat.expressen.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
+        "publisher": "Klas Granström",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Allt om resor, alltomresor.expressen.se",
+        "type": "Databas",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5302,7 +5302,7 @@
     {
         "name": "Amelia hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5312,7 +5312,7 @@
     {
         "name": "Damernas Värld hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5322,7 +5322,7 @@
     {
         "name": "EXPRESSEN, www.expressen.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5332,7 +5332,7 @@
     {
         "name": "Expressen Podcasts (via iTunes och applikationer för podcasts)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5342,7 +5342,7 @@
     {
         "name": "Expressen Tidning för mobil och läsplatta (via App Store)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5352,7 +5352,7 @@
     {
         "name": "Expressen Tidning för mobil och läsplatta (via Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5362,7 +5362,7 @@
     {
         "name": "Expressen med magasin och bilagor hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5372,7 +5372,7 @@
     {
         "name": "Expressen on Threads",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5382,7 +5382,7 @@
     {
         "name": "Expressen via Facebook.com",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5392,7 +5392,7 @@
     {
         "name": "Expressen via Instagram.com",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5402,7 +5402,7 @@
     {
         "name": "Expressen via Readly för mobil och läsplatta (via App Store och Android Market)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5412,7 +5412,7 @@
     {
         "name": "Expressen via TikTok",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5422,7 +5422,7 @@
     {
         "name": "Expressen via twitter.com",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5432,7 +5432,7 @@
     {
         "name": "Expressen/thomasmattsson, http://www.fakta.presstext.prb.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Thomas Mattsson",
         "start": "",
         "end": "",
@@ -5442,7 +5442,7 @@
     {
         "name": "Gods & Gårdar hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5452,7 +5452,7 @@
     {
         "name": "Gård & Torp hos Arcy.se för desktop, mobil och läsplatta (via App Store & Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5462,7 +5462,7 @@
     {
         "name": "Hem och Antik, http://www.hemochantik.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5472,7 +5472,17 @@
     {
         "name": "Hembakat hos Arcy.se för desktop, mobil och surfplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
+        "publisher": "Klas Granström",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Hälsoliv, halsoliv.expressen.se",
+        "type": "Databas",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5482,7 +5492,7 @@
     {
         "name": "Kamratposten hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5492,7 +5502,7 @@
     {
         "name": "KarinOlsson/Expressen/retriever-info.com",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Karin Olsson",
         "start": "",
         "end": "",
@@ -5502,7 +5512,7 @@
     {
         "name": "KlasGranstrom/Expressen/retriever-info.com",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5512,7 +5522,7 @@
     {
         "name": "Kvällsposten, www.kvp.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5522,7 +5532,17 @@
     {
         "name": "Lantliv hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
+        "publisher": "Klas Granström",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Leva & Bo, levaochbo.expressen.se",
+        "type": "Databas",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5532,7 +5552,7 @@
     {
         "name": "M-magasin hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5542,7 +5562,7 @@
     {
         "name": "M-magasin, http://www.m-magasin.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5552,7 +5572,7 @@
     {
         "name": "Mama hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5562,7 +5582,7 @@
     {
         "name": "Placeringsguiden hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5572,7 +5592,7 @@
     {
         "name": "Privata Affärer hos Arcy.se för desktop. mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5582,7 +5602,7 @@
     {
         "name": "STYLEBY hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5592,7 +5612,7 @@
     {
         "name": "Sköna Hem hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5602,7 +5622,7 @@
     {
         "name": "Styleby, http://styleby.nu",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5612,7 +5632,7 @@
     {
         "name": "Tara hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5622,7 +5642,7 @@
     {
         "name": "Tara, http://www.tara.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5632,7 +5652,7 @@
     {
         "name": "Teknikens Värld hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5642,7 +5662,7 @@
     {
         "name": "Teknikens Värld, www.teknikensvarld.expressen.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5652,7 +5672,7 @@
     {
         "name": "ThomasMattsson/Expressen/retriever-info.com",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Thomas Mattsson",
         "start": "",
         "end": "",
@@ -5662,7 +5682,7 @@
     {
         "name": "ToppHälsa hos Arcy.se för desktop, mobil och surfplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5672,7 +5692,7 @@
     {
         "name": "Topphälsa, http://www.topphalsa.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5682,7 +5702,7 @@
     {
         "name": "Vi föräldrar hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5692,7 +5712,7 @@
     {
         "name": "Wellie",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5702,7 +5722,7 @@
     {
         "name": "Wellie.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5712,7 +5732,7 @@
     {
         "name": "damernasvarld.expressen.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5722,7 +5742,7 @@
     {
         "name": "godsochgardar.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5732,7 +5752,7 @@
     {
         "name": "lantlivmatochvin.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5742,7 +5762,7 @@
     {
         "name": "livesport.expressen.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5752,7 +5772,7 @@
     {
         "name": "tidningenhembakat.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5762,7 +5782,7 @@
     {
         "name": "www.gt.se",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -5772,7 +5792,7 @@
     {
         "name": "www.lantliv.com",
         "type": "Databas",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -7453,7 +7473,7 @@
         "name": "www.hippson.se",
         "type": "Databas",
         "owner": "Hippson AB",
-        "publisher": "-",
+        "publisher": "Cajsa Ekström Arman",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -8870,16 +8890,6 @@
         "regions": ""
     },
     {
-        "name": "www.mitti.se",
-        "type": "Databas",
-        "owner": "Lokaltidningen Mitt i Direkt AB",
-        "publisher": "Joakim Fransson",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "AirClim, www.airclim.org",
         "type": "Databas",
         "owner": "Luftförorenings- och klimatsekretariatet",
@@ -10020,7 +10030,7 @@
         "regions": ""
     },
     {
-        "name": "Nya LidkĂ¶pings-Tidningen, www.nlt.se",
+        "name": "Nya Lidköpings-Tidningen, www.nlt.se",
         "type": "Databas",
         "owner": "NWT Media AB",
         "publisher": "Malin Gustafsson Pettersson",
@@ -10320,7 +10330,7 @@
         "regions": ""
     },
     {
-        "name": "Norrbottens AffĂ¤rer/www.norrbottensaffarer.se",
+        "name": "Norrbottens Affärer/www.norrbottensaffarer.se",
         "type": "Databas",
         "owner": "Norr Media AB",
         "publisher": "Elin Emborg",
@@ -11712,7 +11722,7 @@
     {
         "name": "Kristdemokraten, www.kristdemokraten.com",
         "type": "Databas",
-        "owner": "SamhГӨllsgemenskapsfГ¶rlag AB",
+        "owner": "Samhällsgemenskapsförlag AB",
         "publisher": "Henrik Ehrenberg",
         "start": "",
         "end": "",
@@ -13132,7 +13142,7 @@
     {
         "name": "Transportarbetaren, www.transportarbetaren.se",
         "type": "Databas",
-        "owner": "Svenska TransportarbetarefĂ¶rbundet",
+        "owner": "Svenska Transportarbetareförbundet",
         "publisher": "Kristina Sjöberg",
         "start": "",
         "end": "",
@@ -13530,7 +13540,7 @@
         "regions": ""
     },
     {
-        "name": "Helsingborgs Dagblad/Eskil JГ¶nsson, www.mediearkivet.se",
+        "name": "Helsingborgs Dagblad/Eskil Jönsson, www.mediearkivet.se",
         "type": "Databas",
         "owner": "Sydsvenska Dagbladets AB",
         "publisher": "Eskil Jönsson",
@@ -13750,6 +13760,16 @@
         "regions": ""
     },
     {
+        "name": "Söders kårtidning SODA, www.soders.nu/soda",
+        "type": "Databas",
+        "owner": "Södertörns Högskolas Studentkår, Söders",
+        "publisher": "Fredrika Järnehall",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "Södra sidan (www.stockholmdirekt.se/sodrasidan)",
         "type": "Databas",
         "owner": "Södra Medborgarpress i Sthlm AB",
@@ -13794,16 +13814,6 @@
         "type": "Databas",
         "owner": "Sörmlands Media AB",
         "publisher": "Eva Burman",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "SГ¶ders kГҘrtidning SODA, www.soders.nu/soda",
-        "type": "Databas",
-        "owner": "SГ¶dertГ¶rns HГ¶gskolas StudentkГҘr, SГ¶ders",
-        "publisher": "Fredrika Järnehall",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -14004,6 +14014,16 @@
         "type": "Databas",
         "owner": "Tandläkarnas Serviceaktiebolag",
         "publisher": "Anna Norberg",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "hockeynews.se",
+        "type": "Databas",
+        "owner": "Tap in AB",
+        "publisher": "Henrik Sjöberg",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -15130,6 +15150,16 @@
         "regions": ""
     },
     {
+        "name": "www.husdjur.se",
+        "type": "Databas",
+        "owner": "Växa Sverige Ekonomisk förening",
+        "publisher": "Linda Grimstedt",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "www.tidningennotkott.se",
         "type": "Databas",
         "owner": "Växa Sverige Ekonomisk förening",
@@ -15164,16 +15194,6 @@
         "type": "Databas",
         "owner": "Vårdförbundet",
         "publisher": "Irene Wanland",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "www.husdjur.se",
-        "type": "Databas",
-        "owner": "VĂ¤xa Sverige Ekonomisk fĂ¶rening",
-        "publisher": "Linda Grimstedt",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -15614,6 +15634,16 @@
         "type": "E-postutskick",
         "owner": "AB Nya Dala-Demokraten",
         "publisher": "Fredrika Hillervik",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Länstidningen i Östersund E-postutskick",
+        "type": "E-postutskick",
+        "owner": "AB Nya Länstidningen i Östersund",
+        "publisher": "Linda Forth",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -16394,6 +16424,16 @@
         "type": "E-postutskick",
         "owner": "Bonnier News Local AB",
         "publisher": "Claes Rydholm",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Örnsköldsviks Allehanda e-postutskick",
+        "type": "E-postutskick",
+        "owner": "Bonnier News Local AB",
+        "publisher": "Linn Grundberg",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -18134,6 +18174,16 @@
         "type": "E-postutskick",
         "owner": "Joachim Persson",
         "publisher": "Joachim Persson",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Joakim Lamotte",
+        "type": "E-postutskick",
+        "owner": "Joakim Lamotte",
+        "publisher": "Joakim Lamotte",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -19923,7 +19973,7 @@
         "name": "Nyhetsbrev Lund-Arlöv",
         "type": "E-postutskick",
         "owner": "Trafikverket",
-        "publisher": "Kim Anneli Nilsson",
+        "publisher": "Jens-Peter Eisenschmidt",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -19933,7 +19983,7 @@
         "name": "Nyhetsbrev Lund-Arlöv",
         "type": "E-postutskick",
         "owner": "Trafikverket",
-        "publisher": "Jens-Peter Eisenschmidt",
+        "publisher": "Kim Anneli Nilsson",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -21220,7 +21270,7 @@
         "regions": ""
     },
     {
-        "name": "ÖKV",
+        "name": "ÖKK",
         "type": "Lokala kabelsändarorg.",
         "owner": "Föreningen Öppna Kanalen Växjö/Kronoberg",
         "publisher": "Erik Jarl",
@@ -21308,6 +21358,16 @@
         "end": "2026-12-31",
         "municipalities": "Stockholms kommun",
         "regions": "Stockholms län"
+    },
+    {
+        "name": "History Sweden",
+        "type": "Marksänd TV",
+        "owner": "AETN UK Germany GmbH",
+        "publisher": "",
+        "start": "2020-12-15",
+        "end": "2025-12-31",
+        "municipalities": "",
+        "regions": "1. Rikstäckande"
     },
     {
         "name": "Godare",
@@ -22075,7 +22135,7 @@
         "owner": "Bollebygds Radioförening",
         "publisher": "Sebastian Bourghardt",
         "start": "2019-05-02",
-        "end": "2024-05-31",
+        "end": "2029-06-30",
         "municipalities": "Bollebygds kommun",
         "regions": "Västra Götalands län"
     },
@@ -23693,7 +23753,7 @@
         "name": "Kunskapsradion i Karlstad",
         "type": "Närradio",
         "owner": "Karlstads Centerpartiavdelning",
-        "publisher": "Sven-Erik Svensson",
+        "publisher": "-",
         "start": "1989-09-12",
         "end": "",
         "municipalities": "Karlstads kommun",
@@ -25320,6 +25380,16 @@
         "regions": "Västra Götalands län"
     },
     {
+        "name": "Radio Gagnef medlemsförening",
+        "type": "Närradio",
+        "owner": "Radio Gagnefs Medlemsförening",
+        "publisher": "-",
+        "start": "2024-05-31",
+        "end": "2029-05-31",
+        "municipalities": "Gagnefs kommun",
+        "regions": ""
+    },
+    {
         "name": "Radio Halmstad",
         "type": "Närradio",
         "owner": "Radio Halmstad",
@@ -25420,6 +25490,16 @@
         "regions": ""
     },
     {
+        "name": "Yalla FM",
+        "type": "Närradio",
+        "owner": "Radio Rock i Kristianstad",
+        "publisher": "Jan Pettersson",
+        "start": "2019-04-24",
+        "end": "2029-04-30",
+        "municipalities": "Kristianstads kommun",
+        "regions": ""
+    },
+    {
         "name": "Radio Sisu Sampo",
         "type": "Närradio",
         "owner": "Radio Sisu Sampo",
@@ -25448,16 +25528,6 @@
         "end": "2024-07-31",
         "municipalities": "Trollhättans kommun",
         "regions": "Västra Götalands län"
-    },
-    {
-        "name": "Radio Solsta -Karlstads Närradioförening",
-        "type": "Närradio",
-        "owner": "Radio Solsta - Karlstads närradioförening",
-        "publisher": "Sven-Erik Svensson",
-        "start": "1987-10-29",
-        "end": "",
-        "municipalities": "Karlstads kommun",
-        "regions": "Värmlands län"
     },
     {
         "name": "Radio Strömkarlen",
@@ -26085,7 +26155,7 @@
         "owner": "Stiftelsen Fontänhuset Malmö/ Radiofontänen",
         "publisher": "Karina Topel",
         "start": "2019-10-11",
-        "end": "2024-10-31",
+        "end": "2029-06-30",
         "municipalities": "Malmö kommun",
         "regions": "Skåne län"
     },
@@ -26148,16 +26218,6 @@
         "end": "",
         "municipalities": "Hallsbergs kommun,Kumla kommun",
         "regions": "Örebro län"
-    },
-    {
-        "name": "Radio SFR 89,0 Mhz",
-        "type": "Närradio",
-        "owner": "Studiefrämjandet i Östergötland",
-        "publisher": "Jörgen Larsson",
-        "start": "2022-03-28",
-        "end": "2027-03-31",
-        "municipalities": "Norrköpings kommun",
-        "regions": "Östergötlands län"
     },
     {
         "name": "Exporadio, Musik på dragspel från lusta loge i Torsby",
@@ -26278,6 +26338,16 @@
         "end": "2024-10-31",
         "municipalities": "Svedala kommun",
         "regions": ""
+    },
+    {
+        "name": "Bosnien-Hercegovinas Radio",
+        "type": "Närradio",
+        "owner": "Svensk-Bosnisk Information- och Media Förening",
+        "publisher": "-",
+        "start": "2024-06-14",
+        "end": "2029-06-30",
+        "municipalities": "Malmö kommun",
+        "regions": "Skåne län"
     },
     {
         "name": "Svensk-Isländska föreningens radiosändning i Göteborg på FM 103,1.",
@@ -26684,26 +26754,6 @@
         "type": "Närradio",
         "owner": "Värnamo Kristna Samarbetsråd",
         "publisher": "Karlsson, Lennart",
-        "start": "1987-11-01",
-        "end": "",
-        "municipalities": "Värnamo kommun",
-        "regions": "Jönköpings län"
-    },
-    {
-        "name": "Radio MF",
-        "type": "Närradio",
-        "owner": "Värnamo Missionskyrka",
-        "publisher": "Britta Bolmenäs",
-        "start": "1987-11-01",
-        "end": "",
-        "municipalities": "Värnamo kommun",
-        "regions": "Jönköpings län"
-    },
-    {
-        "name": "Värnamo Församlings Närradio.",
-        "type": "Närradio",
-        "owner": "Värnamo församling",
-        "publisher": "Pär-Magnus Möller",
         "start": "1987-11-01",
         "end": "",
         "municipalities": "Värnamo kommun",
@@ -27650,16 +27700,6 @@
         "regions": ""
     },
     {
-        "name": "Torpradion, Torpkonferensen",
-        "type": "Tillfälliga tillstånd",
-        "owner": "Evangeliska Frikyrkan",
-        "publisher": "Ingemar Forss",
-        "start": "2024-06-17",
-        "end": "2024-06-23",
-        "municipalities": "Kumla kommun",
-        "regions": "Örebro län"
-    },
-    {
         "name": "Radio Lapplandsveckan",
         "type": "Tillfälliga tillstånd",
         "owner": "Föreningen Lapplandsveckan",
@@ -27667,16 +27707,6 @@
         "start": "2024-06-29",
         "end": "2024-07-07",
         "municipalities": "Lycksele kommun",
-        "regions": ""
-    },
-    {
-        "name": "Funkisradion",
-        "type": "Tillfälliga tillstånd",
-        "owner": "Henrik Pålsson",
-        "publisher": "Henrik Pålsson",
-        "start": "2024-05-27",
-        "end": "2024-06-09",
-        "municipalities": "Halmstads kommun",
         "regions": ""
     },
     {
@@ -28613,7 +28643,7 @@
         "name": "allehanda.se TV",
         "type": "Trådsändningar",
         "owner": "Bonnier News Local AB",
-        "publisher": "Sandra Bygdén Shameh",
+        "publisher": "Linn Grundberg",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -29782,7 +29812,7 @@
     {
         "name": "Di TV",
         "type": "Trådsändningar",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -29792,7 +29822,7 @@
     {
         "name": "Expressen TV",
         "type": "Trådsändningar",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -29802,7 +29832,7 @@
     {
         "name": "sportexpressenplay",
         "type": "Trådsändningar",
-        "owner": "Expressen Lifestyle AB",
+        "owner": "Expressen AB",
         "publisher": "Klas Granström",
         "start": "",
         "end": "",
@@ -38720,6 +38750,16 @@
         "regions": ""
     },
     {
+        "name": "Breinholts",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "Breinholts Julekalender",
         "type": "Trådsändningar",
         "owner": "VIMN Nordic AB",
@@ -38801,6 +38841,16 @@
     },
     {
         "name": "Dansktoppen",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Det sene show med Christian Fuhlendorff",
         "type": "Trådsändningar",
         "owner": "VIMN Nordic AB",
         "publisher": "Christopher Lindahl",
@@ -38980,6 +39030,16 @@
         "regions": ""
     },
     {
+        "name": "Happy Birthday South Park",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "Högspänning",
         "type": "Trådsändningar",
         "owner": "VIMN Nordic AB",
@@ -39071,6 +39131,16 @@
     },
     {
         "name": "Klovn",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Koch’en på Toppen",
         "type": "Trådsändningar",
         "owner": "VIMN Nordic AB",
         "publisher": "Christopher Lindahl",
@@ -39530,6 +39600,16 @@
         "regions": ""
     },
     {
+        "name": "Paradise Hotel: Under lagerne",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "Pawn Stars",
         "type": "Trådsändningar",
         "owner": "VIMN Nordic AB",
@@ -39628,6 +39708,16 @@
         "end": "",
         "municipalities": "",
         "regions": "INTERNET"
+    },
+    {
+        "name": "Pluto TV Håndboll",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
     },
     {
         "name": "Pluto TV Inside",
@@ -39871,6 +39961,126 @@
     },
     {
         "name": "Smithsonian Channel Selects",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "South Park",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "South Park Armageddon",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "South Park: Alien Invasion",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "South Park: Best of Tolkien",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "South Park: Butters Collection",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "South Park: Cartman Collection",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "South Park: Halloween",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "South Park: Into The Stars",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "South Park: Kenny Collection",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "South Park: Kyle Collection",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "South Park: Rockin’ Out",
+        "type": "Trådsändningar",
+        "owner": "VIMN Nordic AB",
+        "publisher": "Christopher Lindahl",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "South Park: Stan Collection",
         "type": "Trådsändningar",
         "owner": "VIMN Nordic AB",
         "publisher": "Christopher Lindahl",
@@ -41260,9 +41470,9 @@
         "regions": ""
     },
     {
-        "name": "Svensk byggtjГӨnst, byggtjanst.se",
+        "name": "Svensk byggtjänst, byggtjanst.se",
         "type": "Utgivningsbevis",
-        "owner": "AB Svensk ByggtjГӨnst",
+        "owner": "AB Svensk Byggtjänst",
         "publisher": "Kajsa Hessel",
         "start": "2018-06-15",
         "end": "2028-06-14",
@@ -43063,7 +43273,7 @@
         "name": "Bulletin, bulletin.nu",
         "type": "Utgivningsbevis",
         "owner": "Bulletin Media Sverige AB",
-        "publisher": "Ofer Maimon Gralvik",
+        "publisher": "Pelle Zakrisson",
         "start": "2021-03-16",
         "end": "2031-03-15",
         "municipalities": "",
@@ -43276,16 +43486,6 @@
         "publisher": "Chris Springstrike",
         "start": "2021-08-06",
         "end": "2031-08-05",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "assarchristian.se",
-        "type": "Utgivningsbevis",
-        "owner": "Christian Peterson",
-        "publisher": "Christian Peterson",
-        "start": "2023-08-31",
-        "end": "2033-08-30",
         "municipalities": "",
         "regions": ""
     },
@@ -43700,6 +43900,16 @@
         "regions": ""
     },
     {
+        "name": "assarchristian.se",
+        "type": "Utgivningsbevis",
+        "owner": "David Eriksson",
+        "publisher": "David Eriksson",
+        "start": "2023-08-31",
+        "end": "2033-08-30",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "www.bimcam.com",
         "type": "Utgivningsbevis",
         "owner": "David Fristedt",
@@ -43980,12 +44190,12 @@
         "regions": ""
     },
     {
-        "name": "Businesscheck, www.businesscheck.se",
+        "name": "Business Check, businesscheck.se",
         "type": "Utgivningsbevis",
         "owner": "Dun & Bradstreet Credit AB",
         "publisher": "Thomas Thornberg",
         "start": "2014-04-08",
-        "end": "2024-04-07",
+        "end": "2034-04-07",
         "municipalities": "",
         "regions": ""
     },
@@ -45210,6 +45420,16 @@
         "regions": ""
     },
     {
+        "name": "Fremia, www.fremia.se",
+        "type": "Utgivningsbevis",
+        "owner": "Fremia",
+        "publisher": "Petter Skogar",
+        "start": "2024-06-25",
+        "end": "2034-06-24",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "fridtjuv.se",
         "type": "Utgivningsbevis",
         "owner": "Fridtjuv AB",
@@ -46110,6 +46330,16 @@
         "regions": ""
     },
     {
+        "name": "GU Play, play.gu.se",
+        "type": "Utgivningsbevis",
+        "owner": "Göteborgs universitet",
+        "publisher": "Erik Lundberg",
+        "start": "2018-11-21",
+        "end": "2028-11-20",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "NordMedia Network, nordmedianetwork.org",
         "type": "Utgivningsbevis",
         "owner": "Göteborgs universitet, Nordicom",
@@ -46146,16 +46376,6 @@
         "publisher": "Kristina Pettersson",
         "start": "2019-07-03",
         "end": "2029-07-02",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "GU Play, play.gu.se",
-        "type": "Utgivningsbevis",
-        "owner": "GĂ¶teborgs universitet",
-        "publisher": "Erik Lundberg",
-        "start": "2018-11-21",
-        "end": "2028-11-20",
         "municipalities": "",
         "regions": ""
     },
@@ -46650,6 +46870,16 @@
         "regions": ""
     },
     {
+        "name": "FoodMonitor.se",
+        "type": "Utgivningsbevis",
+        "owner": "Håkan Frisell",
+        "publisher": "Håkan Frisell",
+        "start": "2007-09-27",
+        "end": "2028-01-17",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "www.braodds.com",
         "type": "Utgivningsbevis",
         "owner": "Håkan Klingén (enskild näringsidkare)",
@@ -46690,16 +46920,6 @@
         "regions": ""
     },
     {
-        "name": "FoodMonitor.se",
-        "type": "Utgivningsbevis",
-        "owner": "HĂĄkan Frisell",
-        "publisher": "Håkan Frisell",
-        "start": "2007-09-27",
-        "end": "2028-01-17",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "ID06-systemet, www.id06.se",
         "type": "Utgivningsbevis",
         "owner": "ID06 AB",
@@ -46713,7 +46933,7 @@
         "name": "IFK Malmö Fotboll, www.ifkmalmo.se",
         "type": "Utgivningsbevis",
         "owner": "IFK Malmö Fotbollsklubb",
-        "publisher": "Torbjörn Karlsson",
+        "publisher": "Edwin Condrup",
         "start": "2017-11-15",
         "end": "2027-11-14",
         "municipalities": "",
@@ -47930,6 +48150,16 @@
         "regions": ""
     },
     {
+        "name": "Ranisty, www.ranisty.com",
+        "type": "Utgivningsbevis",
+        "owner": "Konsultra AB",
+        "publisher": "Babak Badri",
+        "start": "2024-06-27",
+        "end": "2034-06-26",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "Krafman, krafman.se",
         "type": "Utgivningsbevis",
         "owner": "Krafguard AB",
@@ -49000,16 +49230,6 @@
         "regions": ""
     },
     {
-        "name": "Burlövs Nyheter, www.burlovsnyheter.se",
-        "type": "Utgivningsbevis",
-        "owner": "Malin Lindgren",
-        "publisher": "Malin Lindgren",
-        "start": "2014-10-28",
-        "end": "2024-10-27",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "Malmfälten Bandtransport & Miljöservice AB, www.mbm-ab.se",
         "type": "Utgivningsbevis",
         "owner": "Malmfälten Bandtransport och Miljöservice AB",
@@ -49260,16 +49480,6 @@
         "regions": ""
     },
     {
-        "name": "Avpixlat, avpixlat.info",
-        "type": "Utgivningsbevis",
-        "owner": "Mats Dagerlind",
-        "publisher": "Mats Dagerlind",
-        "start": "2014-05-26",
-        "end": "2024-05-25",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "Mats Engström, www.mengstrom.blogspot.com",
         "type": "Utgivningsbevis",
         "owner": "Mats Engström",
@@ -49360,9 +49570,9 @@
         "regions": ""
     },
     {
-        "name": "Medicinska FГ¶reningens hemsida, medicinskaforeningen.se",
+        "name": "Medicinska Föreningens hemsida, medicinskaforeningen.se",
         "type": "Utgivningsbevis",
-        "owner": "Medicinska FГ¶reningen i Stockholm",
+        "owner": "Medicinska Föreningen i Stockholm",
         "publisher": "Tove Persson",
         "start": "2021-03-31",
         "end": "2031-03-30",
@@ -49663,7 +49873,7 @@
         "name": "Nyheterivasterbotten.se",
         "type": "Utgivningsbevis",
         "owner": "Moderaterna i AC-län",
-        "publisher": "Edward Riedl",
+        "publisher": "Anton Bergström Nord",
         "start": "2017-03-21",
         "end": "2027-03-20",
         "municipalities": "",
@@ -49756,6 +49966,16 @@
         "publisher": "Lena Rowa",
         "start": "2016-09-28",
         "end": "2026-09-27",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "midcent.se",
+        "type": "Utgivningsbevis",
+        "owner": "Morgenland AB",
+        "publisher": "Daniel Sköld",
+        "start": "2024-06-25",
+        "end": "2034-06-24",
         "municipalities": "",
         "regions": ""
     },
@@ -50410,16 +50630,6 @@
         "regions": ""
     },
     {
-        "name": "nkfc.overtornea.se",
-        "type": "Utgivningsbevis",
-        "owner": "Nordkalottens kultur- och forskningscentrum, Övertorneå kommun",
-        "publisher": "Henry Barsk",
-        "start": "2014-05-09",
-        "end": "2024-05-08",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "Nordtass Foto, nordtass.se",
         "type": "Utgivningsbevis",
         "owner": "Nordtass Foto",
@@ -50980,7 +51190,7 @@
         "regions": ""
     },
     {
-        "name": "AllmГӨn handling, allmanhandling.se",
+        "name": "Allmän handling, allmanhandling.se",
         "type": "Utgivningsbevis",
         "owner": "Panoptes Sweden AB",
         "publisher": "Ulf Fahlén",
@@ -51700,16 +51910,6 @@
         "regions": ""
     },
     {
-        "name": "www.randstadrisesmart.se",
-        "type": "Utgivningsbevis",
-        "owner": "Randstad RiseSmart AB",
-        "publisher": "Anna Svärdemo Alander",
-        "start": "2024-03-22",
-        "end": "2034-03-21",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "www.randstad.se",
         "type": "Utgivningsbevis",
         "owner": "Randstad Sweden Group AB",
@@ -51780,16 +51980,6 @@
         "regions": ""
     },
     {
-        "name": "www.molkomstidning.se",
-        "type": "Utgivningsbevis",
-        "owner": "Region Värmland (Molkoms folkhögskola)",
-        "publisher": "Helena Söderqvist",
-        "start": "2008-11-27",
-        "end": "2029-02-24",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "Konsttidningen Volym, www.rvn.se/sv/Sarprofil-delplatser/volym/",
         "type": "Utgivningsbevis",
         "owner": "Region Västernorrland",
@@ -51806,6 +51996,16 @@
         "publisher": "Lars-Erik Marklund",
         "start": "2012-02-22",
         "end": "2032-02-21",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "www.molkomstidning.se",
+        "type": "Utgivningsbevis",
+        "owner": "Region VĂ¤rmland (Molkoms folkhĂ¶gskola)",
+        "publisher": "Helena Söderqvist",
+        "start": "2008-11-27",
+        "end": "2029-02-24",
         "municipalities": "",
         "regions": ""
     },
@@ -52152,7 +52352,7 @@
     {
         "name": "rydinfo.com/rydkampen",
         "type": "Utgivningsbevis",
-        "owner": "Rydkampen Ekonomisk förening",
+        "owner": "Rydkampen Ekonomisk fĂ¶rening",
         "publisher": "Dan Fjällström",
         "start": "2009-01-09",
         "end": "2029-01-10",
@@ -52170,22 +52370,22 @@
         "regions": ""
     },
     {
+        "name": "www.rattvik.se",
+        "type": "Utgivningsbevis",
+        "owner": "Rättviks kommun",
+        "publisher": "Johan Malm",
+        "start": "2009-06-16",
+        "end": "2029-06-16",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "www.rodjare.se",
         "type": "Utgivningsbevis",
         "owner": "Rödjares Elektriska AB",
         "publisher": "Stefan Franzén",
         "start": "2018-05-22",
         "end": "2028-05-21",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "www.rattvik.se",
-        "type": "Utgivningsbevis",
-        "owner": "RГӨttviks kommun",
-        "publisher": "Johan Malm",
-        "start": "2009-06-16",
-        "end": "2029-06-16",
         "municipalities": "",
         "regions": ""
     },
@@ -53122,7 +53322,7 @@
     {
         "name": "www.naringslivets-medieinstitut.se",
         "type": "Utgivningsbevis",
-        "owner": "Stiftelsen Fritt NĂ¤ringsliv",
+        "owner": "Stiftelsen Fritt Näringsliv",
         "publisher": "Mats Olin",
         "start": "2018-05-07",
         "end": "2028-05-06",
@@ -53492,7 +53692,7 @@
     {
         "name": "svenskakyrkan.se/sundsvall",
         "type": "Utgivningsbevis",
-        "owner": "Sundsvalls fГ¶rsamling",
+        "owner": "Sundsvalls församling",
         "publisher": "Lovisa Schmidt",
         "start": "2019-11-13",
         "end": "2029-11-12",
@@ -53742,7 +53942,7 @@
     {
         "name": "www.forsvarsutbildarna.se",
         "type": "Utgivningsbevis",
-        "owner": "Svenska FĂ¶rsvarsutbildningsfĂ¶rbundet",
+        "owner": "Svenska Försvarsutbildningsförbundet",
         "publisher": "Kristoffer Bäckström",
         "start": "2018-11-20",
         "end": "2028-11-19",
@@ -53812,7 +54012,7 @@
     {
         "name": "www.kommunal.se",
         "type": "Utgivningsbevis",
-        "owner": "Svenska KommunalarbetarefГ¶rbundet",
+        "owner": "Svenska Kommunalarbetareförbundet",
         "publisher": "Christian Scharf",
         "start": "2014-09-30",
         "end": "2024-09-29",
@@ -53850,9 +54050,9 @@
         "regions": ""
     },
     {
-        "name": "Svenska RidsportfĂ¶rbundet, ridsport.se",
+        "name": "Svenska Ridsportförbundet, ridsport.se",
         "type": "Utgivningsbevis",
-        "owner": "Svenska RidsportfĂ¶rbundet",
+        "owner": "Svenska Ridsportförbundet",
         "publisher": "Annika Tjernström",
         "start": "2018-12-06",
         "end": "2028-12-05",
@@ -53910,16 +54110,6 @@
         "regions": ""
     },
     {
-        "name": "www.transport.se/avd6",
-        "type": "Utgivningsbevis",
-        "owner": "Svenska Transportarbetareförbundet Avd. 6",
-        "publisher": "Mikael Ladman",
-        "start": "2015-06-12",
-        "end": "2025-06-11",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "www.transport.se/avdelningar/orebro",
         "type": "Utgivningsbevis",
         "owner": "Svenska Transportarbetareförbundet avd 9",
@@ -53930,12 +54120,22 @@
         "regions": ""
     },
     {
-        "name": "Svenska TransportarbetarfĂ¶rbundet avd 14, www.transport.se/avd14",
+        "name": "Svenska Transportarbetarförbundet avd 14, www.transport.se/avd14",
         "type": "Utgivningsbevis",
-        "owner": "Svenska TransportarbetarefĂ¶rbundet, Avd 14",
+        "owner": "Svenska Transportarbetareförbundet, Avd 14",
         "publisher": "Ali Shibl",
         "start": "2003-09-29",
         "end": "2033-11-28",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "www.transport.se/avd6",
+        "type": "Utgivningsbevis",
+        "owner": "Svenska TransportarbetarefĂ¶rbundet Avd. 6",
+        "publisher": "Mikael Ladman",
+        "start": "2015-06-12",
+        "end": "2025-06-11",
         "municipalities": "",
         "regions": ""
     },
@@ -54030,6 +54230,16 @@
         "regions": ""
     },
     {
+        "name": "företagsamheten.se",
+        "type": "Utgivningsbevis",
+        "owner": "Svenskt Näringsliv",
+        "publisher": "Nicklas Mattsson",
+        "start": "2014-08-25",
+        "end": "2024-08-24",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "arbetsmarknadsnytt.se",
         "type": "Utgivningsbevis",
         "owner": "Svenskt Näringsliv Service AB",
@@ -54046,16 +54256,6 @@
         "publisher": "Anna Dalqvist",
         "start": "2017-04-26",
         "end": "2027-04-25",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "fĂ¶retagsamheten.se",
-        "type": "Utgivningsbevis",
-        "owner": "Svenskt NĂ¤ringsliv",
-        "publisher": "Nicklas Mattsson",
-        "start": "2014-08-25",
-        "end": "2024-08-24",
         "municipalities": "",
         "regions": ""
     },
