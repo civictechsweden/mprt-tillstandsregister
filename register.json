@@ -110,16 +110,6 @@
         "regions": ""
     },
     {
-        "name": "CTV Play, www.ctvplay.se",
-        "type": "Beställ-TV",
-        "owner": "Carlskoga Television AB",
-        "publisher": "",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "Artmann Media",
         "type": "Beställ-TV",
         "owner": "Casimir Artmann",
@@ -510,29 +500,19 @@
         "regions": ""
     },
     {
+        "name": "Program A-Ö",
+        "type": "Beställ-TV",
+        "owner": "TV4 Aktiebolag",
+        "publisher": "",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "TV4 Play, http://www.tv4play.se",
         "type": "Beställ-TV",
         "owner": "TV4 Aktiebolag",
-        "publisher": "",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "TV4.se, www.tv4.se",
-        "type": "Beställ-TV",
-        "owner": "TV4 Aktiebolag",
-        "publisher": "",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "DagenTV",
-        "type": "Beställ-TV",
-        "owner": "Tidnings AB Nya Dagen",
         "publisher": "",
         "start": "",
         "end": "",
@@ -2092,7 +2072,7 @@
     {
         "name": "www.betongvarlden.se",
         "type": "Databas",
-        "owner": "Betongbyrån AB",
+        "owner": "BetongbyrĂĄn AB",
         "publisher": "Roger Andersson",
         "start": "",
         "end": "",
@@ -5300,7 +5280,7 @@
         "regions": ""
     },
     {
-        "name": "Amelia hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
+        "name": "Amelia",
         "type": "Databas",
         "owner": "Expressen AB",
         "publisher": "Klas Granström",
@@ -5330,7 +5310,47 @@
         "regions": ""
     },
     {
-        "name": "Expressen Podcasts (via iTunes och applikationer för podcasts)",
+        "name": "Expressen Podcasts (via Podbean.com och applikationer)",
+        "type": "Databas",
+        "owner": "Expressen AB",
+        "publisher": "Klas Granström",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Expressen Podcasts (via Podcasts.apple.com och applikationer för podcasts)",
+        "type": "Databas",
+        "owner": "Expressen AB",
+        "publisher": "Klas Granström",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Expressen Podcasts (via Podplay.com och applikationer)",
+        "type": "Databas",
+        "owner": "Expressen AB",
+        "publisher": "Klas Granström",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Expressen Podcasts (via Spotify.com och applikationer)",
+        "type": "Databas",
+        "owner": "Expressen AB",
+        "publisher": "Klas Granström",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Expressen Podcasts (via Youtube.com och applikationer)",
         "type": "Databas",
         "owner": "Expressen AB",
         "publisher": "Klas Granström",
@@ -5610,7 +5630,7 @@
         "regions": ""
     },
     {
-        "name": "Sköna Hem hos Arcy.se för desktop, mobil och läsplatta (via App Store och Google Play)",
+        "name": "Sköna hem",
         "type": "Databas",
         "owner": "Expressen AB",
         "publisher": "Klas Granström",
@@ -5761,6 +5781,16 @@
     },
     {
         "name": "livesport.expressen.se",
+        "type": "Databas",
+        "owner": "Expressen AB",
+        "publisher": "Klas Granström",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "mama",
         "type": "Databas",
         "owner": "Expressen AB",
         "publisher": "Klas Granström",
@@ -7074,26 +7104,6 @@
         "type": "Databas",
         "owner": "Gotlands Media AB",
         "publisher": "Ulf Hammarlund",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "Gotlands Allehanda, www.gotlandsallehanda.se",
-        "type": "Databas",
-        "owner": "Gotlands Press AB",
-        "publisher": "Jan Olov Olsson",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "Gotlands Tidningar, www.gotlandstidningar.se",
-        "type": "Databas",
-        "owner": "Gotlands Press AB",
-        "publisher": "Tomas Rubin",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -9830,6 +9840,26 @@
         "regions": ""
     },
     {
+        "name": "Gotlands Allehanda, gotlandsallehanda.se",
+        "type": "Databas",
+        "owner": "NTM Media AB",
+        "publisher": "Nils Olauson",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Gotlands Tidningar, gotlandstidningar.se",
+        "type": "Databas",
+        "owner": "NTM Media AB",
+        "publisher": "Nils Olauson",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "Södermanlands Nyheter, www.sn.se",
         "type": "Databas",
         "owner": "NTM Media AB",
@@ -10000,7 +10030,7 @@
         "regions": ""
     },
     {
-        "name": "Nya Lidköpings-Tidningen, www.nlt.se",
+        "name": "Nya LidkĂ¶pings-Tidningen, www.nlt.se",
         "type": "Databas",
         "owner": "NWT Media AB",
         "publisher": "Malin Gustafsson Pettersson",
@@ -10320,7 +10350,7 @@
         "regions": ""
     },
     {
-        "name": "Norrbottens Affärer/www.norrbottensaffarer.se",
+        "name": "Norrbottens AffĂ¤rer/www.norrbottensaffarer.se",
         "type": "Databas",
         "owner": "Norr Media AB",
         "publisher": "Elin Emborg",
@@ -10523,7 +10553,7 @@
         "name": "Megafonen Skellefteå, www.megafonen.se",
         "type": "Databas",
         "owner": "Nyhetsmegafonen i Skellefteå AB",
-        "publisher": "Magnus Lindkvist",
+        "publisher": "Jonas Nilsson",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -11570,16 +11600,6 @@
         "regions": ""
     },
     {
-        "name": "Svensk Förening för Anestesi och Intensivvård, www.sfai.se",
-        "type": "Databas",
-        "owner": "SFAI Verksamheter AB",
-        "publisher": "Göran Karlström",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "FOOD & NUTRITION RESEARCH, www.foodandnutritionresearch.net",
         "type": "Databas",
         "owner": "SNF Swedish Nutrition Foundation",
@@ -12500,6 +12520,16 @@
         "regions": ""
     },
     {
+        "name": "Suomikoti – suomenkielinen hoivakoti Ruotsissa – finskspråkigt äldreboende, www.suomikoti.se",
+        "type": "Databas",
+        "owner": "Suomikoti",
+        "publisher": "Jarmo Kovanen",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "Dalabygden (app)",
         "type": "Databas",
         "owner": "Sveagruppen Tidnings AB",
@@ -12694,6 +12724,16 @@
         "type": "Databas",
         "owner": "Svensk Flygledareförening SFF",
         "publisher": "Per-Olof Persson",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Svensk Förening för Anestesi och Intensivvård, www.sfai.se",
+        "type": "Databas",
+        "owner": "Svensk Förening för Anestesi och Intensivvård",
+        "publisher": "Karin Löwhagen",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -13042,7 +13082,7 @@
     {
         "name": "Transportarbetaren, www.transportarbetaren.se",
         "type": "Databas",
-        "owner": "Svenska Transportarbetareförbundet",
+        "owner": "Svenska TransportarbetarefĂ¶rbundet",
         "publisher": "Kristina Sjöberg",
         "start": "",
         "end": "",
@@ -14583,7 +14623,7 @@
         "name": "The Perspective Webzine",
         "type": "Databas",
         "owner": "Utrikespolitiska Föreningen i Lund",
-        "publisher": "-",
+        "publisher": "Roya Juhlin-Dannfelt",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -15033,7 +15073,7 @@
         "name": "www.husdjur.se",
         "type": "Databas",
         "owner": "Växa Sverige Ekonomisk förening",
-        "publisher": "Marianne Lindberg",
+        "publisher": "Jonas Rindefjell",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -16610,6 +16650,16 @@
         "regions": ""
     },
     {
+        "name": "Veckobrev Investeramera.se",
+        "type": "E-postutskick",
+        "owner": "CashLeads Media AB",
+        "publisher": "Albin Kjellberg",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "CAN:s nyhetsbrev",
         "type": "E-postutskick",
         "owner": "Centralförbundet för alkohol- och narkotikaupplysning",
@@ -18020,6 +18070,16 @@
         "regions": ""
     },
     {
+        "name": "Nyheter från Keflingeposten",
+        "type": "E-postutskick",
+        "owner": "Jens Olof Grip företagen AB",
+        "publisher": "Jens Grip",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "serge/Fotograf Kimme Persson, www.serge.se",
         "type": "E-postutskick",
         "owner": "Joachim Persson",
@@ -18480,16 +18540,6 @@
         "regions": ""
     },
     {
-        "name": "Miljömålsnytt, www.naturvardsverket.se",
-        "type": "E-postutskick",
-        "owner": "Naturvårdsverket",
-        "publisher": "Berit Oscarsson",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "Nyhetsbrev från Vindval",
         "type": "E-postutskick",
         "owner": "Naturvårdsverket",
@@ -18544,16 +18594,6 @@
         "type": "E-postutskick",
         "owner": "Naturvårdsverket",
         "publisher": "Åsa Söderberg",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "Viltnytt",
-        "type": "E-postutskick",
-        "owner": "Naturvårdsverket",
-        "publisher": "Berit Oscarsson",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -21110,16 +21150,6 @@
         "regions": "Östergötlands län"
     },
     {
-        "name": "SOTV",
-        "type": "Lokala kabelsändarorg.",
-        "owner": "E-sports TV förening",
-        "publisher": "Ahmed Aaden",
-        "start": "2021-09-15",
-        "end": "2024-09-14",
-        "municipalities": "Sollentuna kommun",
-        "regions": ""
-    },
-    {
         "name": "Öppna Kanalen Västerås",
         "type": "Lokala kabelsändarorg.",
         "owner": "Föreningen Öppna Kanalen Västerås",
@@ -21208,16 +21238,6 @@
         "end": "2027-09-03",
         "municipalities": "Växjö kommun",
         "regions": "Kronobergs län"
-    },
-    {
-        "name": "Öppna Kanalen Närke",
-        "type": "Lokala kabelsändarorg.",
-        "owner": "Öppna Kanalen Närke",
-        "publisher": "-",
-        "start": "2021-11-08",
-        "end": "2024-11-07",
-        "municipalities": "Hallsbergs kommun,Kumla kommun,Örebro kommun",
-        "regions": "Örebro län"
     },
     {
         "name": "ÖPPNA KANALEN STOCKHOLM",
@@ -22760,16 +22780,6 @@
         "regions": "Gotland"
     },
     {
-        "name": "GO FM",
-        "type": "Närradio",
-        "owner": "GO FM",
-        "publisher": "Anders Nilsson",
-        "start": "2019-11-29",
-        "end": "2024-11-30",
-        "municipalities": "Göteborgs kommun",
-        "regions": ""
-    },
-    {
         "name": "Radio Gagnef",
         "type": "Närradio",
         "owner": "Gagnefs närradioförening",
@@ -23495,7 +23505,7 @@
         "owner": "Klassiska Hits Eslöv",
         "publisher": "Zlatko Nedanovski",
         "start": "2019-11-29",
-        "end": "2024-11-30",
+        "end": "2029-12-31",
         "municipalities": "Eslövs kommun",
         "regions": ""
     },
@@ -24050,12 +24060,12 @@
         "regions": "Jönköpings län"
     },
     {
-        "name": "Soft FM 90,2 Malmö",
+        "name": "Radio Topp40 90,2 Malmö",
         "type": "Närradio",
         "owner": "Malmö City Broadcasting",
         "publisher": "Joakim Forsell",
         "start": "2019-12-20",
-        "end": "2024-12-31",
+        "end": "2029-12-31",
         "municipalities": "Malmö kommun",
         "regions": ""
     },
@@ -24078,6 +24088,16 @@
         "end": "",
         "municipalities": "Malmö kommun",
         "regions": "Skåne län"
+    },
+    {
+        "name": "Malmölistan Radio",
+        "type": "Närradio",
+        "owner": "Malmölistan",
+        "publisher": "Nils Littorin",
+        "start": "2024-12-02",
+        "end": "2029-12-31",
+        "municipalities": "Malmö kommun",
+        "regions": ""
     },
     {
         "name": "Radio Maranata Stockholm",
@@ -24267,16 +24287,6 @@
         "start": "2022-01-14",
         "end": "2027-01-31",
         "municipalities": "Munkedals kommun",
-        "regions": ""
-    },
-    {
-        "name": "Musik för alla",
-        "type": "Närradio",
-        "owner": "Musik för alla",
-        "publisher": "Lennart Berglund",
-        "start": "2019-11-29",
-        "end": "2024-11-30",
-        "municipalities": "Sigtuna kommun",
         "regions": ""
     },
     {
@@ -24558,16 +24568,6 @@
         "end": "",
         "municipalities": "Orsa kommun",
         "regions": "Dalarnas län"
-    },
-    {
-        "name": "Radio Röd, Ovanåker",
-        "type": "Närradio",
-        "owner": "Ovanåkers Socialdemokratiska Arbetarekommun",
-        "publisher": "Hans Gradin",
-        "start": "1987-11-01",
-        "end": "",
-        "municipalities": "Ovanåkers kommun",
-        "regions": "Gävleborgs län"
     },
     {
         "name": "Radio Chakavak",
@@ -24860,6 +24860,16 @@
         "regions": ""
     },
     {
+        "name": "Public Retreat Radio",
+        "type": "Närradio",
+        "owner": "Public Retreat Radioförening",
+        "publisher": "Johanna Fager",
+        "start": "2024-12-09",
+        "end": "2029-12-31",
+        "municipalities": "Stockholms kommun",
+        "regions": "Stockholms län"
+    },
+    {
         "name": "RFSL - Malmö Gay Radio",
         "type": "Närradio",
         "owner": "RFSL Malmö",
@@ -25053,7 +25063,7 @@
         "name": "Radio Hope Classic",
         "type": "Närradio",
         "owner": "Radio Hope Classic",
-        "publisher": "Roland Grahn",
+        "publisher": "Jens Lunnergård",
         "start": "2020-05-14",
         "end": "2025-05-31",
         "municipalities": "Stockholms kommun",
@@ -25223,9 +25233,9 @@
         "name": "Radio wix",
         "type": "Närradio",
         "owner": "Radio Wix",
-        "publisher": "Sara Hammarhagen",
+        "publisher": "Jenny Elander Ek",
         "start": "2019-12-19",
-        "end": "2024-12-31",
+        "end": "2029-12-31",
         "municipalities": "Valdemarsviks kommun",
         "regions": ""
     },
@@ -26463,7 +26473,7 @@
         "name": "Örebro Närradio",
         "type": "Närradio",
         "owner": "Örebro Närradio",
-        "publisher": "Stefan Lundén",
+        "publisher": "Dan Zetterberg",
         "start": "1987-11-01",
         "end": "",
         "municipalities": "Örebro kommun",
@@ -30568,6 +30578,16 @@
         "end": "",
         "municipalities": "",
         "regions": ""
+    },
+    {
+        "name": "Swish for a wish",
+        "type": "Trådsändningar",
+        "owner": "Helsingborgs pastorat",
+        "publisher": "Kristian Lillö",
+        "start": "",
+        "end": "",
+        "municipalities": "INTERNET",
+        "regions": "INTERNET"
     },
     {
         "name": "Webb-tv-sändningar från Svenska kyrkan Helsingborg",
@@ -35520,6 +35540,16 @@
         "regions": "INTERNET"
     },
     {
+        "name": "MYHITS ROCK",
+        "type": "Trådsändningar",
+        "owner": "RAZ Media AB",
+        "publisher": "Ramon Zwartkruis",
+        "start": "",
+        "end": "",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "MyHits Dance",
         "type": "Trådsändningar",
         "owner": "RAZ Media AB",
@@ -35531,16 +35561,6 @@
     },
     {
         "name": "Raadio Duo Gold",
-        "type": "Trådsändningar",
-        "owner": "RAZ Media AB",
-        "publisher": "Ramon Zwartkruis",
-        "start": "",
-        "end": "",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "Raadio Duo Rock",
         "type": "Trådsändningar",
         "owner": "RAZ Media AB",
         "publisher": "Ramon Zwartkruis",
@@ -36373,7 +36393,7 @@
         "name": "Gudstjänst - Solberga pastorat",
         "type": "Trådsändningar",
         "owner": "Solberga pastorat",
-        "publisher": "Björn Gusmark",
+        "publisher": "Per Gustav Hanner",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -40483,7 +40503,7 @@
         "name": "Värnamo Alliansförsamlings webb-tv",
         "type": "Trådsändningar",
         "owner": "Värnamo Alliansförsamling",
-        "publisher": "Håkan Jonsson",
+        "publisher": "Gerd Petersson",
         "start": "",
         "end": "",
         "municipalities": "",
@@ -42880,6 +42900,16 @@
         "regions": ""
     },
     {
+        "name": "BooBladet, www.boobladet.se",
+        "type": "Utgivningsbevis",
+        "owner": "Boo socialdemokratiska förening",
+        "publisher": "Bertil Damberg",
+        "start": "2024-12-16",
+        "end": "2034-12-15",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "HittaMäklare.se, www.hittamaklare.se",
         "type": "Utgivningsbevis",
         "owner": "Booli Search Technologies AB",
@@ -43250,6 +43280,16 @@
         "regions": ""
     },
     {
+        "name": "Investera Mera, investeramera.se",
+        "type": "Utgivningsbevis",
+        "owner": "CashLeads Media AB",
+        "publisher": "Albin Kjellberg",
+        "start": "2024-12-16",
+        "end": "2034-12-15",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "acp.gdpr.eu",
         "type": "Utgivningsbevis",
         "owner": "Caveat AB",
@@ -43276,6 +43316,16 @@
         "publisher": "Cecilia Wik",
         "start": "2022-03-08",
         "end": "2032-03-07",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "VERTO, www.tidningenverto.se",
+        "type": "Utgivningsbevis",
+        "owner": "Centerpartiets Ungdomsförbund",
+        "publisher": "Olof Lundgren",
+        "start": "2024-12-10",
+        "end": "2034-12-09",
         "municipalities": "",
         "regions": ""
     },
@@ -44650,12 +44700,32 @@
         "regions": ""
     },
     {
+        "name": "elitefootball.com",
+        "type": "Utgivningsbevis",
+        "owner": "Everysport AB",
+        "publisher": "Johan Ejermark",
+        "start": "2024-12-18",
+        "end": "2034-12-17",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "formeldirekt.se",
         "type": "Utgivningsbevis",
         "owner": "Everysport AB",
         "publisher": "Ulf Bodin",
         "start": "2023-04-17",
         "end": "2033-04-16",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "hcdb.com",
+        "type": "Utgivningsbevis",
+        "owner": "Everysport AB",
+        "publisher": "Johan Ejermark",
+        "start": "2024-12-18",
+        "end": "2034-12-17",
         "municipalities": "",
         "regions": ""
     },
@@ -44812,7 +44882,7 @@
     {
         "name": "www.svenskakyrkan.se/falkoping",
         "type": "Utgivningsbevis",
-        "owner": "Falköpings pastorat",
+        "owner": "FalkĂ¶pings pastorat",
         "publisher": "Jonas Hagström",
         "start": "2018-12-06",
         "end": "2028-12-05",
@@ -45640,6 +45710,16 @@
         "regions": ""
     },
     {
+        "name": "kommentar.se",
+        "type": "Utgivningsbevis",
+        "owner": "Föreningen för tidskriften Kommentar",
+        "publisher": "Katarina Moberg",
+        "start": "2024-12-03",
+        "end": "2034-12-02",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "ruotsi.se, www.ruotsi.se",
         "type": "Utgivningsbevis",
         "owner": "Föreningen ruotsi.info",
@@ -46020,12 +46100,12 @@
         "regions": ""
     },
     {
-        "name": "contributormagazine, www.contributormagazine.com",
+        "name": "contributormagazine, contributormagazine.com",
         "type": "Utgivningsbevis",
-        "owner": "Group of Four",
+        "owner": "Group of Four AB",
         "publisher": "Antonia Nessen",
         "start": "2014-11-20",
-        "end": "2024-11-19",
+        "end": "2034-11-19",
         "municipalities": "",
         "regions": ""
     },
@@ -46190,16 +46270,6 @@
         "regions": ""
     },
     {
-        "name": "GU Play, play.gu.se",
-        "type": "Utgivningsbevis",
-        "owner": "Göteborgs universitet",
-        "publisher": "Erik Lundberg",
-        "start": "2018-11-21",
-        "end": "2028-11-20",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "NordMedia Network, nordmedianetwork.org",
         "type": "Utgivningsbevis",
         "owner": "Göteborgs universitet, Nordicom",
@@ -46236,6 +46306,16 @@
         "publisher": "Kristina Pettersson",
         "start": "2019-07-03",
         "end": "2029-07-02",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "GU Play, play.gu.se",
+        "type": "Utgivningsbevis",
+        "owner": "GĂ¶teborgs universitet",
+        "publisher": "Erik Lundberg",
+        "start": "2018-11-21",
+        "end": "2028-11-20",
         "municipalities": "",
         "regions": ""
     },
@@ -46586,6 +46666,16 @@
         "publisher": "Henrik Lundström",
         "start": "2006-11-10",
         "end": "2026-12-19",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "Kritik, www.kritik.nu",
+        "type": "Utgivningsbevis",
+        "owner": "Henrik Schedin",
+        "publisher": "Henrik Schedin",
+        "start": "2024-12-10",
+        "end": "2034-12-09",
         "municipalities": "",
         "regions": ""
     },
@@ -47376,6 +47466,16 @@
         "publisher": "Jens Nylander",
         "start": "2023-05-15",
         "end": "2033-05-14",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "www.keflingepost.com",
+        "type": "Utgivningsbevis",
+        "owner": "Jens Olof Grip företagen AB",
+        "publisher": "Jens Grip",
+        "start": "2024-12-02",
+        "end": "2034-12-01",
         "municipalities": "",
         "regions": ""
     },
@@ -48823,7 +48923,7 @@
         "name": "www.svenskakyrkan.se/luleastift",
         "type": "Utgivningsbevis",
         "owner": "Luleå stift",
-        "publisher": "Eva-Maria Karlsson",
+        "publisher": "Maria Henriksson",
         "start": "2018-12-06",
         "end": "2028-12-05",
         "municipalities": "",
@@ -49533,7 +49633,7 @@
         "name": "fempers.se",
         "type": "Utgivningsbevis",
         "owner": "Medieföretaget Fempers AB",
-        "publisher": "Anna-Klara Bratt",
+        "publisher": "Bella Frank",
         "start": "2021-06-01",
         "end": "2031-05-31",
         "municipalities": "",
@@ -50090,16 +50190,6 @@
         "regions": ""
     },
     {
-        "name": "www.svenskakyrkan.se/molndal",
-        "type": "Utgivningsbevis",
-        "owner": "Mölndals pastorat",
-        "publisher": "Carl Sjögren",
-        "start": "2018-12-06",
-        "end": "2028-12-05",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
         "name": "www.malarsalen.se",
         "type": "Utgivningsbevis",
         "owner": "Münchenbryggeriet AB",
@@ -50116,6 +50206,16 @@
         "publisher": "Fredrik Scharp",
         "start": "2018-08-16",
         "end": "2028-08-15",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
+        "name": "www.svenskakyrkan.se/molndal",
+        "type": "Utgivningsbevis",
+        "owner": "MĂ¶lndals pastorat",
+        "publisher": "Carl Sjögren",
+        "start": "2018-12-06",
+        "end": "2028-12-05",
         "municipalities": "",
         "regions": ""
     },
@@ -52000,6 +52100,16 @@
         "regions": ""
     },
     {
+        "name": "Reportrar utan gränser, www.reportrarutangranser.se",
+        "type": "Utgivningsbevis",
+        "owner": "Reportrar utan gränser Sverige",
+        "publisher": "Erik Larsson",
+        "start": "2024-12-19",
+        "end": "2034-12-18",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "Retriever Business, https://app.retriever- info.com/services/businessinfo/",
         "type": "Utgivningsbevis",
         "owner": "Retriever Sverige AB",
@@ -52710,9 +52820,9 @@
         "regions": ""
     },
     {
-        "name": "Själevad, Mo och Björna pastorat, www.svenskakyrkan.se/själevad",
+        "name": "SjĂ¤levad, Mo och BjĂ¶rna pastorat, www.svenskakyrkan.se/sjĂ¤levad",
         "type": "Utgivningsbevis",
-        "owner": "Själevad, Mo och Björna pastorat",
+        "owner": "SjĂ¤levad, Mo och BjĂ¶rna pastorat",
         "publisher": "Peter Persman",
         "start": "2018-12-06",
         "end": "2028-12-05",
@@ -53480,7 +53590,7 @@
         "regions": ""
     },
     {
-        "name": "Krim Advokatbyrå, www.krimadvokatbyra.se",
+        "name": "www.chefredaktören.se",
         "type": "Utgivningsbevis",
         "owner": "Stig Dahlström",
         "publisher": "Stig Dahlström",
@@ -53902,7 +54012,7 @@
     {
         "name": "www.forsvarsutbildarna.se",
         "type": "Utgivningsbevis",
-        "owner": "Svenska Försvarsutbildningsförbundet",
+        "owner": "Svenska FĂ¶rsvarsutbildningsfĂ¶rbundet",
         "publisher": "Kristoffer Bäckström",
         "start": "2018-11-20",
         "end": "2028-11-19",
@@ -54010,9 +54120,9 @@
         "regions": ""
     },
     {
-        "name": "Svenska Ridsportförbundet, ridsport.se",
+        "name": "Svenska RidsportfĂ¶rbundet, ridsport.se",
         "type": "Utgivningsbevis",
-        "owner": "Svenska Ridsportförbundet",
+        "owner": "Svenska RidsportfĂ¶rbundet",
         "publisher": "Annika Tjernström",
         "start": "2018-12-06",
         "end": "2028-12-05",
@@ -54636,16 +54746,6 @@
         "publisher": "Christin Nygren Sundvisson",
         "start": "2024-10-07",
         "end": "2034-10-06",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "www.transport.se/avdelningar/sydostrasverige",
-        "type": "Utgivningsbevis",
-        "owner": "Sydöstra Sveriges Transportarbetarefackförening, Transport Avd 51",
-        "publisher": "Benny Lundgren",
-        "start": "2010-09-28",
-        "end": "2030-04-27",
         "municipalities": "",
         "regions": ""
     },
@@ -56400,6 +56500,16 @@
         "regions": ""
     },
     {
+        "name": "vivavinomat.se",
+        "type": "Utgivningsbevis",
+        "owner": "Vinklubben i Norden AB",
+        "publisher": "Frida Franchell",
+        "start": "2021-05-24",
+        "end": "2031-05-23",
+        "municipalities": "",
+        "regions": ""
+    },
+    {
         "name": "vinliv.se",
         "type": "Utgivningsbevis",
         "owner": "Vinliv AB",
@@ -56456,16 +56566,6 @@
         "publisher": "Peter Bergström",
         "start": "2018-10-31",
         "end": "2028-10-30",
-        "municipalities": "",
-        "regions": ""
-    },
-    {
-        "name": "vivavinomat.se",
-        "type": "Utgivningsbevis",
-        "owner": "Viva Wine & Spirits AB",
-        "publisher": "Frida Franchell",
-        "start": "2021-05-24",
-        "end": "2031-05-23",
         "municipalities": "",
         "regions": ""
     },
